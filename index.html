@@ -44,6 +44,55 @@
     For more details:
     * https://docs.flutter.dev/platform-integration/web/initialization
   -->
+  <script>
+    function companionSpeakText(text, languageCode, preference) {
+      if (!window.speechSynthesis) {
+        alert("Speech output is not supported on this browser.");
+        return;
+      }
+
+      window.speechSynthesis.cancel();
+
+      const utterance = new SpeechSynthesisUtterance(text);
+      utterance.lang = languageCode;
+      utterance.rate = 0.92;
+      utterance.pitch = 1.0;
+
+      const voices = window.speechSynthesis.getVoices();
+
+      if (voices && voices.length > 0) {
+        const languageVoices = voices.filter(v =>
+          v.lang && v.lang.toLowerCase().startsWith(languageCode.toLowerCase().split("-")[0])
+        );
+
+        let selectedVoice = null;
+
+        if (preference === "female") {
+          selectedVoice = languageVoices.find(v =>
+            v.name.toLowerCase().includes("female") ||
+            v.name.toLowerCase().includes("woman") ||
+            v.name.toLowerCase().includes("samantha") ||
+            v.name.toLowerCase().includes("zira")
+          );
+        }
+
+        if (preference === "male") {
+          selectedVoice = languageVoices.find(v =>
+            v.name.toLowerCase().includes("male") ||
+            v.name.toLowerCase().includes("man") ||
+            v.name.toLowerCase().includes("david")
+          );
+        }
+
+        utterance.voice =
+          selectedVoice ||
+          languageVoices[0] ||
+          voices[0];
+      }
+
+      window.speechSynthesis.speak(utterance);
+    }
+  </script>
   <script src="flutter_bootstrap.js" async></script>
 </body>
 </html>
