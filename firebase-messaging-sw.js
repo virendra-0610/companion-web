@@ -10,21 +10,4 @@ firebase.initializeApp({
   appId: "1:912271580403:web:2b439e27daf3d82baf6b86"
 });
 
-const messaging = firebase.messaging();
-
-messaging.onBackgroundMessage((payload) => {
-  const notificationTitle =
-    payload.notification?.title || 'Companion';
-
-  const notificationOptions = {
-    body: payload.notification?.body || '',
-    icon: '/companion-web/icons/Icon-192.png',
-    badge: '/companion-web/icons/Icon-192.png',
-    data: payload.data || {}
-  };
-
-  self.registration.showNotification(
-    notificationTitle,
-    notificationOptions
-  );
-});
+firebase.messaging();

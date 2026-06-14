@@ -49216,7 +49216,7 @@ G(a){var s=null
 return A.ay(this.c,s,s,s,B.nC,s,s,s)}}
 A.Y5.prototype={
 G(a){var s=null,r=B.f.b_(0.12),q=A.bN(18),p=t.p
-return new A.dt(A.bG(A.b([A.bO(s,A.f1(B.L1,B.f,s,28),B.n,s,s,new A.bB(r,s,s,q,s,s,B.J),s,52,s,s,s,s,52),B.d4,A.bv(A.bm(A.b([A.ay("About Companion",s,s,s,B.dX,s,s,s),B.c4,A.ay("Version 1.1.2",s,s,s,B.c7,s,s,s)],p),B.M,s,B.k,B.m,0,B.t),1)],p),B.p,B.k,B.m,0,s),s)}}
+return new A.dt(A.bG(A.b([A.bO(s,A.f1(B.L1,B.f,s,28),B.n,s,s,new A.bB(r,s,s,q,s,s,B.J),s,52,s,s,s,s,52),B.d4,A.bv(A.bm(A.b([A.ay("About Companion",s,s,s,B.dX,s,s,s),B.c4,A.ay("Version 1.1.3",s,s,s,B.c7,s,s,s)],p),B.M,s,B.k,B.m,0,B.t),1)],p),B.p,B.k,B.m,0,s),s)}}
 A.Xg.prototype={
 G(a){var s=null,r=this.c,q=t.p
 return new A.dt(A.bG(A.b([A.bO(s,B.LK,B.n,s,s,new A.bB(B.f.b_(0.12),s,s,A.bN(18),s,s,B.J),s,52,s,s,s,s,52),B.d4,A.bv(A.bm(A.b([A.ay(r.a,s,s,s,B.dX,s,s,s),B.c4,A.ay(r.b,s,s,s,B.c7,s,s,s)],q),B.M,s,B.k,B.m,0,B.t),1),A.eu(s,s,B.LQ,s,s,this.d,s,s,s)],q),B.p,B.k,B.m,0,s),s)}}
