@@ -1,11 +1,12 @@
 {
     "name": "companion",
     "short_name": "companion",
-    "start_url": ".",
+    "start_url": "/companion-web/",
+    "scope": "/companion-web/",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Companion Latvia relocation assistant",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
