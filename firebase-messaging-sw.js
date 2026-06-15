@@ -13,18 +13,16 @@ firebase.initializeApp({
 const messaging = firebase.messaging();
 
 messaging.onBackgroundMessage((payload) => {
+  if (payload.notification) {
+    return;
+  }
+
   const data = payload.data || {};
 
-  const title = data.title || 'Companion';
-  const body = data.body || '';
-
-  self.registration.showNotification(title, {
-    body,
+  self.registration.showNotification(data.title || 'Companion', {
+    body: data.body || '',
     icon: '/companion-web/icons/Icon-192.png',
     badge: '/companion-web/icons/Icon-192.png',
-    data: {
-      url: 'https://virendra-0610.github.io/companion-web/',
-      ...data,
-    },
+    data,
   });
 });
