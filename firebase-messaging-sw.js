@@ -14,20 +14,28 @@ const messaging = firebase.messaging();
 
 messaging.onBackgroundMessage((payload) => {
   const data = payload.data || {};
-  const notification = payload.notification || {};
 
-  const title = notification.title || data.title || 'Companion';
-  const body = notification.body || data.body || '';
+  // IMPORTANT:
+  // If FCM receives a message with a `notification` payload, the browser/FCM
+  // already displays it. Calling showNotification again creates duplicates.
+  // Firebase Console test messages and our backend notification messages use
+  // the notification payload, so return here.
+  if (payload.notification) {
+    console.log('[firebase-messaging-sw.js] Notification payload received. FCM will display it.');
+    return;
+  }
 
-  // One controlled notification display path for background PWA messages.
-  // Backend messages include both notification and data fields; this handler
-  // still shows exactly one notification on Safari/iOS PWA.
+  // Data-only fallback. This path is used only if a backend sends data-only
+  // messages in future.
+  const title = data.title || 'Companion';
+  const body = data.body || '';
+
   self.registration.showNotification(title, {
     body,
     icon: '/companion-web/icons/Icon-192.png',
     badge: '/companion-web/icons/Icon-192.png',
     data: {
-      url: 'https://virendra-0610.github.io/companion-web/',
+      url: data.url || 'https://virendra-0610.github.io/companion-web/',
       ...data,
     },
   });
