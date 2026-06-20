@@ -13,14 +13,17 @@ firebase.initializeApp({
 const messaging = firebase.messaging();
 
 messaging.onBackgroundMessage((payload) => {
-  if (payload.notification) {
-    return;
-  }
-
   const data = payload.data || {};
+  const notification = payload.notification || {};
 
-  self.registration.showNotification(data.title || 'Companion', {
-    body: data.body || '',
+  const title = notification.title || data.title || 'Companion';
+  const body = notification.body || data.body || '';
+
+  // One controlled notification display path for background PWA messages.
+  // Backend messages include both notification and data fields; this handler
+  // still shows exactly one notification on Safari/iOS PWA.
+  self.registration.showNotification(title, {
+    body,
     icon: '/companion-web/icons/Icon-192.png',
     badge: '/companion-web/icons/Icon-192.png',
     data: {
@@ -33,7 +36,8 @@ messaging.onBackgroundMessage((payload) => {
 self.addEventListener('notificationclick', (event) => {
   event.notification.close();
 
-  const targetUrl = event.notification.data?.url ||
+  const targetUrl =
+    event.notification.data?.url ||
     'https://virendra-0610.github.io/companion-web/';
 
   event.waitUntil(
@@ -47,6 +51,8 @@ self.addEventListener('notificationclick', (event) => {
       if (clients.openWindow) {
         return clients.openWindow(targetUrl);
       }
+
+      return undefined;
     })
   );
 });
