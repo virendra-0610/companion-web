@@ -50699,7 +50699,7 @@ D(a){var s=null
 return A.ae(this.c,s,s,s,B.a7f,s,s,s)}}
 A.Zs.prototype={
 D(a){var s=null,r=B.e.ao(0.12),q=A.bf(18),p=t.p
-return new A.dn(A.bc(A.b([A.bn(s,A.dZ(B.Nr,B.e,s,28),B.n,s,s,new A.b4(r,s,s,q,s,s,B.E),s,52,s,s,s,s,52),B.cC,A.bj(A.b8(A.b([A.ae("About Companion",s,s,s,B.dm,s,s,s),B.bO,A.ae("Version 1.1.3",s,s,s,B.cF,s,s,s)],p),B.H,s,B.k,B.l,0,B.r),1)],p),B.o,B.k,B.l,0,s),s)}}
+return new A.dn(A.bc(A.b([A.bn(s,A.dZ(B.Nr,B.e,s,28),B.n,s,s,new A.b4(r,s,s,q,s,s,B.E),s,52,s,s,s,s,52),B.cC,A.bj(A.b8(A.b([A.ae("About Companion",s,s,s,B.dm,s,s,s),B.bO,A.ae("Version 1.1.5",s,s,s,B.cF,s,s,s)],p),B.H,s,B.k,B.l,0,B.r),1)],p),B.o,B.k,B.l,0,s),s)}}
 A.YC.prototype={
 D(a){var s=null,r=this.c,q=t.p
 return new A.dn(A.bc(A.b([A.bn(s,B.Oj,B.n,s,s,new A.b4(B.e.ao(0.12),s,s,A.bf(18),s,s,B.E),s,52,s,s,s,s,52),B.cC,A.bj(A.b8(A.b([A.ae(r.a,s,s,s,B.dm,s,s,s),B.bO,A.ae(r.b,s,s,s,B.cF,s,s,s)],q),B.H,s,B.k,B.l,0,B.r),1),A.ep(s,s,B.Oq,s,s,this.d,s,s,s)],q),B.o,B.k,B.l,0,s),s)}}
