@@ -52836,7 +52836,7 @@ case 1:return A.n(q,r)}})
 return A.o($async$zE,r)},
 BS(){var s=0,r=A.p(t.T),q,p=this
 var $async$BS=A.q(function(a,b){if(a===1)return A.m(b,r)
-for(;;)switch(s){case 0:q=p.a.gBN().i4("/companion-web/firebase-messaging-sw.js","BI3QvhoZO-_qt1moRj1XGJ9sCe8R4ds5Svdk5rNxz8ov_ltiH5ymLPvXNceVBnpis-tXKIx6gs23zLTrv5hdQbk").p7(B.qT,new A.alr())
+for(;;)switch(s){case 0:q=p.a.gBN().i4("/firebase-messaging-sw.js","BI3QvhoZO-_qt1moRj1XGJ9sCe8R4ds5Svdk5rNxz8ov_ltiH5ymLPvXNceVBnpis-tXKIx6gs23zLTrv5hdQbk").p7(B.qT,new A.alr())
 s=1
 break
 case 1:return A.n(q,r)}})
