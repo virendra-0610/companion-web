@@ -29,6 +29,32 @@
       ]
     },
     {
+      "source": "/companion-web/firebase-messaging-sw.js",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-cache, no-store, must-revalidate"
+        },
+        {
+          "key": "Content-Type",
+          "value": "application/javascript"
+        }
+      ]
+    },
+    {
+      "source": "/companion-web/firebase.messaging-sw.js",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-cache, no-store, must-revalidate"
+        },
+        {
+          "key": "Content-Type",
+          "value": "application/javascript"
+        }
+      ]
+    },
+    {
       "source": "/flutter_service_worker.js",
       "headers": [
         {
@@ -62,7 +88,7 @@
   ],
   "rewrites": [
     {
-      "source": "/((?!firebase-messaging-sw.js|firebase.messaging-sw.js|flutter_service_worker.js|manifest.json|assets|icons|canvaskit|favicon.png).*)",
+      "source": "/((?!firebase-messaging-sw.js|firebase.messaging-sw.js|companion-web/firebase-messaging-sw.js|companion-web/firebase.messaging-sw.js|flutter_service_worker.js|manifest.json|assets|icons|canvaskit|favicon.png).*)",
       "destination": "/index.html"
     }
   ]
