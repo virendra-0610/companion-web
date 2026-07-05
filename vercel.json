@@ -88,8 +88,17 @@
   ],
   "rewrites": [
     {
-      "source": "/((?!firebase-messaging-sw.js|firebase.messaging-sw.js|companion-web/firebase-messaging-sw.js|companion-web/firebase.messaging-sw.js|flutter_service_worker.js|manifest.json|assets|icons|canvaskit|favicon.png).*)",
+      "source": "/companion-web/firebase-messaging-sw.js",
+      "destination": "/firebase-messaging-sw.js"
+    },
+    {
+      "source": "/companion-web/firebase.messaging-sw.js",
+      "destination": "/firebase.messaging-sw.js"
+    },
+    {
+      "source": "/((?!firebase-messaging-sw.js|firebase.messaging-sw.js|flutter_service_worker.js|manifest.json|assets|icons|canvaskit|favicon.png).*)",
       "destination": "/index.html"
     }
   ]
 }
+
