@@ -52266,7 +52266,7 @@ A.azA.prototype={
 $0(){return this.a.auS(this.b)},
 $S:0}
 A.a_V.prototype={
-C(a){return A.auE(B.c0,B.tq,null,"Version 1.3.9",2,"Companion for Ankita",null)}}
+C(a){return A.auE(B.c0,B.tq,null,"Version 1.4.0",2,"Companion for Ankita",null)}}
 A.MU.prototype={
 a1(){return new A.MV()}}
 A.MV.prototype={
