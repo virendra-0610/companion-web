@@ -9257,6 +9257,7 @@ if(a>=45&&a<=48)return"assets/weather_scenes/fog.jpg"
 if(!(a>=51&&a<=67))s=a>=80&&a<=82||b>=60
 else s=!0
 if(s)return"assets/weather_scenes/rain.jpg"
+if(c>=35)return"assets/weather_scenes/hot.jpg"
 if(a>=1&&a<=3)return"assets/weather_scenes/cloud.jpg"
 return"assets/weather_scenes/sunny.jpg"},
 bbx(a){var s=a.Q
@@ -52854,7 +52855,7 @@ A.azR.prototype={
 $0(){return this.a.ava(this.b)},
 $S:0}
 A.a03.prototype={
-C(a){return A.auU(B.bB,B.ng,null,"Version 1.5.2-v35",2,"Companion for Ankita",null)}}
+C(a){return A.auU(B.bB,B.ng,null,"Version 1.5.3-v36",2,"Companion for Ankita",null)}}
 A.N2.prototype={
 a0(){return new A.N3()}}
 A.N3.prototype={
