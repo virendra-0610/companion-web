@@ -1,14 +1,14 @@
 {
   "name": "Companion",
   "short_name": "Companion",
-  "description": "Weather • Places • Care",
+  "description": "Weather \u2022 Places \u2022 Care",
   "start_url": "/",
   "scope": "/",
   "id": "/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#050816",
-  "theme_color": "#071A2F",
+  "background_color": "#020617",
+  "theme_color": "#071B3D",
   "prefer_related_applications": false,
   "icons": [
     {
