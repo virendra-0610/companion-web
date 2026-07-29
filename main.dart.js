@@ -51519,7 +51519,7 @@ if(o<0.58)s="PREPARING YOUR DAY"
 else s=o<0.76?"SYNCING YOUR COMPANION":"READY"
 r=B.f.E(0.12)
 q=A.ag(999)
-return A.am(A.b([A.az(p,new A.FF(3,B.d.bt((o-0.42)/0.44,0,1),B.t,p,B.IF,p,p,p),B.aX,p,p,new A.ac(r,p,p,q,p,p,B.q),p,3,p,p,p,p,126),B.a6,A.QU(A.P(s,new A.cY(s,t.kK),p,p,p,B.ajH,p,p,p),B.n6,A.a9M(),B.a0,B.a0,A.aSI()),B.bu,B.amY],t.p),B.o,B.i,B.j,0,B.n)}}
+return A.am(A.b([A.az(p,new A.FF(3,B.d.bt((o-0.42)/0.44,0,1),B.t,p,B.IF,p,p,p),B.aX,p,p,new A.ac(r,p,p,q,p,p,B.q),p,3,p,p,p,p,126),B.a6,A.QU(A.P(s,new A.cY(s,t.kK),p,p,p,B.ajH,p,p,p),B.n6,A.a9M(),B.a0,B.a0,A.aSI()),B.bu,B.alM],t.p),B.o,B.i,B.j,0,B.n)}}
 A.a6x.prototype={
 aA(a,b){var s,r,q,p,o,n=this,m=null,l=b.a,k=b.b,j=new A.x(0,0,0+l,0+k),i=n.b,h=i*3.141592653589793,g=0.5+0.5*Math.sin(h*1.7),f=Math.sin(h*2.2+1.4),e=A.I(B.d1,B.Om,B.d.bt(g,0,1))
 e.toString
@@ -52246,7 +52246,7 @@ j=A.jn(0,A.e1(l,l,l,new A.a_0(j,l),B.P))
 o=B.f.E(0.13)
 n=A.ag(16)
 m=t.p
-n=A.aF(A.b([A.az(l,B.XN,B.l,l,l,new A.ac(o,l,A.bu(B.f.E(0.14),1),n,l,l,B.q),l,46,l,l,l,l,46),B.ba,A.aR(A.am(A.b([B.amB,B.b0,A.P(k.a.c,l,2,B.F,l,B.ajq,l,l,l)],m),B.r,B.i,B.j,0,B.n),1)],m),B.o,B.i,B.j,0,l)
+n=A.aF(A.b([A.az(l,B.XN,B.l,l,l,new A.ac(o,l,A.bu(B.f.E(0.14),1),n,l,l,B.q),l,46,l,l,l,l,46),B.ba,A.aR(A.am(A.b([B.amC,B.b0,A.P(k.a.c,l,2,B.F,l,B.ajq,l,l,l)],m),B.r,B.i,B.j,0,B.n),1)],m),B.o,B.i,B.j,0,l)
 o=A.P(k.a.d,l,l,l,l,A.d8(l,l,B.f.E(0.86),l,l,l,l,l,l,l,l,13.4,l,l,B.aj,l,1.45,!0,l,l,l,l,l,l,l,l),l,l,l)
 k=k.a
 return A.az(l,A.e6(B.aV,A.b([q,j,new A.aw(B.TQ,A.am(A.b([n,B.bh,o,B.adP,A.Aj(A.b([new A.K0(B.VR,k.e,l),new A.K0(B.Wc,k.f,l)],m),8,8)],m),B.r,B.i,B.j,0,B.n),l)],m),B.x,B.aR,l),B.aX,l,l,new A.ac(l,l,r,s,p,B.Z5,B.q),l,l,l,l,l,l,1/0)},
@@ -52581,7 +52581,7 @@ return A.o($async$EA,r)},
 v(a){var s=this,r=null,q=s.d,p=B.c.av(q.a.a),o=A.a8(a,r,t.w).w,n=A.az(r,r,B.l,r,r,new A.ac(B.ct,r,r,A.ag(20),r,r,B.q),r,5,r,r,r,r,44),m=q.a.a.length===0?r:A.e4(r,r,B.WO,r,r,new A.aI4(s),r,r,r),l=B.f.E(0.08)
 m=A.b([n,B.az,B.Iv,B.bt,A.l8(r,B.bC,!0,r,!0,B.x,r,A.mV(),q,r,r,r,r,r,2,A.kM(r,new A.dm(4,A.ag(18),new A.aI(B.f.E(0.12),1,B.y,-1)),r,r,r,r,r,r,!0,new A.dm(4,A.ag(18),new A.aI(B.f.E(0.12),1,B.y,-1)),r,r,r,r,r,l,!0,r,r,r,r,new A.dm(4,A.ag(18),new A.aI(B.f.E(0.35),1,B.y,-1)),r,r,r,r,r,r,r,r,B.lj,"Search city, school, university, landmark",r,r,r,r,r,r,r,r,r,!0,!0,!1,r,B.ve,r,r,r,r,r,r,m,r,r,r,r,r),B.M,!0,r,!0,r,!1,r,B.bV,r,r,r,r,r,r,r,r,1,r,r,!1,"\u2022",r,s.gatm(),r,r,r,!1,r,r,!1,r,!0,r,B.be,r,r,r,r,r,r,r,r,r,r,r,B.b2,!0,B.ar,r,B.cB,r,r,r,r),B.bt],t.p)
 s.a.toString
-m.push(A.kQ(!1,B.T,r,r,!0,r,r,r,!0,r,B.WU,r,r,r,r,new A.aI5(s,a),!1,r,r,r,r,B.alU,r,B.amv,r,r))
+m.push(A.kQ(!1,B.T,r,r,!0,r,r,r,!0,r,B.WU,r,r,r,r,new A.aI5(s,a),!1,r,r,r,r,B.alV,r,B.amw,r,r))
 m.push(B.St)
 m.push(A.aR(new A.dF(new A.aI6(s,p.length!==0),r),1))
 return A.d7(!0,A.eh(!1,B.N,!0,B.mb,new A.ds(new A.a7(0,1/0,0,o.a.b*0.86),new A.aw(B.TU,A.am(m,B.o,B.i,B.a1,0,B.n),r),r),B.aX,B.aO,0,r,r,r,r,r,B.bQ),B.T,!0)}}
@@ -52664,7 +52664,7 @@ $0(){return this.a.f.$1(this.b)},
 $S:0}
 A.V2.prototype={
 v(a){var s,r=null,q=A.b0O(new A.b7(Date.now(),0,!1)),p=q.aBo(A.b0O(new A.b7(Date.now(),0,!1).mQ(864e8))),o=new A.agx(),n=o.aIQ(),m=A.b([B.f.E(0.34),B.a7l.E(0.18),B.t],t.O),l=A.bu(B.f.E(0.1),1),k=t.p
-m=A.aF(A.b([A.az(r,A.dg(A.P(q.e,r,r,r,r,B.ajK,r,r,r),r,r),B.l,r,r,new A.ac(r,r,l,r,r,new A.ex(B.G,0.5,B.Q,r,0,m,r,r),B.c7),r,46,r,r,r,r,46),B.ba,A.aR(A.am(A.b([B.ame,B.b0,A.P(q.d+" \xb7 "+q.f+"% visible",r,r,r,r,B.H0,r,r,r)],k),B.r,B.i,B.j,0,B.n),1)],k),B.o,B.i,B.j,0,r)
+m=A.aF(A.b([A.az(r,A.dg(A.P(q.e,r,r,r,r,B.ajK,r,r,r),r,r),B.l,r,r,new A.ac(r,r,l,r,r,new A.ex(B.G,0.5,B.Q,r,0,m,r,r),B.c7),r,46,r,r,r,r,46),B.ba,A.aR(A.am(A.b([B.amf,B.b0,A.P(q.d+" \xb7 "+q.f+"% visible",r,r,r,r,B.H0,r,r,r)],k),B.r,B.i,B.j,0,B.n),1)],k),B.o,B.i,B.j,0,r)
 l=A.P(q.a+" Paksha "+q.b,r,2,B.lc,r,B.ai_,r,r,r)
 s=p.d?B.B3:B.v
 s=A.b([m,B.a6,l,B.a6,new A.a_q(p.c,p.a,p.b,s,r)],k)
@@ -52769,7 +52769,7 @@ m=s.length===0?m:B.b.ga3(s)
 r=s.length>1?A.dZ(s,1,o,A.Y(s).c).aU(0,", "):B.c.av(n.d)
 q=s.length>1&&B.c.av(n.d).length!==0?B.c.av(n.d):""
 l=t.p
-p=A.b([A.aF(A.b([A.az(o,o,B.l,o,o,B.JQ,o,8,o,o,o,o,8),B.cz,B.am0],l),B.o,B.i,B.j,0,o),B.Go,A.P(m,o,1,B.F,o,B.ajN,o,o,o)],l)
+p=A.b([A.aF(A.b([A.az(o,o,B.l,o,o,B.JQ,o,8,o,o,o,o,8),B.cz,B.am1],l),B.o,B.i,B.j,0,o),B.Go,A.P(m,o,1,B.F,o,B.ajN,o,o,o)],l)
 if(r.length!==0)B.b.N(p,A.b([B.bU,A.P(r,o,1,B.F,o,A.d8(o,o,B.f.E(0.82),o,o,o,o,o,o,o,o,15,o,o,B.ah,o,1.05,!0,o,o,o,o,o,o,o,o),o,o,o)],l))
 if(q.length!==0)B.b.N(p,A.b([B.b0,A.P(q,o,1,B.F,o,B.q1,o,o,o)],l))
 return A.aF(A.b([A.aR(A.am(p,B.r,B.i,B.j,0,B.n),1),B.h0,new A.ZN(n.dx,n.dy,n.fr,o)],l),B.r,B.i,B.j,0,o)}}
@@ -52789,7 +52789,7 @@ q=A.bu(B.f.E(0.22),1)
 p=A.az(m,m,B.l,m,m,new A.ac(s,m,m,m,m,m,B.c7),m,7,m,m,m,m,7)
 o=this.c
 n=t.p
-return new A.ds(B.JI,A.az(m,A.am(A.b([A.aF(A.b([p,B.eV,A.P(o<=0?"--":""+o,m,m,m,m,B.GY,m,m,m)],n),B.o,B.i,B.j,0,m),B.alO,A.P(this.d,m,m,m,m,B.agD,m,m,m)],n),B.d5,B.i,B.j,0,B.n),B.l,m,m,new A.ac(l,m,q,r,m,m,B.q),m,m,m,B.Tk,m,m,m),m)}}
+return new A.ds(B.JI,A.az(m,A.am(A.b([A.aF(A.b([p,B.eV,A.P(o<=0?"--":""+o,m,m,m,m,B.GY,m,m,m)],n),B.o,B.i,B.j,0,m),B.alP,A.P(this.d,m,m,m,m,B.agD,m,m,m)],n),B.d5,B.i,B.j,0,B.n),B.l,m,m,new A.ac(l,m,q,r,m,m,B.q),m,m,m,B.Tk,m,m,m),m)}}
 A.a0h.prototype={
 v(a){var s=null,r=this.c,q=B.d.au(r.w),p=t.p
 return A.aF(A.b([A.aR(A.am(A.b([A.b_w(B.bK,A.P(""+q+"\xb0",s,s,s,s,A.d8(s,s,B.f,s,s,s,s,s,s,s,s,this.d?72:86,s,s,B.k2,s,0.82,!0,s,-4,s,s,s,s,s,s),s,s,s),B.me),B.adO,A.aF(A.b([A.c3(A.b51(r.r),B.f,s,22),B.cz,new A.eK(1,B.bq,A.P(r.db,s,1,B.F,s,B.H7,s,s,s),s)],p),B.o,B.i,B.j,0,s),B.dJ,A.Aj(A.b([A.P("Feels "+B.d.au(r.x)+"\xb0",s,s,s,s,B.ahG,s,s,s),A.P("H "+B.d.au(r.y)+"\xb0",s,s,s,s,B.lk,s,s,s),A.P("L "+B.d.au(r.z)+"\xb0",s,s,s,s,B.lk,s,s,s)],p),5,12)],p),B.r,B.i,B.j,0,B.n),1),B.bs,A.am(A.b([new A.O7(B.uN,"Sunrise",r.cx,s),B.Go,new A.O7(B.uM,"Sunset",r.cy,s)],p),B.d5,B.i,B.j,0,B.n)],p),B.d5,B.i,B.j,0,s)}}
@@ -52931,7 +52931,7 @@ if(o.length!==0)l.push(A.P(o,s,1,B.F,s,B.aiB,s,s,s))
 return A.az(s,A.aF(A.b([n,B.l7,A.aR(A.am(l,B.r,B.i,B.j,0,B.n),1)],m),B.o,B.i,B.j,0,s),B.l,s,s,new A.ac(r,s,p,q,s,s,B.q),s,s,s,B.nd,s,s,s)}}
 A.a1P.prototype={
 v(a){var s,r,q,p=this.c,o=A.dZ(p,0,A.fo(7,"count",t.S),A.Y(p).c).eX(0,!1)
-if(o.length===0)return B.amS
+if(o.length===0)return B.amT
 p=t.p
 s=A.b([B.a9b,B.a6],p)
 for(r=0;r<o.length;++r){q=A.b([new A.a1Q(o[r],r===0,null)],p)
@@ -53314,13 +53314,13 @@ return A.f(q.fA(),$async$yl)
 case 3:return A.n(null,r)}})
 return A.o($async$yl,r)},
 v(a){var s,r=this,q=null,p=r.gRN(),o=A.dZ(p,0,A.fo(3,"count",t.S),A.Y(p).c).eb(0),n=A.az(q,B.X7,B.l,q,q,new A.ac(B.f.E(0.12),q,q,A.ag(16),q,q,B.q),q,38,q,q,q,q,38),m=t.p,l=r.gKq()
-n=A.b([A.aF(A.b([n,B.ba,A.aR(A.am(A.b([B.amD,A.P(r.f?"Loading tasks...":""+p.length+" remaining",q,q,q,q,B.Hd,q,q,q)],m),B.r,B.i,B.j,0,B.n),1),A.e4(q,q,B.va,q,q,l,q,q,q)],m),B.o,B.i,B.j,0,q),B.bt],m)
+n=A.b([A.aF(A.b([n,B.ba,A.aR(A.am(A.b([B.amE,A.P(r.f?"Loading tasks...":""+p.length+" remaining",q,q,q,q,B.Hd,q,q,q)],m),B.r,B.i,B.j,0,B.n),1),A.e4(q,q,B.va,q,q,l,q,q,q)],m),B.o,B.i,B.j,0,q),B.bt],m)
 if(r.f)n.push(B.LT)
-else if(o.length===0)n.push(A.az(q,B.am5,B.l,q,q,new A.ac(B.f.E(0.06),q,q,A.ag(18),q,q,B.q),q,q,q,B.dY,q,q,1/0))
+else if(o.length===0)n.push(A.az(q,B.am6,B.l,q,q,new A.ac(B.f.E(0.06),q,q,A.ag(18),q,q,B.q),q,q,q,B.dY,q,q,1/0))
 else{s=A.Y(o).i("T<1,vM>")
 s=A.Q(new A.T(o,new A.aPU(r),s),s.i("aa.E"))
 n.push(A.am(s,B.o,B.i,B.j,0,B.n))}n.push(B.a6)
-n.push(A.aF(A.b([A.b2c(B.Xr,B.am7,l),B.eW,A.kd(B.amK,r.gatM(),q)],m),B.o,B.i,B.j,0,q))
+n.push(A.aF(A.b([A.b2c(B.Xr,B.am8,l),B.eW,A.kd(B.amL,r.gatM(),q)],m),B.o,B.i,B.j,0,q))
 return A.hT(32,A.am(n,B.r,B.i,B.j,0,B.n),q,B.dZ)}}
 A.aPO.prototype={
 $0(){var s=this.a
@@ -53447,7 +53447,7 @@ if(o.length===0)s.push(B.arK)
 else B.b.N(s,new A.T(o,new A.aQ5(q),A.Y(o).i("T<1,c>")))
 s.push(B.di)
 r=A.b([A.aR(new A.NF("Completed",n.length,p),1)],k)
-if(n.length!==0)r.push(A.kd(B.amG,q.gaiH(),p))
+if(n.length!==0)r.push(A.kd(B.amH,q.gaiH(),p))
 s.push(A.aF(r,B.o,B.i,B.j,0,p))
 s.push(B.bu)
 if(n.length===0)s.push(B.arL)
@@ -53596,7 +53596,7 @@ if(n==null){s=1
 break}A.hp(B.aO,null,new A.aQu(p,o),n,!0,B.cT,null,t.z)
 case 1:return A.n(q,r)}})
 return A.o($async$EM,r)},
-v(a){var s,r,q,p,o=this,n=null,m=A.aUl(B.WS,n,B.amb,n,o.gaxC(),n,n),l=t.p
+v(a){var s,r,q,p,o=this,n=null,m=A.aUl(B.WS,n,B.amc,n,o.gaxC(),n,n),l=t.p
 m=A.aF(A.b([m,B.bs,A.aUl(B.XJ,n,A.P(o.x?"EN \u2192 LV":"LV \u2192 EN",n,n,n,n,n,n,n,n),n,o.gayb(),n,n)],l),B.o,B.i,B.j,0,n)
 s=o.x?"Type English text":"Type Latvian text"
 r=B.f.E(0.08)
@@ -53939,7 +53939,7 @@ q=A.aF(A.b([A.az(m,B.XP,B.l,m,m,new A.ac(B.fm.E(0.18),m,m,A.ag(15),m,m,B.q),m,m,
 l=A.aF(A.b([A.aR(new A.Kp("Selected city",l.b,new A.aC5(l,b,j),m),1),B.cz,A.aR(new A.Kp("App context",l.a,new A.aC6(l,b,j),m),1)],r),B.o,B.i,B.j,0,m)
 p=B.f.E(0.065)
 o=n.e
-return A.d7(!0,new A.aw(new A.a2(18,12,18,18+h.f.d),A.bJ(A.am(A.b([s,B.bh,q,B.bu,B.alW,B.a6,l,B.a6,A.aR(A.l8(m,B.bC,!1,m,!0,B.x,m,A.mV(),k,m,m,m,m,m,2,A.kM(m,new A.dm(4,A.ag(18),new A.aI(B.f.E(0.12),1,B.y,-1)),m,B.TB,m,m,m,m,!0,new A.dm(4,A.ag(18),new A.aI(B.f.E(0.12),1,B.y,-1)),m,m,m,m,m,p,!0,m,m,m,m,new A.dm(4,A.ag(18),B.Ju),m,m,m,m,m,m,m,m,B.ll,"Optimized prompt",m,m,m,m,m,m,m,m,m,!0,!0,!1,m,m,m,m,m,m,m,m,m,m,m,m,m,m),B.M,!0,m,!0,m,!0,m,B.bV,m,m,m,m,m,m,m,m,m,m,m,!1,"\u2022",m,m,m,m,m,!1,m,m,!1,m,!0,m,B.be,m,m,m,m,m,m,m,m,m,m,m,B.aiO,!0,B.ar,B.iP,B.cB,m,m,m,m),1),B.a6,A.aF(A.b([A.aVq(B.v9,new A.aC7(b,j),"Reset optimized prompt"),B.cz,A.aR(A.aVP(B.Xi,B.alX,new A.aC8(o)),1),B.cz,A.aR(A.EG(B.XR,B.alD,new A.aC9(o)),1)],r),B.o,B.i,B.j,0,m)],r),B.r,B.i,B.j,0,B.n),i.a.b*0.86,m),m),B.T,!1)},
+return A.d7(!0,new A.aw(new A.a2(18,12,18,18+h.f.d),A.bJ(A.am(A.b([s,B.bh,q,B.bu,B.alX,B.a6,l,B.a6,A.aR(A.l8(m,B.bC,!1,m,!0,B.x,m,A.mV(),k,m,m,m,m,m,2,A.kM(m,new A.dm(4,A.ag(18),new A.aI(B.f.E(0.12),1,B.y,-1)),m,B.TB,m,m,m,m,!0,new A.dm(4,A.ag(18),new A.aI(B.f.E(0.12),1,B.y,-1)),m,m,m,m,m,p,!0,m,m,m,m,new A.dm(4,A.ag(18),B.Ju),m,m,m,m,m,m,m,m,B.ll,"Optimized prompt",m,m,m,m,m,m,m,m,m,!0,!0,!1,m,m,m,m,m,m,m,m,m,m,m,m,m,m),B.M,!0,m,!0,m,!0,m,B.bV,m,m,m,m,m,m,m,m,m,m,m,!1,"\u2022",m,m,m,m,m,!1,m,m,!1,m,!0,m,B.be,m,m,m,m,m,m,m,m,m,m,m,B.aiO,!0,B.ar,B.iP,B.cB,m,m,m,m),1),B.a6,A.aF(A.b([A.aVq(B.v9,new A.aC7(b,j),"Reset optimized prompt"),B.cz,A.aR(A.aVP(B.Xi,B.alY,new A.aC8(o)),1),B.cz,A.aR(A.EG(B.XR,B.alD,new A.aC9(o)),1)],r),B.o,B.i,B.j,0,m)],r),B.r,B.i,B.j,0,B.n),i.a.b*0.86,m),m),B.T,!1)},
 $S:421}
 A.aCb.prototype={
 $0(){var s=this,r=s.a,q=r.b,p=s.b.Ld(s.c,r.a,q)
@@ -54019,7 +54019,7 @@ q=A.bu(B.f.E(0.14),1)
 p=n.d
 p===$&&A.a()
 o=t.p
-return A.az(m,A.e6(B.aV,A.b([A.jn(0,A.ep(p,new A.azy(n),m)),new A.aw(B.be,A.aF(A.b([A.ep(p,new A.azz(n),A.az(m,B.WQ,B.l,m,m,new A.ac(m,m,m,m,A.b([new A.bv(0,B.S,B.mq.E(0.38),B.k,28)],t.V),B.aai,B.c7),m,82,m,m,m,m,82)),B.adJ,A.aR(A.am(A.b([B.amH,B.dJ,A.P("Using "+n.a.c+" as your current context.",m,2,B.F,m,B.q_,m,m,m)],o),B.r,B.c0,B.j,0,B.n),1)],o),B.o,B.i,B.j,0,m),m)],o),B.x,B.aR,m),B.l,m,m,new A.ac(m,m,q,s,m,new A.cf(B.aF,B.bi,B.Q,r,m,m),B.q),m,156,m,m,m,m,m)}}
+return A.az(m,A.e6(B.aV,A.b([A.jn(0,A.ep(p,new A.azy(n),m)),new A.aw(B.be,A.aF(A.b([A.ep(p,new A.azz(n),A.az(m,B.WQ,B.l,m,m,new A.ac(m,m,m,m,A.b([new A.bv(0,B.S,B.mq.E(0.38),B.k,28)],t.V),B.aai,B.c7),m,82,m,m,m,m,82)),B.adJ,A.aR(A.am(A.b([B.amI,B.dJ,A.P("Using "+n.a.c+" as your current context.",m,2,B.F,m,B.q_,m,m,m)],o),B.r,B.c0,B.j,0,B.n),1)],o),B.o,B.i,B.j,0,m),m)],o),B.x,B.aR,m),B.l,m,m,new A.ac(m,m,q,s,m,new A.cf(B.aF,B.bi,B.Q,r,m,m),B.q),m,156,m,m,m,m,m)}}
 A.azy.prototype={
 $2(a,b){var s=null,r=this.a.d
 r===$&&A.a()
@@ -54310,7 +54310,7 @@ return new A.aw(B.na,new A.Bp(a,s.u1(a.a),s.a.e,s.e,null),null)},
 $S:136}
 A.a0N.prototype={
 v(a){var s=null
-return A.am(A.b([B.alS,B.bU,A.P("Useful places near "+this.c,s,2,B.F,s,B.q2,s,s,s)],t.p),B.r,B.i,B.j,0,B.n)}}
+return A.am(A.b([B.alT,B.bU,A.P("Useful places near "+this.c,s,2,B.F,s,B.q2,s,s,s)],t.p),B.r,B.i,B.j,0,B.n)}}
 A.a5S.prototype={
 v(a){var s=null,r=B.f.E(0.08),q=A.ag(22),p=A.bu(B.f.E(0.13),1)
 return A.dj(B.an,A.az(s,A.aF(B.a0F,B.o,B.i,B.j,0,s),B.l,s,s,new A.ac(r,s,p,q,s,s,B.q),s,50,s,B.tU,s,s,s),B.M,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,this.c,s,s,s,s,s,s)}}
@@ -54649,7 +54649,7 @@ return A.o($async$tQ,r)},
 gamO(){var s,r,q=A.B(t.S,t.MV)
 for(s=J.bN(this.d);s.B();){r=s.gO()
 J.e0(q.c3(A.bs(r.e),new A.aIx()),r)}return q},
-v(a){var s,r,q,p,o,n,m,l=this,k=null,j=A.QX(k,k,k,!0,!0,B.t,k,1,k,k,0,!1,k,!1,B.f,k,k,k,!0,k,k,k,k,k,B.amF,k,k,k,1,k,!0),i=$.p_().gmh()?A.b_y(B.X0,B.alF,new A.aID(l,a)):k
+v(a){var s,r,q,p,o,n,m,l=this,k=null,j=A.QX(k,k,k,!0,!0,B.t,k,1,k,k,0,!1,k,!1,B.f,k,k,k,!0,k,k,k,k,k,B.amG,k,k,k,1,k,!0),i=$.p_().gmh()?A.b_y(B.X0,B.alF,new A.aID(l,a)):k
 if(l.e)s=B.fh
 else{s=l.f
 if(s!=null)s=new A.a32(s,l.gasu(),k)
@@ -54726,7 +54726,7 @@ s=o.e
 s=A.b([A.P(o.c,p,p,p,p,B.q3,p,p,p),B.b0,A.P(""+A.cb(s)+" "+B.eC[A.bo(s)-1]+" "+A.bs(s),p,p,p,p,B.h3,p,p,p)],i)
 q=o.r
 if(q.length!==0)B.b.N(s,A.b([B.dJ,A.P(q,p,2,B.F,p,B.q5,p,p,p)],i))
-else if(o.z)B.b.N(s,A.b([B.dJ,B.amQ],i))
+else if(o.z)B.b.N(s,A.b([B.dJ,B.amR],i))
 h.push(new A.aw(B.Tz,A.aF(A.b([r,B.ba,A.aR(A.am(s,B.r,B.i,B.j,0,B.n),1),A.e4(p,p,B.WI,p,p,this.e,p,p,p)],i),B.r,B.i,B.j,0,p),p))
 return A.eh(!1,B.N,!0,p,A.im(!1,m,!0,A.az(p,A.am(h,B.r,B.i,B.j,0,B.n),B.aX,p,p,new A.ac(k,p,j,l,p,p,B.q),p,p,p,p,p,p,p),p,!0,p,p,p,p,p,p,p,p,p,p,p,this.d,p,p,p,p,p,p,p),B.l,B.t,0,p,p,p,p,p,B.bQ)}}
 A.aIG.prototype={
@@ -54735,7 +54735,7 @@ return A.az(B.G,B.X1,B.l,B.f.E(0.06),s,s,s,s,s,s,s,s,s)},
 $S:499}
 A.a32.prototype={
 v(a){var s=null,r=A.ag(24),q=B.f.E(0.09),p=A.bu(B.f.E(0.14),1)
-return A.dg(new A.aw(B.dZ,A.az(s,A.am(A.b([B.X4,B.bt,B.amf,B.bu,A.P(this.c,s,s,s,s,B.q7,B.bn,s,s),B.az,A.EG(B.v9,B.aln,new A.aIt(this))],t.p),B.o,B.i,B.a1,0,B.n),B.l,s,s,new A.ac(q,s,p,r,s,s,B.q),s,s,s,B.ni,s,s,s),s),s,s)}}
+return A.dg(new A.aw(B.dZ,A.az(s,A.am(A.b([B.X4,B.bt,B.amg,B.bu,A.P(this.c,s,s,s,s,B.q7,B.bn,s,s),B.az,A.EG(B.v9,B.aln,new A.aIt(this))],t.p),B.o,B.i,B.a1,0,B.n),B.l,s,s,new A.ac(q,s,p,r,s,s,B.q),s,s,s,B.ni,s,s,s),s),s,s)}}
 A.aIt.prototype={
 $0(){return this.a.d.$0()},
 $S:0}
@@ -54785,7 +54785,7 @@ case 4:s=5
 return A.f(p.u4(),$async$tP)
 case 5:case 1:return A.n(q,r)}})
 return A.o($async$tP,r)},
-v(a){var s,r,q,p,o=this,n=null,m=A.QX(n,n,n,!0,!0,B.t,n,1,n,n,0,!1,n,!1,B.f,n,n,n,!0,n,n,n,n,n,B.am8,n,n,n,1,n,!0),l=A.b_y(B.X2,B.al7,new A.aKq(o))
+v(a){var s,r,q,p,o=this,n=null,m=A.QX(n,n,n,!0,!0,B.t,n,1,n,n,0,!1,n,!1,B.f,n,n,n,!0,n,n,n,n,n,B.am9,n,n,n,1,n,!0),l=A.b_y(B.X2,B.al7,new A.aKq(o))
 if(o.e)s=B.fh
 else{s=t.p
 r=A.b([B.arM,B.bt],s)
@@ -54802,7 +54802,7 @@ $1(a){return new A.vX(this.a,null)},
 $S:500}
 A.aKn.prototype={
 $1(a){var s=null,r=A.P(this.a.b+" will be removed from Companion.",s,s,s,s,B.bv,s,s,s)
-return A.QO(A.b([A.kd(B.h4,new A.aKl(a),s),A.T7(B.Hg,new A.aKm(a),s)],t.p),B.aO,r,s,B.amq)},
+return A.QO(A.b([A.kd(B.h4,new A.aKl(a),s),A.T7(B.Hg,new A.aKm(a),s)],t.p),B.aO,r,s,B.amr)},
 $S:70}
 A.aKl.prototype={
 $0(){A.bn(this.a,!1).d0(!1)
@@ -55014,13 +55014,13 @@ m=f.f
 m===$&&A.a()
 l=f.y
 l===$&&A.a()
-l=A.awa(e,new A.aFe(f),e,B.amP,l)
+l=A.awa(e,new A.aFe(f),e,B.amQ,l)
 k=f.z
 k===$&&A.a()
-k=A.awa(e,new A.aFf(f),e,B.amz,k)
+k=A.awa(e,new A.aFf(f),e,B.amA,k)
 j=f.Q
 j===$&&A.a()
-j=A.awa(e,new A.aFg(f),B.am_,B.an7,j)
+j=A.awa(e,new A.aFg(f),B.am0,B.an7,j)
 i=A.ag(18)
 h=B.f.E(0.08)
 g=f.as
@@ -55031,7 +55031,7 @@ A.a8(a0,B.cp,d).toString
 g=""+A.cb(g)+"/"+A.bo(g)+"/"+A.bs(g)+" \u2022 "+p.H_(new A.bK(A.d6(g),A.is(g)),!1)
 d=g}d=A.P(d,e,e,e,e,B.bv,e,e,e)
 p=f.as==null?B.Xa:A.e4(e,e,B.XG,e,e,new A.aFh(f),e,e,e)
-p=A.kQ(!1,B.tU,e,e,!0,e,e,e,!0,e,B.WM,e,e,e,e,f.gav0(),!1,e,e,new A.cL(i,B.z),e,d,h,B.aml,p,e)
+p=A.kQ(!1,B.tU,e,e,!0,e,e,e,!0,e,B.WM,e,e,e,e,f.gav0(),!1,e,e,new A.cL(i,B.z),e,d,h,B.amm,p,e)
 d=f.a.c!=null
 i=A.c3(d?B.Wo:B.o9,e,e,e)
 return A.d7(!0,A.mq(A.am(A.b([b,B.az,new A.AI(a,"Event title",1,e),B.a6,s,B.a6,r,o,new A.AI(q,"Location (optional)",1,e),B.a6,new A.AI(m,"Note (optional)",3,e),B.bh,B.Ix,l,k,j,p,B.az,A.bJ(A.EG(i,A.P(d?"Save changes":"Add event",e,e,e,e,e,e,e,e),f.gauZ()),52,1/0)],n),B.o,B.i,B.a1,0,B.n),e,new A.a2(20,18,20,22+c.f.d),e,e,B.R),B.T,!0)}}
@@ -55552,7 +55552,7 @@ A.a1Y.prototype={
 v(a){var s=null,r=A.b([B.f.E(0.22),B.hy.E(0.14),B.d1.E(0.2)],t.O),q=A.ag(18),p=A.bu(B.f.E(0.28),1),o=A.b([new A.bv(0,B.S,B.u.E(0.3),B.oX,20),new A.bv(0,B.S,B.jj.E(0.1),B.k,20)],t.V)
 r=A.b([A.az(s,A.c3(this.c,B.f,s,24),B.l,s,s,new A.ac(s,s,p,q,o,new A.cf(B.aF,B.bi,B.Q,r,s,s),B.q),s,44,s,s,s,s,44)],t.p)
 q=A.ag(99)
-r.push(A.nY(s,A.az(s,B.amW,B.l,s,s,new A.ac(B.rK,s,A.bu(B.Ng,1.4),q,s,s,B.q),s,s,s,B.U3,s,s,s),s,s,s,-2,-2,s))
+r.push(A.nY(s,A.az(s,B.amX,B.l,s,s,new A.ac(B.rK,s,A.bu(B.Ng,1.4),q,s,s,B.q),s,s,s,B.U3,s,s,s),s,s,s,-2,-2,s))
 return A.axG(A.dj(s,A.e6(B.aV,r,B.l,B.aR,s),B.M,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,this.e,s,s,s,s,s,s),this.d)}}
 A.M7.prototype={
 v(a){var s,r,q,p,o=this,n=null,m=o.c,l=A.bhz(m),k=t.S
@@ -55796,7 +55796,7 @@ if((k==null?"":k).length!==0){k.toString
 B.b.N(l,A.b([B.bu,A.P(k,o,o,o,o,B.bv,o,o,o)],m))}k=n.r
 if((k==null?"":k).length!==0){k.toString
 B.b.N(l,A.b([B.a6,A.P(k,o,o,o,o,B.q7,o,o,o)],m))}l.push(B.iM)
-if(!n.e)l.push(A.bJ(A.EG(B.Xt,B.am2,new A.aPJ(this.a,a,n)),o,1/0))
+if(!n.e)l.push(A.bJ(A.EG(B.Xt,B.am3,new A.aPJ(this.a,a,n)),o,1/0))
 return A.d7(!0,new A.aw(B.TW,A.am(l,B.r,B.i,B.a1,0,B.n),o),B.T,!0)},
 $S:53}
 A.aPJ.prototype={
@@ -56122,7 +56122,7 @@ q=A.bu(B.f.E(0.12),1)
 p=this.b
 o=t.p
 r=A.am(A.b([k,B.bh,A.az(n,A.P(p,n,n,n,n,B.ahY,B.bn,n,n),B.l,n,n,new A.ac(s,n,q,r,n,n,B.q),n,n,n,B.TH,n,n,1/0)],o),B.r,B.i,B.a1,0,B.n)
-return A.QO(A.b([A.kd(B.h4,new A.aEV(a),n),A.afG(B.WL,B.amw,new A.aEW(l,a,p))],o),B.aO,r,new A.cL(m,B.z),j)},
+return A.QO(A.b([A.kd(B.h4,new A.aEV(a),n),A.afG(B.WL,B.amx,new A.aEW(l,a,p))],o),B.aO,r,new A.cL(m,B.z),j)},
 $S:70}
 A.aEV.prototype={
 $0(){return A.bn(this.a,!1).dj()},
@@ -56172,7 +56172,7 @@ v(a){var s=null
 return A.dj(B.an,B.as0,B.M,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,this.gasE(),s,s,s,s,s,s)}}
 A.aNq.prototype={
 $1(a){var s=null,r=this.a,q=A.l8(s,B.bC,!0,s,!0,B.x,s,A.mV(),r,s,s,s,s,s,2,B.Yj,B.M,!0,s,!0,s,!1,s,B.bV,s,s,s,s,B.GR,s,s,s,1,s,s,!0,"\u2022",s,s,s,s,s,!1,s,s,!1,s,!0,s,B.be,s,s,s,s,s,s,s,s,s,s,s,B.b2,!0,B.ar,s,B.cB,s,s,s,s)
-return A.QO(A.b([A.kd(B.h4,new A.aNo(a),s),A.T7(B.alt,new A.aNp(a,r),s)],t.p),B.aO,q,s,B.amL)},
+return A.QO(A.b([A.kd(B.h4,new A.aNo(a),s),A.T7(B.alt,new A.aNp(a,r),s)],t.p),B.aO,q,s,B.amM)},
 $S:70}
 A.aNo.prototype={
 $0(){A.bn(this.a,!1).d0(!1)
@@ -56184,7 +56184,7 @@ A.bn(this.a,!1).d0(s==="2910")
 return null},
 $S:0}
 A.aNs.prototype={
-$1(a){var s,r,q,p=null,o=A.b([B.alz,B.e4,B.amk,B.az],t.p)
+$1(a){var s,r,q,p=null,o=A.b([B.alz,B.e4,B.aml,B.az],t.p)
 for(s=this.a,r=0;r<4;++r){q=B.a2n[r]
 o.push(A.kQ(!1,p,p,p,!0,p,p,p,!0,p,A.c3(q.c,B.f,p,p),p,p,p,p,new A.aNr(s,a,q),!1,p,p,p,p,p,p,A.P(q.b,p,p,p,p,B.b2,p,p,p),p,p))}return A.d7(!0,new A.aw(B.TV,A.am(o,B.o,B.i,B.a1,0,B.n),p),B.T,!0)},
 $S:53}
@@ -56193,7 +56193,7 @@ $0(){A.bn(this.b,!1).d0(null)
 this.a.a.aJm(this.c.a)},
 $S:0}
 A.a2o.prototype={
-v(a){return A.az0(B.cK,B.cN,null,"Version 1.9.5-v81",2,"Companion for Ankita",null)}}
+v(a){return A.az0(B.cK,B.cN,null,"Version 1.9.6-v82",2,"Companion for Ankita",null)}}
 A.OF.prototype={
 V(){return new A.OG()}}
 A.OG.prototype={
@@ -56337,7 +56337,7 @@ $0(){this.a.e=this.b},
 $S:0}
 A.aR8.prototype={
 $1(a){var s=null,r=this.a
-return A.d7(!0,new A.aw(B.be,A.am(A.b([B.an2,B.bh,A.kQ(!1,s,s,s,!0,s,s,s,!0,s,s,s,s,s,s,new A.aR5(r),!1,s,s,s,s,s,s,B.am1,s,s),A.kQ(!1,s,s,s,!0,s,s,s,!0,s,s,s,s,s,s,new A.aR6(r),!1,s,s,s,s,s,s,B.alM,s,s),A.kQ(!1,s,s,s,!0,s,s,s,!0,s,s,s,s,s,s,new A.aR7(r),!1,s,s,s,s,s,s,B.an1,s,s)],t.p),B.o,B.i,B.a1,0,B.n),s),B.T,!0)},
+return A.d7(!0,new A.aw(B.be,A.am(A.b([B.an2,B.bh,A.kQ(!1,s,s,s,!0,s,s,s,!0,s,s,s,s,s,s,new A.aR5(r),!1,s,s,s,s,s,s,B.am2,s,s),A.kQ(!1,s,s,s,!0,s,s,s,!0,s,s,s,s,s,s,new A.aR6(r),!1,s,s,s,s,s,s,B.alN,s,s),A.kQ(!1,s,s,s,!0,s,s,s,!0,s,s,s,s,s,s,new A.aR7(r),!1,s,s,s,s,s,s,B.an1,s,s)],t.p),B.o,B.i,B.a1,0,B.n),s),B.T,!0)},
 $S:53}
 A.aR5.prototype={
 $0(){return this.a.h2(B.lu)},
@@ -56768,7 +56768,7 @@ A.aJs.prototype={
 $1(a){return a.gnb()==="Cultural"},
 $S:54}
 A.aJv.prototype={
-$1(a){return A.QO(A.b([A.kd(B.h4,new A.aJt(a),null),A.T7(B.Hf,new A.aJu(a),null)],t.p),B.aO,B.alJ,null,B.amm)},
+$1(a){return A.QO(A.b([A.kd(B.h4,new A.aJt(a),null),A.T7(B.Hf,new A.aJu(a),null)],t.p),B.aO,B.alJ,null,B.amn)},
 $S:70}
 A.aJt.prototype={
 $0(){A.bn(this.a,!1).d0(!1)
@@ -118823,12 +118823,12 @@ B.e=new A.S_(0,"sRGB")
 B.f=new A.h(1,1,1,1,B.e)
 B.ah=new A.hR(700)
 B.li=new A.l(!0,B.f,null,null,null,null,22,B.ah,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.alP=new A.ae("Search Location",null,B.li,null,null,null,null,null,null,null)
-B.Iv=new A.dd(B.bK,null,null,B.alP,null)
+B.alQ=new A.ae("Search Location",null,B.li,null,null,null,null,null,null,null)
+B.Iv=new A.dd(B.bK,null,null,B.alQ,null)
 B.ab=new A.hR(800)
 B.q9=new A.l(!0,B.f,null,null,null,null,16,B.ab,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.amE=new A.ae("Reminders",null,B.q9,null,null,null,null,null,null,null)
-B.Ix=new A.dd(B.bK,null,null,B.amE,null)
+B.amF=new A.ae("Reminders",null,B.q9,null,null,null,null,null,null,null)
+B.Ix=new A.dd(B.bK,null,null,B.amF,null)
 B.Iy=new A.h3(0,1)
 B.Iz=new A.h3(0,-1)
 B.j2=new A.h3(1,0)
@@ -119357,13 +119357,13 @@ B.akM=new A.l(!0,B.f,null,null,null,null,24,B.ac,null,null,null,null,null,null,n
 B.als=new A.ae("A",null,B.akM,null,null,null,null,null,null,null)
 B.LX=new A.fO(B.G,null,null,B.als,null)
 B.bv=new A.l(!0,B.v,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.amn=new A.ae("No timezone found.",null,B.bv,null,null,null,null,null,null,null)
-B.LY=new A.fO(B.G,null,null,B.amn,null)
+B.amo=new A.ae("No timezone found.",null,B.bv,null,null,null,null,null,null,null)
+B.LY=new A.fO(B.G,null,null,B.amo,null)
 B.alI=new A.ae("No locations found.",null,B.bv,null,null,null,null,null,null,null)
 B.LZ=new A.fO(B.G,null,null,B.alI,null)
 B.agA=new A.l(!0,B.f,null,null,null,null,21,B.ac,null,-0.6,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.amU=new A.ae("A",null,B.agA,null,null,null,null,null,null,null)
-B.M_=new A.fO(B.G,null,null,B.amU,null)
+B.amV=new A.ae("A",null,B.agA,null,null,null,null,null,null,null)
+B.M_=new A.fO(B.G,null,null,B.amV,null)
 B.TZ=new A.a2(32,32,32,32)
 B.i=new A.pW(0,"start")
 B.a1=new A.UI(0,"min")
@@ -119375,13 +119375,13 @@ B.aJ=new A.h(0.5411764705882353,1,1,1,B.e)
 B.WP=new A.aS(B.uP,54,B.aJ,null,null)
 B.bt=new A.bG(null,14,null,null)
 B.lh=new A.l(!0,B.f,null,null,null,null,20,B.ac,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.amM=new A.ae("No memories yet",null,B.lh,null,null,null,null,null,null,null)
+B.amN=new A.ae("No memories yet",null,B.lh,null,null,null,null,null,null,null)
 B.dJ=new A.bG(null,7,null,null)
 B.al=new A.h(0.6,1,1,1,B.e)
 B.ajF=new A.l(!0,B.al,null,null,null,null,null,null,null,null,null,null,1.4,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.bn=new A.om(2,"center")
-B.amg=new A.ae("Completed one-time events will appear here automatically.",null,B.ajF,B.bn,null,null,null,null,null,null)
-B.a_I=s([B.WP,B.bt,B.amM,B.dJ,B.amg],t.p)
+B.amh=new A.ae("Completed one-time events will appear here automatically.",null,B.ajF,B.bn,null,null,null,null,null,null)
+B.a_I=s([B.WP,B.bt,B.amN,B.dJ,B.amh],t.p)
 B.Re=new A.ef(B.R,B.i,B.a1,B.o,null,B.n,null,0,B.a_I,null)
 B.a9e=new A.aw(B.TZ,B.Re,null)
 B.M0=new A.fO(B.G,null,null,B.a9e,null)
@@ -119630,47 +119630,47 @@ B.uW=new A.a0(63257,"MaterialIcons",!1)
 B.X6=new A.aS(B.uW,42,B.aJ,null,null)
 B.cl=new A.bG(null,10,null,null)
 B.GT=new A.l(!0,B.f,null,null,null,null,null,B.ab,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.alT=new A.ae("No personal events yet",null,B.GT,null,null,null,null,null,null,null)
+B.alU=new A.ae("No personal events yet",null,B.GT,null,null,null,null,null,null,null)
 B.bU=new A.bG(null,5,null,null)
 B.iS=new A.l(!0,B.al,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.amu=new A.ae("Tap Add event to create one.",null,B.iS,null,null,null,null,null,null,null)
-B.a0p=s([B.X6,B.cl,B.alT,B.bU,B.amu],t.p)
+B.amv=new A.ae("Tap Add event to create one.",null,B.iS,null,null,null,null,null,null,null)
+B.a0p=s([B.X6,B.cl,B.alU,B.bU,B.amv],t.p)
 B.R7=new A.ef(B.R,B.i,B.j,B.o,null,B.n,null,0,B.a0p,null)
 B.c0=new A.pW(2,"center")
 B.VK=new A.a0(62772,"MaterialIcons",!1)
 B.vd=new A.aS(B.VK,42,B.f,null,null)
 B.q0=new A.l(!0,B.f,null,null,null,null,null,B.ah,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.amx=new A.ae("Add one photo",null,B.q0,null,null,null,null,null,null,null)
-B.ZY=s([B.vd,B.cl,B.amx],t.p)
+B.amy=new A.ae("Add one photo",null,B.q0,null,null,null,null,null,null,null)
+B.ZY=s([B.vd,B.cl,B.amy],t.p)
 B.R9=new A.ef(B.R,B.c0,B.j,B.o,null,B.n,null,0,B.ZY,null)
 B.alb=new A.ae("Add a photo",null,B.q0,null,null,null,null,null,null,null)
 B.Zf=s([B.vd,B.cl,B.alb],t.p)
 B.Rb=new A.ef(B.R,B.c0,B.j,B.o,null,B.n,null,0,B.Zf,null)
 B.ag8=new A.l(!0,B.f,null,null,null,null,31,B.ab,null,-0.6,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.amI=new A.ae("Companion",null,B.ag8,null,null,null,null,null,null,null)
+B.amJ=new A.ae("Companion",null,B.ag8,null,null,null,null,null,null,null)
 B.bu=new A.bG(null,8,null,null)
 B.Mo=new A.h(0.8117647058823529,0.9019607843137255,0.9686274509803922,1,B.e)
 B.aj=new A.hR(500)
 B.ak4=new A.l(!0,B.Mo,null,null,null,null,13.5,B.aj,null,0.35,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.alm=new A.ae("Move smarter. Live easier.",null,B.ak4,null,null,null,null,null,null,null)
-B.a0m=s([B.amI,B.bu,B.alm],t.p)
+B.a0m=s([B.amJ,B.bu,B.alm],t.p)
 B.Rc=new A.ef(B.R,B.i,B.j,B.o,null,B.n,null,0,B.a0m,null)
 B.r=new A.te(0,"start")
 B.GS=new A.l(!0,B.f,null,null,null,null,18,B.ac,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.amp=new A.ae("Your events, reminders and memories",null,B.GS,null,null,null,null,null,null,null)
+B.amq=new A.ae("Your events, reminders and memories",null,B.GS,null,null,null,null,null,null,null)
 B.H8=new A.l(!0,B.v,null,null,null,null,13,null,null,null,null,null,1.4,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.ald=new A.ae("Add or edit event time, location, recurrence and reminders. Completed one-time events move to Memories.",null,B.H8,null,null,null,null,null,null,null)
-B.ZZ=s([B.amp,B.dJ,B.ald],t.p)
+B.ZZ=s([B.amq,B.dJ,B.ald],t.p)
 B.Rd=new A.ef(B.R,B.i,B.j,B.r,null,B.n,null,0,B.ZZ,null)
 B.q4=new A.l(!0,B.f,null,null,null,null,31,B.ac,null,-0.8,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.alR=new A.ae("Tools",null,B.q4,null,null,null,null,null,null,null)
+B.alS=new A.ae("Tools",null,B.q4,null,null,null,null,null,null,null)
 B.q2=new A.l(!0,B.al,null,null,null,null,13.2,null,null,null,null,null,1.25,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.amN=new A.ae("Useful actions and daily context in one place.",null,B.q2,null,null,null,null,null,null,null)
-B.a3B=s([B.alR,B.bU,B.amN],t.p)
+B.amO=new A.ae("Useful actions and daily context in one place.",null,B.q2,null,null,null,null,null,null,null)
+B.a3B=s([B.alS,B.bU,B.amO],t.p)
 B.Ri=new A.ef(B.R,B.i,B.j,B.r,null,B.n,null,0,B.a3B,null)
 B.alp=new A.ae("More",null,B.q4,null,null,null,null,null,null,null)
-B.alV=new A.ae("Safety, saved places and preferences.",null,B.q2,null,null,null,null,null,null,null)
-B.a_5=s([B.alp,B.bU,B.alV],t.p)
+B.alW=new A.ae("Safety, saved places and preferences.",null,B.q2,null,null,null,null,null,null,null)
+B.a_5=s([B.alp,B.bU,B.alW],t.p)
 B.Rj=new A.ef(B.R,B.i,B.j,B.r,null,B.n,null,0,B.a_5,null)
 B.Rl=new A.S2(null)
 B.Rm=new A.DI(null)
@@ -120059,63 +120059,63 @@ B.u4=new A.tv(!1,!1,!1,!1)
 B.u5=new A.tv(!1,!1,!1,!0)
 B.bb=new A.Tf(0,"tight")
 B.q8=new A.l(!0,B.f,null,null,null,null,18,B.ac,null,-0.2,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.alZ=new A.ae("Word of the day",null,B.q8,null,null,null,null,null,null,null)
+B.am_=new A.ae("Word of the day",null,B.q8,null,null,null,null,null,null,null)
 B.cm=new A.bG(null,3,null,null)
 B.agE=new A.l(!0,B.al,null,null,null,null,12.2,null,null,null,null,null,1.2,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.ams=new A.ae("A small phrase and one useful note for today.",null,B.agE,null,null,null,null,null,null,null)
-B.a_J=s([B.alZ,B.cm,B.ams],t.p)
+B.amt=new A.ae("A small phrase and one useful note for today.",null,B.agE,null,null,null,null,null,null,null)
+B.a_J=s([B.am_,B.cm,B.amt],t.p)
 B.R8=new A.ef(B.R,B.i,B.j,B.r,null,B.n,null,0,B.a_J,null)
 B.Uc=new A.e2(1,B.bb,B.R8,null)
 B.ar9=new A.a0F(null)
 B.u6=new A.e2(1,B.bb,B.ar9,null)
 B.pY=new A.l(!0,B.f,null,null,null,null,20,B.ah,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.amJ=new A.ae("Tasks",null,B.pY,null,null,null,null,null,null,null)
-B.Ue=new A.e2(1,B.bb,B.amJ,null)
+B.amK=new A.ae("Tasks",null,B.pY,null,null,null,null,null,null,null)
+B.Ue=new A.e2(1,B.bb,B.amK,null)
 B.m=new A.vn(0)
 B.aix=new A.l(!0,B.f,null,null,null,null,22,B.ab,null,null,null,null,1.15,null,null,null,null,B.m,null,null,null,null,null,null,null,null)
-B.amA=new A.ae("Notification History",null,B.aix,null,null,null,null,null,null,null)
+B.amB=new A.ae("Notification History",null,B.aix,null,null,null,null,null,null,null)
 B.ajU=new A.l(!0,B.al,null,null,null,null,12,null,null,null,null,null,1.2,null,null,null,null,B.m,null,null,null,null,null,null,null,null)
-B.am9=new A.ae("Recent weather, AQI and task alerts",null,B.ajU,null,null,null,null,null,null,null)
-B.a2f=s([B.amA,B.cm,B.am9],t.p)
+B.ama=new A.ae("Recent weather, AQI and task alerts",null,B.ajU,null,null,null,null,null,null,null)
+B.a2f=s([B.amB,B.cm,B.ama],t.p)
 B.Rk=new A.ef(B.R,B.i,B.j,B.r,null,B.n,null,0,B.a2f,null)
 B.Uf=new A.e2(1,B.bb,B.Rk,null)
 B.Hc=new A.l(!0,B.f,null,null,null,null,25,B.ac,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.amV=new A.ae("Notifications",null,B.Hc,null,null,null,null,null,null,null)
+B.amW=new A.ae("Notifications",null,B.Hc,null,null,null,null,null,null,null)
 B.h3=new A.l(!0,B.al,null,null,null,null,12.5,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.amy=new A.ae("Choose what Companion should alert you about.",null,B.h3,null,null,null,null,null,null,null)
-B.a3N=s([B.amV,B.cm,B.amy],t.p)
+B.amz=new A.ae("Choose what Companion should alert you about.",null,B.h3,null,null,null,null,null,null,null)
+B.a3N=s([B.amW,B.cm,B.amz],t.p)
 B.R5=new A.ef(B.R,B.i,B.j,B.r,null,B.n,null,0,B.a3N,null)
 B.Ug=new A.e2(1,B.bb,B.R5,null)
 B.alH=new A.ae("Translation History",null,B.li,null,null,null,null,null,null,null)
 B.Ui=new A.e2(1,B.bb,B.alH,null)
 B.ahD=new A.l(!0,B.f,null,null,null,null,20,B.ac,null,-0.3,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.amT=new A.ae("Companion",null,B.ahD,null,null,null,null,null,null,null)
+B.amU=new A.ae("Companion",null,B.ahD,null,null,null,null,null,null,null)
 B.q1=new A.l(!0,B.al,null,null,null,null,11.5,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.an0=new A.ae("Always here to help",null,B.q1,null,null,null,null,null,null,null)
-B.a2a=s([B.amT,B.an0],t.p)
+B.a2a=s([B.amU,B.an0],t.p)
 B.Rh=new A.ef(B.R,B.i,B.j,B.r,null,B.n,null,0,B.a2a,null)
 B.Uj=new A.e2(1,B.bb,B.Rh,null)
 B.ain=new A.l(!0,B.aJ,null,null,null,null,10.5,null,null,null,null,null,null,null,null,null,null,B.m,null,null,null,null,null,null,null,null)
-B.ami=new A.ae("Backend test notifications are hidden by default.",null,B.ain,null,null,null,null,null,null,null)
-B.Ul=new A.e2(1,B.bb,B.ami,null)
+B.amj=new A.ae("Backend test notifications are hidden by default.",null,B.ain,null,null,null,null,null,null,null)
+B.Ul=new A.e2(1,B.bb,B.amj,null)
 B.GV=new A.l(!0,B.f,null,null,null,null,19,B.ac,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.am6=new A.ae("Companion for Ankita",null,B.GV,null,null,null,null,null,null,null)
+B.am7=new A.ae("Companion for Ankita",null,B.GV,null,null,null,null,null,null,null)
 B.H4=new A.l(!0,B.v,null,null,null,null,13,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.amh=new A.ae("Weather \u2022 Places \u2022 Care",null,B.H4,null,null,null,null,null,null,null)
-B.a0X=s([B.am6,B.cm,B.amh],t.p)
+B.ami=new A.ae("Weather \u2022 Places \u2022 Care",null,B.H4,null,null,null,null,null,null,null)
+B.a0X=s([B.am7,B.cm,B.ami],t.p)
 B.Rf=new A.ef(B.R,B.i,B.j,B.r,null,B.n,null,0,B.a0X,null)
 B.Un=new A.e2(1,B.bb,B.Rf,null)
-B.ama=new A.ae("Currency Converter",null,B.q9,null,null,null,null,null,null,null)
+B.amb=new A.ae("Currency Converter",null,B.q9,null,null,null,null,null,null,null)
 B.lk=new A.l(!0,B.v,null,null,null,null,12,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.am3=new A.ae("Rupee, Euro, Dollar, Yen and more",null,B.lk,null,null,null,null,null,null,null)
-B.a_H=s([B.ama,B.cm,B.am3],t.p)
+B.am4=new A.ae("Rupee, Euro, Dollar, Yen and more",null,B.lk,null,null,null,null,null,null,null)
+B.a_H=s([B.amb,B.cm,B.am4],t.p)
 B.Ra=new A.ef(B.R,B.i,B.j,B.r,null,B.n,null,0,B.a_H,null)
 B.Uo=new A.e2(1,B.bb,B.Ra,null)
 B.ara=new A.a0G(null)
 B.u7=new A.e2(1,B.bb,B.ara,null)
 B.akr=new A.l(!0,B.aJ,null,null,null,null,10.8,null,null,null,null,null,1.25,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.amC=new A.ae("Cultural reminders include moon days and festival calendar alerts.",null,B.akr,null,null,null,null,null,null,null)
-B.Up=new A.e2(1,B.bb,B.amC,null)
+B.amD=new A.ae("Cultural reminders include moon days and festival calendar alerts.",null,B.akr,null,null,null,null,null,null,null)
+B.Up=new A.e2(1,B.bb,B.amD,null)
 B.ali=new A.ae("No translation history yet.",null,B.bv,null,null,null,null,null,null,null)
 B.LV=new A.fO(B.G,null,null,B.ali,null)
 B.Uq=new A.e2(1,B.bb,B.LV,null)
@@ -120205,9 +120205,9 @@ B.UK=new A.F_(2,"defunct")
 B.Va=new A.a0(57912,"MaterialIcons",!1)
 B.Xs=new A.aS(B.Va,56,B.f,null,null)
 B.bh=new A.bG(null,16,null,null)
-B.alQ=new A.ae("Unable to load weather",null,B.pY,null,null,null,null,null,null,null)
-B.amO=new A.ae("Please check internet connection.",null,B.bv,null,null,null,null,null,null,null)
-B.a37=s([B.Xs,B.bh,B.alQ,B.bu,B.amO],t.p)
+B.alR=new A.ae("Unable to load weather",null,B.pY,null,null,null,null,null,null,null)
+B.amP=new A.ae("Please check internet connection.",null,B.bv,null,null,null,null,null,null,null)
+B.a37=s([B.Xs,B.bh,B.alR,B.bu,B.amP],t.p)
 B.R6=new A.ef(B.R,B.i,B.j,B.o,null,B.n,null,0,B.a37,null)
 B.UL=new A.xZ(B.R6,B.dZ,32,null)
 B.a9d=new A.aw(B.nj,B.fh,null)
@@ -122642,23 +122642,23 @@ B.abj=new A.jt(B.aw,B.i,B.j,B.o,null,B.n,null,0,B.a10,null)
 B.XU=new A.aS(B.uP,null,B.dr,null,null)
 B.ba=new A.bG(12,null,null,null)
 B.q7=new A.l(!0,B.v,null,null,null,null,null,null,null,null,null,null,1.4,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.alY=new A.ae("Completed one-time events move here automatically. Open any memory to add a photo, best moment, note or location.",null,B.q7,null,null,null,null,null,null,null)
-B.Um=new A.e2(1,B.bb,B.alY,null)
+B.alZ=new A.ae("Completed one-time events move here automatically. Open any memory to add a photo, best moment, note or location.",null,B.q7,null,null,null,null,null,null,null)
+B.Um=new A.e2(1,B.bb,B.alZ,null)
 B.a_w=s([B.XU,B.ba,B.Um],t.p)
 B.abk=new A.jt(B.aw,B.i,B.j,B.r,null,B.n,null,0,B.a_w,null)
 B.Vr=new A.a0(59003,"MaterialIcons",!1)
 B.Xv=new A.aS(B.Vr,22,B.f,null,null)
 B.afm=new A.l(!0,B.f,null,null,null,null,14.5,B.ah,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.amX=new A.ae("Translator",null,B.afm,null,null,null,null,null,null,null)
-B.a01=s([B.Xv,B.ba,B.amX],t.p)
+B.amY=new A.ae("Translator",null,B.afm,null,null,null,null,null,null,null)
+B.a01=s([B.Xv,B.ba,B.amY],t.p)
 B.abl=new A.jt(B.aw,B.i,B.j,B.o,null,B.n,null,0,B.a01,null)
 B.WK=new A.aS(B.cN,22,B.jl,null,null)
 B.l7=new A.bG(11,null,null,null)
 B.aj8=new A.l(!0,B.f,null,null,null,null,15.5,B.ac,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.amR=new A.ae("Before today ends\u2026",null,B.aj8,null,null,null,null,null,null,null)
+B.amS=new A.ae("Before today ends\u2026",null,B.aj8,null,null,null,null,null,null,null)
 B.afk=new A.l(!0,B.v,null,null,null,null,12.2,null,null,null,null,null,1.42,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.alw=new A.ae("I hope today gave you moments worth remembering\u2014and a quiet reason to smile when you think about them later.",null,B.afk,null,null,null,null,null,null,null)
-B.a28=s([B.amR,B.bU,B.alw],t.p)
+B.a28=s([B.amS,B.bU,B.alw],t.p)
 B.Rg=new A.ef(B.R,B.i,B.j,B.r,null,B.n,null,0,B.a28,null)
 B.Uk=new A.e2(1,B.bb,B.Rg,null)
 B.a1m=s([B.WK,B.l7,B.Uk],t.p)
@@ -122670,20 +122670,20 @@ B.Ur=new A.e2(1,B.bb,B.alc,null)
 B.Zj=s([B.Xu,B.bs,B.Ur],t.p)
 B.abn=new A.jt(B.aw,B.i,B.j,B.r,null,B.n,null,0,B.Zj,null)
 B.ajT=new A.l(!0,B.al,null,null,null,null,12.5,B.ah,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.am4=new A.ae("Additional timezone",null,B.ajT,null,null,null,null,null,null,null)
+B.am5=new A.ae("Additional timezone",null,B.ajT,null,null,null,null,null,null,null)
 B.eW=new A.vh(1,null)
 B.mI=new A.h(1,0.7294117647058823,0.9019607843137255,0.9921568627450981,B.e)
 B.ah8=new A.l(!0,B.mI,null,null,null,null,12.5,B.ac,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.amZ=new A.ae("Add city",null,B.ah8,null,null,null,null,null,null,null)
 B.pH=new A.bG(3,null,null,null)
 B.Xq=new A.aS(B.o9,17,B.mI,null,null)
-B.a2o=s([B.am4,B.eW,B.amZ,B.pH,B.Xq],t.p)
+B.a2o=s([B.am5,B.eW,B.amZ,B.pH,B.Xq],t.p)
 B.abo=new A.jt(B.aw,B.i,B.j,B.o,null,B.n,null,0,B.a2o,null)
 B.M3=new A.iW(2,null,null,null,null,B.f,null,null,null,null)
 B.Gl=new A.bG(18,18,B.M3,null)
 B.b2=new A.l(!0,B.f,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.amt=new A.ae("Detecting location...",null,B.b2,null,null,null,null,null,null,null)
-B.a2k=s([B.Gl,B.ba,B.amt],t.p)
+B.amu=new A.ae("Detecting location...",null,B.b2,null,null,null,null,null,null,null)
+B.a2k=s([B.Gl,B.ba,B.amu],t.p)
 B.abp=new A.jt(B.aw,B.i,B.j,B.o,null,B.n,null,0,B.a2k,null)
 B.abq=new A.HG(1333)
 B.pc=new A.HG(2222)
@@ -122985,12 +122985,12 @@ B.ae_=new A.mt(3,"hide")
 B.av3=new A.mt(4,"remove")
 B.ae0=new A.mt(5,"timeout")
 B.ae1=new A.zx(null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.amr=new A.ae("Enter an event title.",null,null,null,null,null,null,null,null,null)
-B.ae2=new A.fH(B.amr,null,null,null,null,null,null,null,null,null,null,null,null,B.aP,!1,null,null,null,B.x,null)
-B.amc=new A.ae("Event completed and moved to Memories.",null,null,null,null,null,null,null,null,null)
-B.ae3=new A.fH(B.amc,null,null,null,null,null,null,null,null,null,null,null,null,B.aP,!1,null,null,null,B.x,null)
-B.alN=new A.ae("Please verify the local emergency number for this location.",null,null,null,null,null,null,null,null,null)
-B.ae4=new A.fH(B.alN,null,null,null,null,null,null,null,null,null,null,null,null,B.aP,!1,null,null,null,B.x,null)
+B.ams=new A.ae("Enter an event title.",null,null,null,null,null,null,null,null,null)
+B.ae2=new A.fH(B.ams,null,null,null,null,null,null,null,null,null,null,null,null,B.aP,!1,null,null,null,B.x,null)
+B.amd=new A.ae("Event completed and moved to Memories.",null,null,null,null,null,null,null,null,null)
+B.ae3=new A.fH(B.amd,null,null,null,null,null,null,null,null,null,null,null,null,B.aP,!1,null,null,null,B.x,null)
+B.alO=new A.ae("Please verify the local emergency number for this location.",null,null,null,null,null,null,null,null,null)
+B.ae4=new A.fH(B.alO,null,null,null,null,null,null,null,null,null,null,null,null,B.aP,!1,null,null,null,B.x,null)
 B.an_=new A.ae("Getting current location...",null,null,null,null,null,null,null,null,null)
 B.ae5=new A.fH(B.an_,null,null,null,null,null,null,null,null,null,null,null,null,B.aP,!1,null,null,null,B.x,null)
 B.alk=new A.ae("Copied. Ready to paste.",null,null,null,null,null,null,null,null,null)
@@ -122999,14 +122999,14 @@ B.alB=new A.ae("Location permission permanently denied. Enable it from app setti
 B.ae7=new A.fH(B.alB,null,null,null,null,null,null,null,null,null,null,null,null,B.aP,!1,null,null,null,B.x,null)
 B.alf=new A.ae("Please select a future date and time.",null,null,null,null,null,null,null,null,null)
 B.ae8=new A.fH(B.alf,null,null,null,null,null,null,null,null,null,null,null,null,B.aP,!1,null,null,null,B.x,null)
-B.amo=new A.ae("Use the category filters below to explore nearby places.",null,null,null,null,null,null,null,null,null)
-B.ae9=new A.fH(B.amo,null,null,null,null,null,null,null,null,null,null,null,null,B.aP,!1,null,null,null,B.x,null)
-B.amj=new A.ae("Birthday memory saved.",null,null,null,null,null,null,null,null,null)
-B.aea=new A.fH(B.amj,null,null,null,null,null,null,null,null,null,null,null,null,B.aP,!1,null,null,null,B.x,null)
+B.amp=new A.ae("Use the category filters below to explore nearby places.",null,null,null,null,null,null,null,null,null)
+B.ae9=new A.fH(B.amp,null,null,null,null,null,null,null,null,null,null,null,null,B.aP,!1,null,null,null,B.x,null)
+B.amk=new A.ae("Birthday memory saved.",null,null,null,null,null,null,null,null,null)
+B.aea=new A.fH(B.amk,null,null,null,null,null,null,null,null,null,null,null,null,B.aP,!1,null,null,null,B.x,null)
 B.ala=new A.ae("Could not open maps for this place.",null,null,null,null,null,null,null,null,null)
 B.aeb=new A.fH(B.ala,null,null,null,null,null,null,null,null,null,null,null,null,B.aP,!1,null,null,null,B.x,null)
-B.amd=new A.ae("Please enter a task.",null,null,null,null,null,null,null,null,null)
-B.aec=new A.fH(B.amd,null,null,null,null,null,null,null,null,null,null,null,null,B.aP,!1,null,null,null,B.x,null)
+B.ame=new A.ae("Please enter a task.",null,null,null,null,null,null,null,null,null)
+B.aec=new A.fH(B.ame,null,null,null,null,null,null,null,null,null,null,null,null,B.aP,!1,null,null,null,B.x,null)
 B.an5=new A.ae("Notifications disabled on this device.",null,null,null,null,null,null,null,null,null)
 B.Gs=new A.fH(B.an5,null,null,null,null,null,null,null,null,null,null,null,null,B.aP,!1,null,null,null,B.x,null)
 B.alh=new A.ae("Location permission denied.",null,null,null,null,null,null,null,null,null)
@@ -123520,53 +123520,53 @@ B.alJ=new A.ae("This removes the recent notification history records from Firest
 B.aiP=new A.l(!0,B.aJ,null,null,null,null,12.5,null,null,null,null,null,1.35,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.alK=new A.ae("Tip: use the category tabs to quickly find food, grocery, pharmacy or transport places.",null,B.aiP,null,null,null,null,null,null,null)
 B.alL=new A.ae("Emergency numbers",null,B.lf,null,null,null,null,null,null,null)
-B.alM=new A.ae("Female",null,B.b2,null,null,null,null,null,null,null)
-B.Hg=new A.ae("Delete",null,null,null,null,null,null,null,null,null)
-B.aiL=new A.l(!0,B.v,null,null,null,null,9,B.ah,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.alO=new A.ae("AQI",null,B.aiL,null,null,null,null,null,null,null)
-B.alS=new A.ae("Discover",null,B.q4,null,null,null,null,null,null,null)
-B.alU=new A.ae("May require browser or phone permission",null,B.lj,null,null,null,null,null,null,null)
-B.alW=new A.ae("Review or edit the details before continuing. Nothing is sent automatically.",null,B.q_,null,null,null,null,null,null,null)
-B.alX=new A.ae("Copy only",null,null,null,null,null,null,null,null,null)
-B.am_=new A.ae("Scheduled for 8:00 AM",null,B.iS,null,null,null,null,null,null,null)
-B.aiQ=new A.l(!0,B.v,null,null,null,null,10.5,B.ab,null,1.15,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.am0=new A.ae("LIVE WEATHER",null,B.aiQ,null,null,null,null,null,null,null)
-B.am1=new A.ae("Auto",null,B.b2,null,null,null,null,null,null,null)
-B.am2=new A.ae("Mark completed",null,null,null,null,null,null,null,null,null)
-B.am5=new A.ae("No pending tasks. Add your first relocation task.",null,B.bv,null,null,null,null,null,null,null)
-B.am7=new A.ae("Add Task",null,null,null,null,null,null,null,null,null)
-B.am8=new A.ae("Personal Events",null,null,null,null,null,null,null,null,null)
-B.amb=new A.ae("History",null,null,null,null,null,null,null,null,null)
-B.agH=new A.l(!0,B.v,null,null,null,null,12,B.ah,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.ame=new A.ae("Moon & Indian Calendar",null,B.agH,null,null,null,null,null,null,null)
-B.amf=new A.ae("Unable to open Memories",null,B.GV,B.bn,null,null,null,null,null,null)
-B.amk=new A.ae("Choose the birthday atmosphere to launch.",null,B.bv,null,null,null,null,null,null,null)
-B.aml=new A.ae("Custom reminder",null,B.b2,null,null,null,null,null,null,null)
-B.amm=new A.ae("Clear history?",null,B.b2,null,null,null,null,null,null,null)
-B.amq=new A.ae("Delete event?",null,B.b2,null,null,null,null,null,null,null)
-B.amv=new A.ae("Use My Current Location",null,B.b2,null,null,null,null,null,null,null)
-B.amw=new A.ae("Call",null,null,null,null,null,null,null,null,null)
-B.amz=new A.ae("1 hour before",null,B.b2,null,null,null,null,null,null,null)
-B.Pk=new A.h(1,1,0.8392156862745098,0.8862745098039215,B.e)
-B.aij=new A.l(!0,B.Pk,null,null,null,null,9.5,B.ab,null,1.65,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.amB=new A.ae("YOUR DAY",null,B.aij,null,null,null,null,null,null,null)
-B.ahJ=new A.l(!0,B.f,null,null,null,null,16.5,B.ab,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.amD=new A.ae("Tasks",null,B.ahJ,null,null,null,null,null,null,null)
-B.amF=new A.ae("Memories",null,null,null,null,null,null,null,null,null)
-B.amG=new A.ae("Clear Completed",null,null,null,null,null,null,null,null,null)
-B.aia=new A.l(!0,B.f,null,null,null,null,22,B.ac,null,-0.4,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.amH=new A.ae("How can I help?",null,B.aia,null,null,null,null,null,null,null)
-B.amK=new A.ae("View All",null,null,null,null,null,null,null,null,null)
-B.amL=new A.ae("Private access",null,B.b2,null,null,null,null,null,null,null)
-B.amP=new A.ae("1 day before",null,B.b2,null,null,null,null,null,null,null)
-B.ai7=new A.l(!0,B.ds,null,null,null,null,12,B.ah,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.amQ=new A.ae("Tap to add memory details.",null,B.ai7,null,null,null,null,null,null,null)
-B.amS=new A.ae("7-day forecast unavailable",null,B.H_,null,null,null,null,null,null,null)
-B.agX=new A.l(!0,B.f,null,null,null,null,12,B.ac,null,null,null,null,0.9,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.amW=new A.ae("\u2022",null,B.agX,null,null,null,null,null,null,null)
 B.Q9=new A.h(0.30196078431372547,1,1,1,B.e)
 B.agC=new A.l(!0,B.Q9,null,null,null,null,10,B.bl,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.amY=new A.ae("1.9.5-v81",null,B.agC,null,null,null,null,null,null,null)
+B.alM=new A.ae("1.9.6-v82",null,B.agC,null,null,null,null,null,null,null)
+B.alN=new A.ae("Female",null,B.b2,null,null,null,null,null,null,null)
+B.Hg=new A.ae("Delete",null,null,null,null,null,null,null,null,null)
+B.aiL=new A.l(!0,B.v,null,null,null,null,9,B.ah,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.alP=new A.ae("AQI",null,B.aiL,null,null,null,null,null,null,null)
+B.alT=new A.ae("Discover",null,B.q4,null,null,null,null,null,null,null)
+B.alV=new A.ae("May require browser or phone permission",null,B.lj,null,null,null,null,null,null,null)
+B.alX=new A.ae("Review or edit the details before continuing. Nothing is sent automatically.",null,B.q_,null,null,null,null,null,null,null)
+B.alY=new A.ae("Copy only",null,null,null,null,null,null,null,null,null)
+B.am0=new A.ae("Scheduled for 8:00 AM",null,B.iS,null,null,null,null,null,null,null)
+B.aiQ=new A.l(!0,B.v,null,null,null,null,10.5,B.ab,null,1.15,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.am1=new A.ae("LIVE WEATHER",null,B.aiQ,null,null,null,null,null,null,null)
+B.am2=new A.ae("Auto",null,B.b2,null,null,null,null,null,null,null)
+B.am3=new A.ae("Mark completed",null,null,null,null,null,null,null,null,null)
+B.am6=new A.ae("No pending tasks. Add your first relocation task.",null,B.bv,null,null,null,null,null,null,null)
+B.am8=new A.ae("Add Task",null,null,null,null,null,null,null,null,null)
+B.am9=new A.ae("Personal Events",null,null,null,null,null,null,null,null,null)
+B.amc=new A.ae("History",null,null,null,null,null,null,null,null,null)
+B.agH=new A.l(!0,B.v,null,null,null,null,12,B.ah,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.amf=new A.ae("Moon & Indian Calendar",null,B.agH,null,null,null,null,null,null,null)
+B.amg=new A.ae("Unable to open Memories",null,B.GV,B.bn,null,null,null,null,null,null)
+B.aml=new A.ae("Choose the birthday atmosphere to launch.",null,B.bv,null,null,null,null,null,null,null)
+B.amm=new A.ae("Custom reminder",null,B.b2,null,null,null,null,null,null,null)
+B.amn=new A.ae("Clear history?",null,B.b2,null,null,null,null,null,null,null)
+B.amr=new A.ae("Delete event?",null,B.b2,null,null,null,null,null,null,null)
+B.amw=new A.ae("Use My Current Location",null,B.b2,null,null,null,null,null,null,null)
+B.amx=new A.ae("Call",null,null,null,null,null,null,null,null,null)
+B.amA=new A.ae("1 hour before",null,B.b2,null,null,null,null,null,null,null)
+B.Pk=new A.h(1,1,0.8392156862745098,0.8862745098039215,B.e)
+B.aij=new A.l(!0,B.Pk,null,null,null,null,9.5,B.ab,null,1.65,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.amC=new A.ae("YOUR DAY",null,B.aij,null,null,null,null,null,null,null)
+B.ahJ=new A.l(!0,B.f,null,null,null,null,16.5,B.ab,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.amE=new A.ae("Tasks",null,B.ahJ,null,null,null,null,null,null,null)
+B.amG=new A.ae("Memories",null,null,null,null,null,null,null,null,null)
+B.amH=new A.ae("Clear Completed",null,null,null,null,null,null,null,null,null)
+B.aia=new A.l(!0,B.f,null,null,null,null,22,B.ac,null,-0.4,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.amI=new A.ae("How can I help?",null,B.aia,null,null,null,null,null,null,null)
+B.amL=new A.ae("View All",null,null,null,null,null,null,null,null,null)
+B.amM=new A.ae("Private access",null,B.b2,null,null,null,null,null,null,null)
+B.amQ=new A.ae("1 day before",null,B.b2,null,null,null,null,null,null,null)
+B.ai7=new A.l(!0,B.ds,null,null,null,null,12,B.ah,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.amR=new A.ae("Tap to add memory details.",null,B.ai7,null,null,null,null,null,null,null)
+B.amT=new A.ae("7-day forecast unavailable",null,B.H_,null,null,null,null,null,null,null)
+B.agX=new A.l(!0,B.f,null,null,null,null,12,B.ac,null,null,null,null,0.9,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.amX=new A.ae("\u2022",null,B.agX,null,null,null,null,null,null,null)
 B.Hh=new A.ae("Save memory",null,null,null,null,null,null,null,null,null)
 B.an1=new A.ae("Male",null,B.b2,null,null,null,null,null,null,null)
 B.an2=new A.ae("Voice Output",null,B.pY,null,null,null,null,null,null,null)
