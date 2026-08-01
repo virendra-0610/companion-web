@@ -1,0 +1,1178 @@
+[
+    {
+        "id": "housing_001",
+        "category": "Housing",
+        "title": "Where can international students find accommodation in Latvia?",
+        "shortAnswer": "Students can stay in university dormitories or rent private apartments.",
+        "answer": "Accommodation options include university dormitories, shared apartments, private apartments and student residences. Availability depends on the city and university.",
+        "keywords": [
+            "housing",
+            "accommodation",
+            "rent",
+            "apartment",
+            "dormitory"
+        ],
+        "tips": [
+            "Start searching for accommodation several weeks before arrival."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_002",
+        "category": "Housing",
+        "title": "Should I choose a dormitory or private apartment?",
+        "shortAnswer": "Dormitories are usually cheaper while apartments provide more privacy.",
+        "answer": "Dormitories are generally the most affordable option and are suitable for new students. Private apartments offer greater independence but usually cost more.",
+        "keywords": [
+            "dormitory",
+            "apartment",
+            "housing"
+        ],
+        "tips": [
+            "Many students begin in dormitories and later move to apartments."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_003",
+        "category": "Housing",
+        "title": "How early should I book accommodation?",
+        "shortAnswer": "Book as early as possible after receiving admission.",
+        "answer": "Popular student accommodation fills quickly before each academic semester. Early booking provides more options.",
+        "keywords": [
+            "booking",
+            "housing",
+            "admission"
+        ],
+        "tips": [
+            "Reserve accommodation immediately after confirming admission."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_004",
+        "category": "Housing",
+        "title": "What documents are usually required to rent an apartment?",
+        "shortAnswer": "Landlords commonly request identification and rental agreement information.",
+        "answer": "Requirements vary, but landlords may request a passport, residence documents, proof of income or university enrollment and a signed rental agreement.",
+        "keywords": [
+            "rent",
+            "documents",
+            "lease"
+        ],
+        "tips": [
+            "Read the rental agreement carefully before signing."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_005",
+        "category": "Housing",
+        "title": "Is a security deposit required?",
+        "shortAnswer": "Many landlords require a refundable security deposit.",
+        "answer": "The deposit helps cover potential damage or unpaid obligations and is usually returned if the apartment is left in good condition according to the rental agreement.",
+        "keywords": [
+            "deposit",
+            "security deposit",
+            "rent"
+        ],
+        "tips": [
+            "Request written confirmation of the deposit amount."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_006",
+        "category": "Housing",
+        "title": "What utilities may be charged separately from rent?",
+        "shortAnswer": "Electricity, heating, water and internet may be billed separately.",
+        "answer": "Utility arrangements vary by rental agreement. Always ask which services are included before signing the lease.",
+        "keywords": [
+            "utilities",
+            "electricity",
+            "heating",
+            "water",
+            "internet"
+        ],
+        "tips": [
+            "Request previous utility bills to estimate monthly expenses."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_007",
+        "category": "Housing",
+        "title": "Is heating important when choosing accommodation?",
+        "shortAnswer": "Yes, heating is essential during Latvia's cold winters.",
+        "answer": "Heating costs can significantly affect monthly expenses. Ask how the building is heated and whether heating costs are included in rent.",
+        "keywords": [
+            "heating",
+            "winter",
+            "utilities"
+        ],
+        "tips": [
+            "Well-insulated apartments usually reduce heating expenses."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_008",
+        "category": "Housing",
+        "title": "Should I inspect the apartment before moving in?",
+        "shortAnswer": "Yes.",
+        "answer": "Inspect the apartment carefully and document any existing damage before accepting the keys.",
+        "keywords": [
+            "inspection",
+            "apartment",
+            "move in"
+        ],
+        "tips": [
+            "Take photos of every room on your move-in day."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_009",
+        "category": "Housing",
+        "title": "Can international students share apartments?",
+        "shortAnswer": "Yes, shared apartments are common among students.",
+        "answer": "Many international students reduce living costs by renting apartments together and sharing expenses.",
+        "keywords": [
+            "shared apartment",
+            "roommate",
+            "housing"
+        ],
+        "tips": [
+            "Agree on household rules before moving in together."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_010",
+        "category": "Housing",
+        "title": "What should I check before signing a rental agreement?",
+        "shortAnswer": "Verify rent, utilities, deposit, contract duration and notice period.",
+        "answer": "Read the entire rental agreement carefully and make sure you understand payment terms, utility costs, maintenance responsibilities and conditions for ending the lease.",
+        "keywords": [
+            "lease",
+            "agreement",
+            "contract",
+            "rent"
+        ],
+        "tips": [
+            "Ask questions before signing anything you do not understand."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_011",
+        "category": "Housing",
+        "title": "How can I avoid rental scams in Latvia?",
+        "shortAnswer": "Never pay deposits before verifying the property and landlord.",
+        "answer": "Be cautious of listings with unusually low prices, requests for advance payments before viewing, or landlords unwilling to provide identification or a written agreement. Whenever possible, inspect the property in person.",
+        "keywords": [
+            "rental scam",
+            "fraud",
+            "deposit",
+            "landlord"
+        ],
+        "tips": [
+            "If an offer seems too good to be true, verify it carefully."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_012",
+        "category": "Housing",
+        "title": "Should I always sign a written rental agreement?",
+        "shortAnswer": "Yes, a written agreement protects both tenant and landlord.",
+        "answer": "A written rental agreement clearly defines rent, payment dates, utilities, deposit, notice period and responsibilities of both parties.",
+        "keywords": [
+            "lease",
+            "agreement",
+            "contract",
+            "tenant"
+        ],
+        "tips": [
+            "Keep both a digital and printed copy of your agreement."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_013",
+        "category": "Housing",
+        "title": "Who is responsible for apartment repairs?",
+        "shortAnswer": "It depends on the rental agreement.",
+        "answer": "Minor maintenance may be the tenant's responsibility, while major repairs are generally handled by the landlord unless the agreement specifies otherwise.",
+        "keywords": [
+            "repairs",
+            "maintenance",
+            "landlord"
+        ],
+        "tips": [
+            "Report problems to the landlord as soon as they occur."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_014",
+        "category": "Housing",
+        "title": "Is internet usually included with rent?",
+        "shortAnswer": "Not always.",
+        "answer": "Some apartments include internet in the monthly rent, while others require tenants to arrange and pay for their own service.",
+        "keywords": [
+            "internet",
+            "wifi",
+            "utilities"
+        ],
+        "tips": [
+            "Confirm internet speed and monthly cost before moving in."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_015",
+        "category": "Housing",
+        "title": "Are apartments usually furnished?",
+        "shortAnswer": "Many rental apartments are partially or fully furnished.",
+        "answer": "Furniture varies by property. Some apartments include beds, wardrobes, tables and kitchen appliances, while others may be mostly unfurnished.",
+        "keywords": [
+            "furnished",
+            "furniture",
+            "apartment"
+        ],
+        "tips": [
+            "Request an inventory list before moving in."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_016",
+        "category": "Housing",
+        "title": "Can I decorate or modify my apartment?",
+        "shortAnswer": "Major changes usually require the landlord's permission.",
+        "answer": "Painting walls, installing shelves or making structural changes should only be done after obtaining permission from the landlord.",
+        "keywords": [
+            "decorate",
+            "painting",
+            "tenant"
+        ],
+        "tips": [
+            "Always obtain written approval for significant modifications."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_017",
+        "category": "Housing",
+        "title": "How is household waste disposed of in Latvia?",
+        "shortAnswer": "Waste should be placed in the appropriate collection containers.",
+        "answer": "Many residential buildings provide separate containers for general waste and recyclable materials. Follow local recycling instructions whenever possible.",
+        "keywords": [
+            "waste",
+            "garbage",
+            "recycling",
+            "bins"
+        ],
+        "tips": [
+            "Separate recyclable materials according to local guidelines."
+        ],
+        "officialSources": [
+            {
+                "name": "Riga City Council",
+                "url": "https://www.riga.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_018",
+        "category": "Housing",
+        "title": "Are there quiet hours in apartment buildings?",
+        "shortAnswer": "Yes, residents are expected to avoid excessive noise, especially at night.",
+        "answer": "Respect your neighbors by keeping noise to a minimum during nighttime hours and following any building-specific regulations.",
+        "keywords": [
+            "noise",
+            "quiet hours",
+            "neighbors"
+        ],
+        "tips": [
+            "Inform neighbors in advance if you plan to host visitors."
+        ],
+        "officialSources": [
+            {
+                "name": "Riga City Council",
+                "url": "https://www.riga.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_019",
+        "category": "Housing",
+        "title": "Can I keep pets in a rented apartment?",
+        "shortAnswer": "Only if the landlord permits it.",
+        "answer": "Pet policies vary between landlords and rental agreements. Always obtain permission before bringing a pet into the property.",
+        "keywords": [
+            "pets",
+            "dog",
+            "cat",
+            "lease"
+        ],
+        "tips": [
+            "Discuss pet rules before signing the agreement."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_020",
+        "category": "Housing",
+        "title": "What should I do before moving out of a rented apartment?",
+        "shortAnswer": "Clean the apartment, return the keys and complete the final inspection.",
+        "answer": "Before leaving, remove your belongings, clean the property, settle outstanding utility bills if required and arrange a final inspection with the landlord to discuss the return of your security deposit.",
+        "keywords": [
+            "move out",
+            "deposit",
+            "inspection",
+            "keys"
+        ],
+        "tips": [
+            "Take photos of the apartment when moving out as evidence of its condition."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_021",
+        "category": "Housing",
+        "title": "Should I take photos before moving into a rental apartment?",
+        "shortAnswer": "Yes, photograph the entire apartment before moving in.",
+        "answer": "Take clear photos of every room, appliance and any existing damage before moving in. This documentation can help avoid disputes when moving out.",
+        "keywords": [
+            "move in",
+            "photos",
+            "damage",
+            "inspection"
+        ],
+        "tips": [
+            "Store the photos in cloud storage with the move-in date."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_022",
+        "category": "Housing",
+        "title": "Should I ask for utility bills before renting?",
+        "shortAnswer": "Yes, previous utility bills help estimate monthly expenses.",
+        "answer": "Utility costs, especially heating, can vary throughout the year. Reviewing previous bills provides a realistic estimate of monthly expenses.",
+        "keywords": [
+            "utility bills",
+            "electricity",
+            "heating",
+            "water"
+        ],
+        "tips": [
+            "Ask for both summer and winter utility bills."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_023",
+        "category": "Housing",
+        "title": "How are rent payments usually made?",
+        "shortAnswer": "Most landlords prefer bank transfers.",
+        "answer": "Rent is commonly paid through bank transfer according to the payment schedule in the rental agreement.",
+        "keywords": [
+            "rent payment",
+            "bank transfer",
+            "monthly rent"
+        ],
+        "tips": [
+            "Always keep payment receipts."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_024",
+        "category": "Housing",
+        "title": "Can the landlord enter my apartment whenever they want?",
+        "shortAnswer": "Access should follow the rental agreement and applicable laws.",
+        "answer": "Landlords generally arrange visits in advance unless there is an emergency or the agreement specifies otherwise.",
+        "keywords": [
+            "landlord",
+            "privacy",
+            "inspection"
+        ],
+        "tips": [
+            "Discuss inspection procedures before signing the lease."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_025",
+        "category": "Housing",
+        "title": "What should I do if something breaks in my apartment?",
+        "shortAnswer": "Notify your landlord as soon as possible.",
+        "answer": "Report maintenance issues immediately so repairs can be arranged before the problem becomes worse.",
+        "keywords": [
+            "repair",
+            "maintenance",
+            "broken appliance"
+        ],
+        "tips": [
+            "Report issues in writing whenever possible."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_026",
+        "category": "Housing",
+        "title": "Can I terminate my lease early?",
+        "shortAnswer": "It depends on the rental agreement.",
+        "answer": "Early termination conditions, notice periods and possible penalties are defined in the rental agreement.",
+        "keywords": [
+            "terminate lease",
+            "notice",
+            "contract"
+        ],
+        "tips": [
+            "Read the termination clause before signing."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_027",
+        "category": "Housing",
+        "title": "Is renters insurance required?",
+        "shortAnswer": "It is not always mandatory but may be recommended.",
+        "answer": "Some landlords recommend or require tenants to obtain insurance for personal belongings and accidental damage.",
+        "keywords": [
+            "insurance",
+            "tenant",
+            "property"
+        ],
+        "tips": [
+            "Compare insurance coverage before purchasing a policy."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_028",
+        "category": "Housing",
+        "title": "Are washing machines common in Latvian apartments?",
+        "shortAnswer": "Yes, many apartments include a washing machine.",
+        "answer": "Most furnished apartments provide basic appliances including a washing machine, refrigerator and stove, although availability varies.",
+        "keywords": [
+            "washing machine",
+            "appliances",
+            "laundry"
+        ],
+        "tips": [
+            "Verify included appliances before signing the lease."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_029",
+        "category": "Housing",
+        "title": "Should I live close to my university?",
+        "shortAnswer": "Living near campus can reduce travel time and transportation costs.",
+        "answer": "Choosing accommodation close to your university makes commuting easier and gives you more flexibility for classes and campus activities.",
+        "keywords": [
+            "campus",
+            "commute",
+            "location"
+        ],
+        "tips": [
+            "Compare rent savings against transportation costs."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_030",
+        "category": "Housing",
+        "title": "What is the biggest mistake new international students make when renting?",
+        "shortAnswer": "Signing a lease without understanding all costs and conditions.",
+        "answer": "Students sometimes focus only on monthly rent and overlook utility costs, deposits, notice periods or maintenance responsibilities. Read the entire agreement before signing.",
+        "keywords": [
+            "mistakes",
+            "lease",
+            "utilities",
+            "deposit",
+            "rent"
+        ],
+        "tips": [
+            "Never rush into signing a rental agreement without reading every section."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_031",
+        "category": "Housing",
+        "title": "Should I inspect the neighborhood before renting?",
+        "shortAnswer": "Yes, visit the neighborhood at different times of the day if possible.",
+        "answer": "Inspecting the neighborhood helps you understand nearby public transport, grocery stores, pharmacies, restaurants and the general environment before signing a lease.",
+        "keywords": [
+            "neighborhood",
+            "location",
+            "safety",
+            "inspection"
+        ],
+        "tips": [
+            "Use Google Street View and Maps if you cannot visit in person."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_032",
+        "category": "Housing",
+        "title": "How far should my apartment be from public transport?",
+        "shortAnswer": "Living within walking distance of a stop is usually convenient.",
+        "answer": "Choosing accommodation near a bus, tram or trolleybus stop makes commuting to university and the city much easier.",
+        "keywords": [
+            "public transport",
+            "bus",
+            "tram",
+            "location"
+        ],
+        "tips": [
+            "Check your daily commute before renting."
+        ],
+        "officialSources": [
+            {
+                "name": "Rīgas Satiksme",
+                "url": "https://www.rigassatiksme.lv/en/"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_033",
+        "category": "Housing",
+        "title": "Should I ask about internet speed before renting?",
+        "shortAnswer": "Yes, especially if you attend online classes or work remotely.",
+        "answer": "Reliable internet is important for studying, video calls and submitting assignments. Confirm the available connection and speed before signing the lease.",
+        "keywords": [
+            "internet",
+            "wifi",
+            "speed",
+            "remote study"
+        ],
+        "tips": [
+            "Run an internet speed test if viewing the apartment in person."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_034",
+        "category": "Housing",
+        "title": "Can I have overnight guests in my apartment?",
+        "shortAnswer": "Guest policies depend on the rental agreement.",
+        "answer": "Some landlords or student residences may have rules regarding overnight guests. Review your agreement and respect building policies.",
+        "keywords": [
+            "guests",
+            "visitors",
+            "rules"
+        ],
+        "tips": [
+            "Discuss visitor policies before moving in."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_035",
+        "category": "Housing",
+        "title": "What should I do if my landlord does not respond to maintenance requests?",
+        "shortAnswer": "Keep written records and follow the communication process in your lease.",
+        "answer": "Notify your landlord in writing and keep copies of messages regarding repair requests. Documentation can be helpful if disputes arise.",
+        "keywords": [
+            "maintenance",
+            "repair",
+            "landlord",
+            "communication"
+        ],
+        "tips": [
+            "Use email whenever possible so you have a written record."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_036",
+        "category": "Housing",
+        "title": "Should I count utility costs in my monthly budget?",
+        "shortAnswer": "Yes, utilities can significantly affect living expenses.",
+        "answer": "Heating, electricity, water and internet may vary by season, particularly during winter when heating costs are generally higher.",
+        "keywords": [
+            "utilities",
+            "budget",
+            "expenses",
+            "heating"
+        ],
+        "tips": [
+            "Plan for higher winter utility bills."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_037",
+        "category": "Housing",
+        "title": "What basic furniture should a student apartment include?",
+        "shortAnswer": "A bed, desk, chair, wardrobe and kitchen appliances are commonly expected.",
+        "answer": "Before renting, confirm exactly which furniture and appliances are included to avoid unexpected purchases after moving in.",
+        "keywords": [
+            "furniture",
+            "desk",
+            "bed",
+            "appliances"
+        ],
+        "tips": [
+            "Request an inventory list before signing the contract."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_038",
+        "category": "Housing",
+        "title": "Should I keep copies of rent receipts?",
+        "shortAnswer": "Yes, keep proof of every payment.",
+        "answer": "Maintain records of rent payments, deposits and utility payments throughout your tenancy for future reference.",
+        "keywords": [
+            "receipts",
+            "payments",
+            "rent",
+            "records"
+        ],
+        "tips": [
+            "Save digital copies in cloud storage."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_039",
+        "category": "Housing",
+        "title": "Can I renew my rental agreement?",
+        "shortAnswer": "Many leases can be renewed by agreement with the landlord.",
+        "answer": "If you wish to stay longer, discuss renewal several weeks before your lease expires to avoid losing the apartment.",
+        "keywords": [
+            "renew",
+            "lease",
+            "contract"
+        ],
+        "tips": [
+            "Contact your landlord early if you plan to extend your stay."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_040",
+        "category": "Housing",
+        "title": "What is the best housing advice for new international students?",
+        "shortAnswer": "Choose safe accommodation, understand your lease and budget for utilities.",
+        "answer": "Avoid rushing into rental decisions. Compare multiple options, read the lease carefully, inspect the property, verify monthly costs and keep all important housing documents organized.",
+        "keywords": [
+            "housing",
+            "rent",
+            "lease",
+            "student",
+            "advice"
+        ],
+        "tips": [
+            "A good apartment is not just about low rent—consider safety, transport and utility costs."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_041",
+        "category": "Housing",
+        "title": "How much should I budget for monthly housing expenses?",
+        "shortAnswer": "Include rent, utilities, internet and other living costs in your monthly budget.",
+        "answer": "Your monthly housing budget should include rent, electricity, heating, water, internet and any building maintenance charges that are not included in the rent.",
+        "keywords": [
+            "budget",
+            "housing cost",
+            "utilities",
+            "rent"
+        ],
+        "tips": [
+            "Keep at least one month's expenses as an emergency fund."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_042",
+        "category": "Housing",
+        "title": "Should I live alone or with roommates?",
+        "shortAnswer": "Living with roommates is usually more affordable.",
+        "answer": "Sharing an apartment reduces rent and utility costs while providing opportunities to build friendships. Living alone offers greater privacy but is generally more expensive.",
+        "keywords": [
+            "roommate",
+            "shared apartment",
+            "living alone"
+        ],
+        "tips": [
+            "Discuss cleaning schedules and expenses before moving in together."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_043",
+        "category": "Housing",
+        "title": "Should I check mobile network coverage inside the apartment?",
+        "shortAnswer": "Yes, especially if you rely on mobile internet.",
+        "answer": "Good mobile signal is important for calls and internet access. Check signal strength during your apartment visit if possible.",
+        "keywords": [
+            "mobile network",
+            "signal",
+            "internet"
+        ],
+        "tips": [
+            "Test both Wi-Fi and mobile data before signing the lease."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_044",
+        "category": "Housing",
+        "title": "Can I register my residence using my rental address?",
+        "shortAnswer": "Residence registration requirements depend on your legal status and applicable regulations.",
+        "answer": "Students should follow the guidance provided by the Office of Citizenship and Migration Affairs and their university regarding residence registration.",
+        "keywords": [
+            "residence",
+            "registration",
+            "address"
+        ],
+        "tips": [
+            "Keep a copy of your rental agreement if required during registration."
+        ],
+        "officialSources": [
+            {
+                "name": "PMLP",
+                "url": "https://www.pmlp.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_045",
+        "category": "Housing",
+        "title": "What should I do if I lose my apartment keys?",
+        "shortAnswer": "Inform your landlord or building manager immediately.",
+        "answer": "Notify the appropriate contact as soon as possible so replacement keys or locks can be arranged if necessary.",
+        "keywords": [
+            "keys",
+            "lost keys",
+            "landlord"
+        ],
+        "tips": [
+            "Keep a spare key in a secure location if permitted."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_046",
+        "category": "Housing",
+        "title": "Should I check for smoke detectors in the apartment?",
+        "shortAnswer": "Yes, smoke detectors are an important safety feature.",
+        "answer": "Before moving in, verify that smoke detectors are installed and functioning properly.",
+        "keywords": [
+            "smoke detector",
+            "fire safety",
+            "apartment"
+        ],
+        "tips": [
+            "Test smoke detectors periodically during your tenancy."
+        ],
+        "officialSources": [
+            {
+                "name": "State Fire and Rescue Service",
+                "url": "https://www.vugd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_047",
+        "category": "Housing",
+        "title": "Can I receive online shopping deliveries at my apartment?",
+        "shortAnswer": "Yes, deliveries can usually be made to your registered address.",
+        "answer": "Most delivery companies can deliver packages directly to residential addresses. Follow the delivery instructions provided by the courier.",
+        "keywords": [
+            "delivery",
+            "parcel",
+            "shopping"
+        ],
+        "tips": [
+            "Include your apartment number and phone number when placing orders."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvijas Pasts",
+                "url": "https://www.pasts.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_048",
+        "category": "Housing",
+        "title": "Is it important to know who manages the building?",
+        "shortAnswer": "Yes, building management may handle maintenance and common facilities.",
+        "answer": "Knowing the building manager or management company makes it easier to report issues related to common areas, heating or building access.",
+        "keywords": [
+            "building management",
+            "maintenance",
+            "property"
+        ],
+        "tips": [
+            "Save the building manager's contact information."
+        ],
+        "officialSources": [
+            {
+                "name": "Riga City Council",
+                "url": "https://www.riga.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_049",
+        "category": "Housing",
+        "title": "Should I check nearby supermarkets before renting?",
+        "shortAnswer": "Yes, nearby grocery stores make daily life much easier.",
+        "answer": "Living close to supermarkets, pharmacies and public transport can significantly improve convenience and reduce travel time.",
+        "keywords": [
+            "supermarket",
+            "grocery",
+            "location"
+        ],
+        "tips": [
+            "Walk around the neighborhood before making your decision."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "housing_050",
+        "category": "Housing",
+        "title": "What is the most important housing advice for international students?",
+        "shortAnswer": "Choose accommodation based on safety, location and total monthly cost—not rent alone.",
+        "answer": "A good apartment should have reliable heating, reasonable utility costs, convenient transport access, nearby grocery stores and a clear written rental agreement. Taking time to compare options can prevent many common problems.",
+        "keywords": [
+            "housing",
+            "student",
+            "rent",
+            "advice",
+            "apartment"
+        ],
+        "tips": [
+            "Never feel pressured to sign a lease immediately without reading it carefully."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    }
+]

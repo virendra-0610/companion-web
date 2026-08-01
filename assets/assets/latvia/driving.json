@@ -1,0 +1,1183 @@
+[
+    {
+        "id": "driving_001",
+        "category": "Driving",
+        "title": "Which side of the road do vehicles drive on in Latvia?",
+        "shortAnswer": "Vehicles drive on the right-hand side of the road.",
+        "answer": "Traffic in Latvia keeps to the right. Overtaking is normally performed on the left unless road signs or markings indicate otherwise.",
+        "keywords": [
+            "right side",
+            "traffic",
+            "road",
+            "drive",
+            "left",
+            "overtake"
+        ],
+        "tips": [
+            "Be extra careful during your first few days of driving.",
+            "Watch for tram tracks in Riga."
+        ],
+        "officialSources": [
+            {
+                "name": "CSDD",
+                "url": "https://www.csdd.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_002",
+        "category": "Driving",
+        "title": "Can I use my Indian driving licence in Latvia?",
+        "shortAnswer": "It depends on your residence status and Latvian regulations.",
+        "answer": "Students staying in Latvia for a longer period should verify whether their licence remains valid or must be exchanged according to Latvian law.",
+        "keywords": [
+            "indian licence",
+            "driver licence",
+            "license",
+            "IDP"
+        ],
+        "tips": [
+            "Carry your original licence.",
+            "Carry your passport.",
+            "Check CSDD before driving."
+        ],
+        "officialSources": [
+            {
+                "name": "CSDD",
+                "url": "https://www.csdd.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_003",
+        "category": "Driving",
+        "title": "Do I need an International Driving Permit?",
+        "shortAnswer": "It depends on your licence and residency status.",
+        "answer": "Some foreign drivers carry an International Driving Permit together with their original licence. Always verify current CSDD requirements.",
+        "keywords": [
+            "idp",
+            "international permit",
+            "driving permit"
+        ],
+        "tips": [
+            "Never carry only the IDP.",
+            "Carry the original licence as well."
+        ],
+        "officialSources": [
+            {
+                "name": "CSDD",
+                "url": "https://www.csdd.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_004",
+        "category": "Driving",
+        "title": "Are seat belts mandatory?",
+        "shortAnswer": "Yes.",
+        "answer": "Drivers and passengers must use seat belts where fitted. Child passengers should use an appropriate child restraint when required.",
+        "keywords": [
+            "seat belt",
+            "child seat",
+            "safety"
+        ],
+        "tips": [
+            "Ensure every passenger is buckled before moving."
+        ],
+        "officialSources": [
+            {
+                "name": "CSDD",
+                "url": "https://www.csdd.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_005",
+        "category": "Driving",
+        "title": "Is drink driving allowed?",
+        "shortAnswer": "Latvia has strict drink-driving laws.",
+        "answer": "Never drive after consuming alcohol. Penalties can be severe depending on the circumstances.",
+        "keywords": [
+            "alcohol",
+            "drink driving",
+            "DUI",
+            "BAC"
+        ],
+        "tips": [
+            "Use public transport or a taxi if you've been drinking."
+        ],
+        "officialSources": [
+            {
+                "name": "CSDD",
+                "url": "https://www.csdd.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_006",
+        "category": "Driving",
+        "title": "Can I use my phone while driving?",
+        "shortAnswer": "Avoid using a handheld phone while driving.",
+        "answer": "Drivers should avoid distractions and comply with Latvian regulations regarding mobile phone use while operating a vehicle.",
+        "keywords": [
+            "mobile",
+            "phone",
+            "hands free"
+        ],
+        "tips": [
+            "Use hands-free equipment if necessary."
+        ],
+        "officialSources": [
+            {
+                "name": "CSDD",
+                "url": "https://www.csdd.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_007",
+        "category": "Driving",
+        "title": "Are winter tyres required?",
+        "shortAnswer": "Winter tyres are required during the official winter season.",
+        "answer": "Vehicles must comply with Latvian seasonal tyre requirements. Check current CSDD dates each year.",
+        "keywords": [
+            "winter tyres",
+            "snow tyres",
+            "season"
+        ],
+        "tips": [
+            "Replace tyres before winter begins."
+        ],
+        "officialSources": [
+            {
+                "name": "CSDD",
+                "url": "https://www.csdd.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_008",
+        "category": "Driving",
+        "title": "Do headlights need to be switched on?",
+        "shortAnswer": "Drivers must comply with Latvian lighting requirements.",
+        "answer": "Vehicle lighting requirements vary depending on conditions and regulations. Check CSDD guidance.",
+        "keywords": [
+            "lights",
+            "headlights",
+            "daytime running lights"
+        ],
+        "tips": [
+            "Check all exterior lights before driving."
+        ],
+        "officialSources": [
+            {
+                "name": "CSDD",
+                "url": "https://www.csdd.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_009",
+        "category": "Driving",
+        "title": "What should I do after a traffic accident?",
+        "shortAnswer": "Ensure safety first and follow Latvian procedures.",
+        "answer": "Move to a safe location if possible, assist injured persons, contact emergency services if required, and exchange information with other parties.",
+        "keywords": [
+            "accident",
+            "crash",
+            "insurance"
+        ],
+        "tips": [
+            "Call 112 in emergencies.",
+            "Take photographs if safe."
+        ],
+        "officialSources": [
+            {
+                "name": "112 Latvia",
+                "url": "https://www.112.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_010",
+        "category": "Driving",
+        "title": "Where can I find official driving rules in Latvia?",
+        "shortAnswer": "The official source is CSDD.",
+        "answer": "The Road Traffic Safety Directorate (CSDD) publishes official guidance, driver services, examinations and road safety information.",
+        "keywords": [
+            "rules",
+            "traffic laws",
+            "official"
+        ],
+        "tips": [
+            "Always verify legal information from official sources."
+        ],
+        "officialSources": [
+            {
+                "name": "CSDD",
+                "url": "https://www.csdd.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_011",
+        "category": "Driving",
+        "title": "What are the general speed limits in Latvia?",
+        "shortAnswer": "Speed limits depend on the type of road and are indicated by traffic signs.",
+        "answer": "Always follow posted speed limit signs. Different limits apply within cities, outside built-up areas and on highways. Temporary limits may also apply due to weather or road works.",
+        "keywords": [
+            "speed",
+            "speed limit",
+            "highway",
+            "road"
+        ],
+        "tips": [
+            "Never assume the speed limit.",
+            "Watch for temporary road work signs."
+        ],
+        "officialSources": [
+            {
+                "name": "CSDD",
+                "url": "https://www.csdd.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_012",
+        "category": "Driving",
+        "title": "Do trams have priority in Latvia?",
+        "shortAnswer": "In many situations, yes.",
+        "answer": "Trams often have priority according to Latvian traffic regulations. Always pay attention to traffic signs, road markings and traffic lights.",
+        "keywords": [
+            "tram",
+            "priority",
+            "right of way"
+        ],
+        "tips": [
+            "Be especially careful when driving in Riga."
+        ],
+        "officialSources": [
+            {
+                "name": "CSDD",
+                "url": "https://www.csdd.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_013",
+        "category": "Driving",
+        "title": "Can I park anywhere on the street?",
+        "shortAnswer": "No. Parking restrictions are indicated by road signs.",
+        "answer": "Many city areas have paid parking or restricted parking zones. Always read nearby parking signs before leaving your vehicle.",
+        "keywords": [
+            "parking",
+            "street parking",
+            "parking rules"
+        ],
+        "tips": [
+            "Use official parking payment methods.",
+            "Don't block tram tracks."
+        ],
+        "officialSources": [
+            {
+                "name": "Riga Municipality",
+                "url": "https://www.riga.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_014",
+        "category": "Driving",
+        "title": "Can police stop vehicles for inspection?",
+        "shortAnswer": "Yes.",
+        "answer": "Police may stop vehicles to verify documents, conduct traffic enforcement or perform safety inspections.",
+        "keywords": [
+            "police",
+            "inspection",
+            "traffic police"
+        ],
+        "tips": [
+            "Remain calm.",
+            "Present documents when requested."
+        ],
+        "officialSources": [
+            {
+                "name": "State Police",
+                "url": "https://www.vp.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_015",
+        "category": "Driving",
+        "title": "Which documents should I carry while driving?",
+        "shortAnswer": "Carry all legally required identification and vehicle documents.",
+        "answer": "Drivers should carry the documents required under Latvian law, including personal identification and vehicle documentation where applicable.",
+        "keywords": [
+            "documents",
+            "vehicle registration",
+            "licence"
+        ],
+        "tips": [
+            "Keep documents accessible.",
+            "Do not carry damaged documents."
+        ],
+        "officialSources": [
+            {
+                "name": "CSDD",
+                "url": "https://www.csdd.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_016",
+        "category": "Driving",
+        "title": "Are dash cameras legal in Latvia?",
+        "shortAnswer": "They are commonly used, but recordings must respect privacy and applicable laws.",
+        "answer": "Dash cameras may be used responsibly. If recordings contain personal data, privacy rules may apply.",
+        "keywords": [
+            "dashcam",
+            "camera",
+            "privacy"
+        ],
+        "tips": [
+            "Avoid publishing recordings containing personal information without considering legal requirements."
+        ],
+        "officialSources": [
+            {
+                "name": "Data State Inspectorate",
+                "url": "https://www.dvi.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_017",
+        "category": "Driving",
+        "title": "Can I overtake on any road?",
+        "shortAnswer": "No.",
+        "answer": "Overtaking is prohibited in certain locations and situations. Always obey road signs, markings and visibility requirements.",
+        "keywords": [
+            "overtake",
+            "passing",
+            "road rules"
+        ],
+        "tips": [
+            "Never overtake at pedestrian crossings or where prohibited."
+        ],
+        "officialSources": [
+            {
+                "name": "CSDD",
+                "url": "https://www.csdd.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_018",
+        "category": "Driving",
+        "title": "What should I do if my vehicle breaks down?",
+        "shortAnswer": "Move to a safe place and seek assistance.",
+        "answer": "Turn on hazard warning lights, move the vehicle if safe, and contact roadside assistance if necessary.",
+        "keywords": [
+            "breakdown",
+            "roadside",
+            "hazard lights"
+        ],
+        "tips": [
+            "Wear a reflective vest if exiting on a roadway."
+        ],
+        "officialSources": [
+            {
+                "name": "CSDD",
+                "url": "https://www.csdd.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_019",
+        "category": "Driving",
+        "title": "What emergency number should drivers call?",
+        "shortAnswer": "Call 112 for emergencies.",
+        "answer": "The European emergency number 112 connects callers to emergency services in Latvia.",
+        "keywords": [
+            "112",
+            "emergency",
+            "ambulance",
+            "fire",
+            "police"
+        ],
+        "tips": [
+            "Use only for genuine emergencies."
+        ],
+        "officialSources": [
+            {
+                "name": "112 Latvia",
+                "url": "https://www.112.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_020",
+        "category": "Driving",
+        "title": "Where can I learn Latvian traffic rules?",
+        "shortAnswer": "The official source is CSDD.",
+        "answer": "The Road Traffic Safety Directorate (CSDD) provides official information for drivers, examinations, licensing and road safety.",
+        "keywords": [
+            "traffic rules",
+            "driving rules",
+            "road safety"
+        ],
+        "tips": [
+            "Always rely on official guidance before making legal decisions."
+        ],
+        "officialSources": [
+            {
+                "name": "CSDD",
+                "url": "https://www.csdd.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_021",
+        "category": "Driving",
+        "title": "What should I do when approaching a pedestrian crossing?",
+        "shortAnswer": "Slow down and give way to pedestrians when required.",
+        "answer": "Drivers should approach pedestrian crossings carefully, remain alert for people crossing, and comply with Latvian traffic regulations regarding pedestrian priority.",
+        "keywords": [
+            "pedestrian",
+            "crosswalk",
+            "zebra crossing",
+            "priority"
+        ],
+        "tips": [
+            "Reduce speed near schools and residential areas."
+        ],
+        "officialSources": [
+            {
+                "name": "CSDD",
+                "url": "https://www.csdd.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_022",
+        "category": "Driving",
+        "title": "Can I drive during heavy snowfall?",
+        "shortAnswer": "Yes, but only if your vehicle is prepared for winter conditions.",
+        "answer": "Winter weather can reduce visibility and road grip. Drive at a safe speed, increase following distance and ensure your vehicle is equipped according to seasonal requirements.",
+        "keywords": [
+            "snow",
+            "winter",
+            "ice",
+            "winter driving"
+        ],
+        "tips": [
+            "Clear snow from all windows before driving.",
+            "Carry an ice scraper."
+        ],
+        "officialSources": [
+            {
+                "name": "CSDD",
+                "url": "https://www.csdd.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_023",
+        "category": "Driving",
+        "title": "Should I keep a safe following distance?",
+        "shortAnswer": "Yes. Always maintain enough distance to stop safely.",
+        "answer": "Following too closely increases the risk of collisions, especially during rain, snow or icy conditions.",
+        "keywords": [
+            "following distance",
+            "tailgating",
+            "braking"
+        ],
+        "tips": [
+            "Increase distance during bad weather."
+        ],
+        "officialSources": [
+            {
+                "name": "CSDD",
+                "url": "https://www.csdd.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_024",
+        "category": "Driving",
+        "title": "Can I park on a pedestrian crossing?",
+        "shortAnswer": "No.",
+        "answer": "Parking on or near pedestrian crossings is prohibited where restricted by Latvian traffic regulations.",
+        "keywords": [
+            "parking",
+            "crossing",
+            "illegal parking"
+        ],
+        "tips": [
+            "Always check road signs before parking."
+        ],
+        "officialSources": [
+            {
+                "name": "CSDD",
+                "url": "https://www.csdd.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_025",
+        "category": "Driving",
+        "title": "What should I do if an emergency vehicle approaches?",
+        "shortAnswer": "Give way safely.",
+        "answer": "Drivers should allow emergency vehicles with active warning signals to pass as quickly and safely as possible.",
+        "keywords": [
+            "ambulance",
+            "fire truck",
+            "police",
+            "sirens"
+        ],
+        "tips": [
+            "Do not panic.",
+            "Avoid blocking intersections."
+        ],
+        "officialSources": [
+            {
+                "name": "State Police",
+                "url": "https://www.vp.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_026",
+        "category": "Driving",
+        "title": "Is vehicle insurance mandatory?",
+        "shortAnswer": "Yes. Vehicles must have the required insurance before being driven.",
+        "answer": "Motor vehicles must comply with Latvian insurance requirements before using public roads.",
+        "keywords": [
+            "insurance",
+            "vehicle insurance",
+            "car insurance"
+        ],
+        "tips": [
+            "Verify your insurance remains valid."
+        ],
+        "officialSources": [
+            {
+                "name": "CSDD",
+                "url": "https://www.csdd.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_027",
+        "category": "Driving",
+        "title": "Can cyclists use the road?",
+        "shortAnswer": "Yes. Drivers should safely share the road with cyclists.",
+        "answer": "Cyclists have rights and responsibilities under Latvian traffic regulations. Maintain a safe distance when overtaking.",
+        "keywords": [
+            "bicycle",
+            "cyclist",
+            "bike lane"
+        ],
+        "tips": [
+            "Always check mirrors before turning."
+        ],
+        "officialSources": [
+            {
+                "name": "CSDD",
+                "url": "https://www.csdd.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_028",
+        "category": "Driving",
+        "title": "What should I do if I hit a wild animal?",
+        "shortAnswer": "Stop safely and contact the appropriate authorities if required.",
+        "answer": "Wildlife collisions can occur outside urban areas. Secure the scene, avoid unnecessary risks and notify emergency services or police when appropriate.",
+        "keywords": [
+            "animal",
+            "deer",
+            "collision",
+            "forest"
+        ],
+        "tips": [
+            "Do not approach injured wildlife."
+        ],
+        "officialSources": [
+            {
+                "name": "112 Latvia",
+                "url": "https://www.112.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_029",
+        "category": "Driving",
+        "title": "Should I use hazard warning lights?",
+        "shortAnswer": "Use them only when appropriate.",
+        "answer": "Hazard warning lights help warn other road users when your vehicle creates an unexpected hazard or is stopped due to an emergency.",
+        "keywords": [
+            "hazard",
+            "warning lights",
+            "breakdown"
+        ],
+        "tips": [
+            "Turn them off once the hazard has ended."
+        ],
+        "officialSources": [
+            {
+                "name": "CSDD",
+                "url": "https://www.csdd.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_030",
+        "category": "Driving",
+        "title": "Where can I check the latest Latvian driving regulations?",
+        "shortAnswer": "Use official government websites.",
+        "answer": "Always verify legal or procedural information through the official Latvian Road Traffic Safety Directorate (CSDD) or other relevant government authorities before making decisions.",
+        "keywords": [
+            "official rules",
+            "traffic law",
+            "driving regulations"
+        ],
+        "tips": [
+            "Avoid relying only on social media or forums for legal advice."
+        ],
+        "officialSources": [
+            {
+                "name": "CSDD",
+                "url": "https://www.csdd.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_031",
+        "category": "Driving",
+        "title": "Can I turn right on a red traffic light?",
+        "shortAnswer": "No, unless a specific traffic sign allows it.",
+        "answer": "Drivers must obey traffic lights. A right turn on red is only permitted where explicitly indicated by official road signs.",
+        "keywords": [
+            "red light",
+            "traffic signal",
+            "right turn"
+        ],
+        "tips": [
+            "Never assume right-on-red is allowed."
+        ],
+        "officialSources": [
+            {
+                "name": "CSDD",
+                "url": "https://www.csdd.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_032",
+        "category": "Driving",
+        "title": "Should children use child safety seats?",
+        "shortAnswer": "Yes, where required by Latvian law.",
+        "answer": "Children must be transported using appropriate child restraint systems according to applicable Latvian regulations.",
+        "keywords": [
+            "child seat",
+            "baby seat",
+            "children"
+        ],
+        "tips": [
+            "Never hold a child on your lap while driving."
+        ],
+        "officialSources": [
+            {
+                "name": "CSDD",
+                "url": "https://www.csdd.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_033",
+        "category": "Driving",
+        "title": "Do pedestrians always have priority?",
+        "shortAnswer": "Drivers must comply with pedestrian priority rules at crossings.",
+        "answer": "Approach crossings carefully and be prepared to stop whenever required by Latvian traffic regulations.",
+        "keywords": [
+            "pedestrian",
+            "crosswalk",
+            "priority"
+        ],
+        "tips": [
+            "Reduce speed near crossings."
+        ],
+        "officialSources": [
+            {
+                "name": "CSDD",
+                "url": "https://www.csdd.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_034",
+        "category": "Driving",
+        "title": "Can I drive with headphones?",
+        "shortAnswer": "Avoid anything that reduces awareness while driving.",
+        "answer": "Drivers should remain fully aware of surrounding traffic and emergency vehicles at all times.",
+        "keywords": [
+            "headphones",
+            "earphones",
+            "music"
+        ],
+        "tips": [
+            "Keep your hearing unobstructed while driving."
+        ],
+        "officialSources": [
+            {
+                "name": "CSDD",
+                "url": "https://www.csdd.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_035",
+        "category": "Driving",
+        "title": "Can I stop on a motorway shoulder?",
+        "shortAnswer": "Only in emergencies.",
+        "answer": "The emergency shoulder should only be used when absolutely necessary, such as vehicle breakdowns or emergencies.",
+        "keywords": [
+            "motorway",
+            "highway",
+            "shoulder"
+        ],
+        "tips": [
+            "Switch on hazard lights immediately."
+        ],
+        "officialSources": [
+            {
+                "name": "CSDD",
+                "url": "https://www.csdd.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_036",
+        "category": "Driving",
+        "title": "Should I carry a reflective safety vest?",
+        "shortAnswer": "Yes. It is recommended and may be legally required in certain situations.",
+        "answer": "If you need to leave your vehicle after a breakdown or accident, wearing a reflective vest improves visibility and safety.",
+        "keywords": [
+            "reflective vest",
+            "safety",
+            "breakdown"
+        ],
+        "tips": [
+            "Keep the vest inside the passenger compartment."
+        ],
+        "officialSources": [
+            {
+                "name": "CSDD",
+                "url": "https://www.csdd.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_037",
+        "category": "Driving",
+        "title": "Should I keep emergency equipment in my car?",
+        "shortAnswer": "Yes.",
+        "answer": "Keeping basic emergency equipment such as a warning triangle, first-aid kit and reflective vest helps you deal safely with unexpected situations.",
+        "keywords": [
+            "warning triangle",
+            "first aid",
+            "emergency kit"
+        ],
+        "tips": [
+            "Check expiry dates of first-aid supplies."
+        ],
+        "officialSources": [
+            {
+                "name": "CSDDD",
+                "url": "https://www.csdd.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_038",
+        "category": "Driving",
+        "title": "Are roads slippery during autumn?",
+        "shortAnswer": "Yes. Wet leaves and rain can significantly reduce tyre grip.",
+        "answer": "Drivers should reduce speed during autumn and early winter when road conditions may deteriorate rapidly.",
+        "keywords": [
+            "autumn",
+            "wet roads",
+            "slippery"
+        ],
+        "tips": [
+            "Increase braking distance."
+        ],
+        "officialSources": [
+            {
+                "name": "CSDD",
+                "url": "https://www.csdd.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_039",
+        "category": "Driving",
+        "title": "Can I use cruise control during snow or ice?",
+        "shortAnswer": "It is generally safer to avoid cruise control on slippery roads.",
+        "answer": "Drivers should maintain full control of acceleration and braking during adverse weather conditions.",
+        "keywords": [
+            "cruise control",
+            "snow",
+            "ice"
+        ],
+        "tips": [
+            "Drive smoothly and avoid sudden steering movements."
+        ],
+        "officialSources": [
+            {
+                "name": "CSDD",
+                "url": "https://www.csdd.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_040",
+        "category": "Driving",
+        "title": "Where can I report dangerous road conditions?",
+        "shortAnswer": "Contact the responsible road authority or emergency services if immediate danger exists.",
+        "answer": "Hazards such as fallen trees, damaged road surfaces or objects blocking the road should be reported to the appropriate authority.",
+        "keywords": [
+            "road hazard",
+            "danger",
+            "report"
+        ],
+        "tips": [
+            "If lives are at risk, call 112 immediately."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvian State Roads",
+                "url": "https://lvceli.lv/en/"
+            },
+            {
+                "name": "112 Latvia",
+                "url": "https://www.112.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_041",
+        "category": "Driving",
+        "title": "Should I check weather conditions before driving?",
+        "shortAnswer": "Yes, especially during winter.",
+        "answer": "Latvia experiences snow, ice, fog and heavy rain during different seasons. Checking the weather before a journey helps you prepare and drive safely.",
+        "keywords": [
+            "weather",
+            "snow",
+            "fog",
+            "rain",
+            "forecast"
+        ],
+        "tips": [
+            "Allow extra travel time during winter."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvian Environment, Geology and Meteorology Centre",
+                "url": "https://www.meteo.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_042",
+        "category": "Driving",
+        "title": "Can foreign tourists rent a car in Latvia?",
+        "shortAnswer": "Yes, if they meet the rental company's requirements.",
+        "answer": "Rental companies may have minimum age, licence duration and documentation requirements. Check directly with the rental provider.",
+        "keywords": [
+            "car rental",
+            "rent car",
+            "tourist"
+        ],
+        "tips": [
+            "Inspect the vehicle before leaving."
+        ],
+        "officialSources": [
+            {
+                "name": "CSDD",
+                "url": "https://www.csdd.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_043",
+        "category": "Driving",
+        "title": "Is speeding monitored by cameras?",
+        "shortAnswer": "Yes. Speed enforcement cameras operate in Latvia.",
+        "answer": "Drivers should always obey posted speed limits as violations may be detected using automated enforcement systems.",
+        "keywords": [
+            "speed camera",
+            "speeding",
+            "traffic camera"
+        ],
+        "tips": [
+            "Drive according to posted limits rather than relying on navigation apps."
+        ],
+        "officialSources": [
+            {
+                "name": "State Police",
+                "url": "https://www.vp.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_044",
+        "category": "Driving",
+        "title": "Should I remove snow from my vehicle before driving?",
+        "shortAnswer": "Yes.",
+        "answer": "Snow or ice on the roof, windows and lights can create hazards for you and other road users.",
+        "keywords": [
+            "snow",
+            "vehicle",
+            "winter",
+            "ice"
+        ],
+        "tips": [
+            "Clear all windows, mirrors and lights."
+        ],
+        "officialSources": [
+            {
+                "name": "CSDD",
+                "url": "https://www.csdd.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_045",
+        "category": "Driving",
+        "title": "Can I use summer tyres all year?",
+        "shortAnswer": "No. Latvia has seasonal tyre requirements.",
+        "answer": "Vehicles must comply with official tyre regulations during winter periods.",
+        "keywords": [
+            "summer tyres",
+            "winter tyres",
+            "seasonal tyres"
+        ],
+        "tips": [
+            "Check tyre tread before every winter season."
+        ],
+        "officialSources": [
+            {
+                "name": "CSDD",
+                "url": "https://www.csdd.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_046",
+        "category": "Driving",
+        "title": "What should I do if I see black ice?",
+        "shortAnswer": "Reduce speed immediately and avoid sudden movements.",
+        "answer": "Black ice can be difficult to see and greatly reduces traction. Drive smoothly and increase following distance.",
+        "keywords": [
+            "black ice",
+            "ice",
+            "winter"
+        ],
+        "tips": [
+            "Avoid hard braking."
+        ],
+        "officialSources": [
+            {
+                "name": "CSDD",
+                "url": "https://www.csdd.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_047",
+        "category": "Driving",
+        "title": "Should I keep enough fuel during winter trips?",
+        "shortAnswer": "Yes.",
+        "answer": "Cold weather and unexpected delays can increase fuel consumption. Keeping sufficient fuel improves safety during long journeys.",
+        "keywords": [
+            "fuel",
+            "winter",
+            "long trip"
+        ],
+        "tips": [
+            "Refuel before entering remote areas."
+        ],
+        "officialSources": [
+            {
+                "name": "CSDD",
+                "url": "https://www.csdd.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_048",
+        "category": "Driving",
+        "title": "Should I use winter windshield washer fluid?",
+        "shortAnswer": "Yes.",
+        "answer": "Winter washer fluid helps maintain visibility by preventing freezing in cold temperatures.",
+        "keywords": [
+            "washer fluid",
+            "winter",
+            "visibility"
+        ],
+        "tips": [
+            "Check fluid levels regularly."
+        ],
+        "officialSources": [
+            {
+                "name": "CSDD",
+                "url": "https://www.csdd.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_049",
+        "category": "Driving",
+        "title": "Can I drive through flooded roads?",
+        "shortAnswer": "Avoid flooded roads whenever possible.",
+        "answer": "Floodwater may hide hazards or damage the vehicle. Choose an alternative route if conditions appear unsafe.",
+        "keywords": [
+            "flood",
+            "rain",
+            "road"
+        ],
+        "tips": [
+            "Never underestimate water depth."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvian State Roads",
+                "url": "https://lvceli.lv/en/"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "driving_050",
+        "category": "Driving",
+        "title": "Where can I find official information about driving in Latvia?",
+        "shortAnswer": "Use CSDD as the primary official source.",
+        "answer": "The Road Traffic Safety Directorate (CSDD) provides official information about driving licences, vehicle registration, road safety, traffic regulations and driver services in Latvia.",
+        "keywords": [
+            "official",
+            "driving",
+            "csdd",
+            "rules"
+        ],
+        "tips": [
+            "Always verify legal information using official government websites."
+        ],
+        "officialSources": [
+            {
+                "name": "CSDD",
+                "url": "https://www.csdd.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    }
+]

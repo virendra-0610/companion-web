@@ -1,0 +1,1203 @@
+[
+    {
+        "id": "safety_001",
+        "category": "Safety",
+        "title": "What emergency number should newcomers call in Latvia?",
+        "shortAnswer": "Call 112 for general emergencies requiring police, ambulance or fire services.",
+        "answer": "Latvia uses 112 as the main emergency number for situations requiring immediate assistance from police, medical responders or firefighters. Operators can coordinate the appropriate emergency service.",
+        "keywords": [
+            "safety",
+            "emergency",
+            "112",
+            "police",
+            "ambulance"
+        ],
+        "tips": [
+            "Save 112 in your phone before travelling or moving to Latvia."
+        ],
+        "officialSources": [
+            {
+                "name": "European Emergency Number Association",
+                "url": "https://eena.org"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_002",
+        "category": "Safety",
+        "title": "Is Latvia a safe country for newcomers?",
+        "shortAnswer": "Latvia is generally considered safe, but normal precautions are recommended.",
+        "answer": "Latvia has a relatively low level of serious crime, but newcomers should still follow basic safety practices such as protecting belongings, avoiding risky areas at night and staying aware of their surroundings.",
+        "keywords": [
+            "safety",
+            "Latvia",
+            "crime",
+            "newcomer"
+        ],
+        "tips": [
+            "Follow local advice and use common safety practices."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvia Travel",
+                "url": "https://www.latvia.travel"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_003",
+        "category": "Safety",
+        "title": "What should newcomers know about police services in Latvia?",
+        "shortAnswer": "Police handle public safety, crime reports and emergency situations.",
+        "answer": "The Latvian State Police is responsible for maintaining public order, investigating crimes and assisting residents during safety-related situations. Non-emergency issues can be reported through official channels.",
+        "keywords": [
+            "safety",
+            "police",
+            "crime",
+            "Latvia"
+        ],
+        "tips": [
+            "Keep important identification documents accessible when needed."
+        ],
+        "officialSources": [
+            {
+                "name": "State Police Latvia",
+                "url": "https://www.vp.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_004",
+        "category": "Safety",
+        "title": "How can newcomers report a crime in Latvia?",
+        "shortAnswer": "Report emergencies by calling 112 and non-urgent cases through police channels.",
+        "answer": "Crimes involving immediate danger should be reported through emergency services. For non-urgent incidents, residents can contact the State Police using available reporting methods.",
+        "keywords": [
+            "safety",
+            "crime report",
+            "police",
+            "emergency"
+        ],
+        "tips": [
+            "Provide accurate location details when reporting incidents."
+        ],
+        "officialSources": [
+            {
+                "name": "State Police Latvia",
+                "url": "https://www.vp.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_005",
+        "category": "Safety",
+        "title": "What personal safety precautions should newcomers follow in Latvia?",
+        "shortAnswer": "Protect belongings, stay aware and follow local safety guidance.",
+        "answer": "Newcomers should take normal urban safety precautions such as securing valuables, being careful in crowded areas and avoiding unsafe situations.",
+        "keywords": [
+            "safety",
+            "personal safety",
+            "security",
+            "Latvia"
+        ],
+        "tips": [
+            "Keep copies of important documents separately from originals."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvia Travel",
+                "url": "https://www.latvia.travel"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_006",
+        "category": "Safety",
+        "title": "What should newcomers know about winter safety in Latvia?",
+        "shortAnswer": "Prepare for cold temperatures, ice, snow and shorter daylight hours.",
+        "answer": "Latvian winters can bring freezing temperatures, snow and slippery roads. Newcomers should use appropriate clothing, footwear and take care while walking or driving.",
+        "keywords": [
+            "safety",
+            "winter",
+            "weather",
+            "Latvia"
+        ],
+        "tips": [
+            "Wear shoes with good grip during icy conditions."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvian Environment Geology and Meteorology Centre",
+                "url": "https://www.lvgmc.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_007",
+        "category": "Safety",
+        "title": "How can newcomers stay safe while using public transport in Latvia?",
+        "shortAnswer": "Keep belongings secure and follow transport rules.",
+        "answer": "Public transport in Latvia is generally safe, but newcomers should remain aware of personal belongings, especially in crowded areas and during busy travel periods.",
+        "keywords": [
+            "safety",
+            "public transport",
+            "security",
+            "Latvia"
+        ],
+        "tips": [
+            "Keep bags and valuables close in crowded vehicles."
+        ],
+        "officialSources": [
+            {
+                "name": "Rīgas satiksme",
+                "url": "https://www.rigassatiksme.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_008",
+        "category": "Safety",
+        "title": "What health safety steps should newcomers take in Latvia?",
+        "shortAnswer": "Register healthcare access and know emergency medical procedures.",
+        "answer": "Newcomers should understand how to access healthcare services, keep emergency contacts available and know how to seek medical help when needed.",
+        "keywords": [
+            "safety",
+            "healthcare",
+            "medical emergency",
+            "Latvia"
+        ],
+        "tips": [
+            "Save emergency medical information in your phone."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service Latvia",
+                "url": "https://www.vmnvd.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_009",
+        "category": "Safety",
+        "title": "How can newcomers protect themselves from online scams in Latvia?",
+        "shortAnswer": "Use secure passwords, verify information and avoid suspicious requests.",
+        "answer": "Online scams can target banking, rental agreements, jobs and personal information. Newcomers should verify sources before sharing documents or making payments.",
+        "keywords": [
+            "safety",
+            "online scams",
+            "cybersecurity",
+            "fraud"
+        ],
+        "tips": [
+            "Never share banking passwords or authentication codes."
+        ],
+        "officialSources": [
+            {
+                "name": "CERT.LV",
+                "url": "https://cert.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_010",
+        "category": "Safety",
+        "title": "What safety apps and contacts should newcomers keep in Latvia?",
+        "shortAnswer": "Keep emergency numbers, transport apps and official contacts available.",
+        "answer": "A prepared newcomer should have emergency numbers, navigation tools, healthcare contacts and official service information easily accessible on their phone.",
+        "keywords": [
+            "safety",
+            "apps",
+            "emergency contacts",
+            "Latvia"
+        ],
+        "tips": [
+            "Create an emergency contact list during your first week."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvija.lv",
+                "url": "https://www.latvija.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_011",
+        "category": "Safety",
+        "title": "What should newcomers do during a fire emergency in Latvia?",
+        "shortAnswer": "Call 112, leave the building safely and follow firefighter instructions.",
+        "answer": "In case of fire, residents should immediately evacuate if possible, call the emergency number 112 and avoid risking personal safety by attempting dangerous actions.",
+        "keywords": [
+            "safety",
+            "fire emergency",
+            "112",
+            "firefighters"
+        ],
+        "tips": [
+            "Learn the emergency exits of your home and workplace."
+        ],
+        "officialSources": [
+            {
+                "name": "State Fire and Rescue Service Latvia",
+                "url": "https://www.vugd.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_012",
+        "category": "Safety",
+        "title": "How can newcomers stay safe during extreme weather in Latvia?",
+        "shortAnswer": "Follow weather warnings and prepare for storms, cold and heavy snowfall.",
+        "answer": "Latvia experiences seasonal weather changes including strong winds, snowstorms and freezing temperatures. Residents should monitor official weather alerts and prepare accordingly.",
+        "keywords": [
+            "safety",
+            "weather",
+            "storms",
+            "winter"
+        ],
+        "tips": [
+            "Check weather forecasts before long-distance travel."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvian Environment Geology and Meteorology Centre",
+                "url": "https://www.lvgmc.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_013",
+        "category": "Safety",
+        "title": "What should newcomers know about road safety in Latvia?",
+        "shortAnswer": "Follow traffic rules, use safety equipment and respect local driving laws.",
+        "answer": "Road users in Latvia must follow traffic regulations including speed limits, seat belt requirements and pedestrian safety rules. Winter conditions require extra caution.",
+        "keywords": [
+            "safety",
+            "road safety",
+            "driving",
+            "traffic"
+        ],
+        "tips": [
+            "Use winter tires and drive carefully during icy conditions."
+        ],
+        "officialSources": [
+            {
+                "name": "Road Safety Directorate Latvia",
+                "url": "https://www.csdd.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_014",
+        "category": "Safety",
+        "title": "How can newcomers protect personal documents in Latvia?",
+        "shortAnswer": "Store documents securely and report lost documents quickly.",
+        "answer": "Passports, residence cards and identity documents are important legal records. Newcomers should keep originals secure and maintain digital backups of important documents.",
+        "keywords": [
+            "safety",
+            "documents",
+            "identity",
+            "security"
+        ],
+        "tips": [
+            "Do not share document copies unless required by trusted organizations."
+        ],
+        "officialSources": [
+            {
+                "name": "Office of Citizenship and Migration Affairs Latvia",
+                "url": "https://www.pmlp.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_015",
+        "category": "Safety",
+        "title": "What should newcomers know about pedestrian safety in Latvia?",
+        "shortAnswer": "Use crossings, follow signals and be careful during dark winter months.",
+        "answer": "Pedestrians should use designated crossings and remain visible, especially during Latvia's long winter evenings when reduced daylight can increase risks.",
+        "keywords": [
+            "safety",
+            "pedestrian",
+            "traffic",
+            "winter"
+        ],
+        "tips": [
+            "Wear reflective accessories during dark conditions."
+        ],
+        "officialSources": [
+            {
+                "name": "Road Safety Directorate Latvia",
+                "url": "https://www.csdd.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_016",
+        "category": "Safety",
+        "title": "How can newcomers stay safe in Riga city areas?",
+        "shortAnswer": "Use normal city safety practices and stay aware in crowded places.",
+        "answer": "Riga is generally safe, but newcomers should protect personal belongings, avoid isolated areas late at night and remain cautious in busy tourist locations.",
+        "keywords": [
+            "safety",
+            "Riga",
+            "city safety",
+            "newcomer"
+        ],
+        "tips": [
+            "Keep valuables secure in crowded public areas."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvia Travel",
+                "url": "https://www.latvia.travel"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_017",
+        "category": "Safety",
+        "title": "What should newcomers do if they lose their passport in Latvia?",
+        "shortAnswer": "Report the loss and contact their embassy or relevant authorities.",
+        "answer": "A lost passport should be reported immediately. Foreign nationals should contact their country's embassy or consulate and follow replacement procedures.",
+        "keywords": [
+            "safety",
+            "passport",
+            "lost documents",
+            "embassy"
+        ],
+        "tips": [
+            "Keep an encrypted digital copy of your passport details."
+        ],
+        "officialSources": [
+            {
+                "name": "Ministry of Foreign Affairs Latvia",
+                "url": "https://www.mfa.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_018",
+        "category": "Safety",
+        "title": "How can newcomers avoid rental scams in Latvia?",
+        "shortAnswer": "Verify landlords, contracts and payment requests before renting.",
+        "answer": "Rental scams may involve fake listings, unrealistic prices or requests for advance payments without proper agreements. Newcomers should verify property ownership and contracts.",
+        "keywords": [
+            "safety",
+            "housing scams",
+            "rent",
+            "fraud"
+        ],
+        "tips": [
+            "Never transfer large deposits before verifying the rental agreement."
+        ],
+        "officialSources": [
+            {
+                "name": "Consumer Rights Protection Centre Latvia",
+                "url": "https://www.ptac.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_019",
+        "category": "Safety",
+        "title": "What emergency information should newcomers save on their phone?",
+        "shortAnswer": "Save emergency numbers, medical contacts and important personal details.",
+        "answer": "A prepared phone should include emergency contacts, insurance details, family contacts and essential identification information for unexpected situations.",
+        "keywords": [
+            "safety",
+            "emergency contacts",
+            "phone",
+            "preparedness"
+        ],
+        "tips": [
+            "Enable emergency contact features on your smartphone."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvija.lv",
+                "url": "https://www.latvija.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_020",
+        "category": "Safety",
+        "title": "What safety habits help newcomers settle in Latvia?",
+        "shortAnswer": "Learn local rules, protect personal information and stay prepared.",
+        "answer": "Successful settlement requires understanding emergency procedures, transportation safety, digital security and local laws. Basic preparation helps newcomers feel confident in daily life.",
+        "keywords": [
+            "safety",
+            "settlement",
+            "Latvia",
+            "newcomer"
+        ],
+        "tips": [
+            "Learn emergency procedures during your first weeks after arrival."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvija.lv",
+                "url": "https://www.latvija.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_021",
+        "category": "Safety",
+        "title": "What should newcomers know about alcohol and public safety in Latvia?",
+        "shortAnswer": "Follow local laws and avoid unsafe situations involving alcohol.",
+        "answer": "Alcohol consumption is regulated in Latvia, and public intoxication or unsafe behavior can create legal and safety problems. Newcomers should understand local rules and act responsibly.",
+        "keywords": [
+            "safety",
+            "alcohol",
+            "laws",
+            "public behavior"
+        ],
+        "tips": [
+            "Avoid accepting drinks or items from unknown people in unfamiliar situations."
+        ],
+        "officialSources": [
+            {
+                "name": "State Police Latvia",
+                "url": "https://www.vp.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_022",
+        "category": "Safety",
+        "title": "How can newcomers protect themselves from identity theft in Latvia?",
+        "shortAnswer": "Secure personal data, documents and online accounts.",
+        "answer": "Identity theft can happen through stolen documents, phishing messages or unsafe online activity. Newcomers should protect personal information and use secure authentication methods.",
+        "keywords": [
+            "safety",
+            "identity theft",
+            "privacy",
+            "cybersecurity"
+        ],
+        "tips": [
+            "Enable two-factor authentication for important accounts."
+        ],
+        "officialSources": [
+            {
+                "name": "CERT.LV",
+                "url": "https://cert.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_023",
+        "category": "Safety",
+        "title": "What should newcomers know about emergency medical services in Latvia?",
+        "shortAnswer": "Call 113 for emergency medical assistance in Latvia.",
+        "answer": "Emergency medical services in Latvia respond to urgent health situations. Residents should call the appropriate emergency number and provide accurate information about the location and situation.",
+        "keywords": [
+            "safety",
+            "medical emergency",
+            "ambulance",
+            "113"
+        ],
+        "tips": [
+            "Save both 112 and 113 emergency numbers."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service Latvia",
+                "url": "https://www.vmnvd.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_024",
+        "category": "Safety",
+        "title": "How can newcomers prepare for power outages in Latvia?",
+        "shortAnswer": "Keep essential supplies and follow official updates.",
+        "answer": "Power interruptions can happen due to weather or technical issues. Residents should keep basic supplies, emergency lighting and important contact information available.",
+        "keywords": [
+            "safety",
+            "power outage",
+            "emergency",
+            "preparedness"
+        ],
+        "tips": [
+            "Keep a flashlight and charged power bank available."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvenergo",
+                "url": "https://www.latvenergo.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_025",
+        "category": "Safety",
+        "title": "What should newcomers know about water safety in Latvia?",
+        "shortAnswer": "Follow local warnings when swimming or visiting lakes and beaches.",
+        "answer": "Latvia has many lakes, rivers and coastal areas. Visitors should follow safety signs, weather warnings and local guidance when participating in water activities.",
+        "keywords": [
+            "safety",
+            "water safety",
+            "swimming",
+            "Latvia"
+        ],
+        "tips": [
+            "Avoid swimming alone in unfamiliar locations."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvia Travel",
+                "url": "https://www.latvia.travel"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_026",
+        "category": "Safety",
+        "title": "How can newcomers stay safe while cycling in Latvia?",
+        "shortAnswer": "Use helmets, follow cycling rules and stay visible.",
+        "answer": "Cyclists in Latvia should follow traffic regulations, use proper safety equipment and remain visible, especially during darker seasons.",
+        "keywords": [
+            "safety",
+            "cycling",
+            "traffic",
+            "bicycle"
+        ],
+        "tips": [
+            "Use lights and reflective equipment when cycling at night."
+        ],
+        "officialSources": [
+            {
+                "name": "Road Safety Directorate Latvia",
+                "url": "https://www.csdd.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_027",
+        "category": "Safety",
+        "title": "What should newcomers know about workplace safety in Latvia?",
+        "shortAnswer": "Employers must provide safe working conditions and follow labor safety rules.",
+        "answer": "Latvian employers are responsible for workplace safety, training and protecting employees from occupational risks. Workers should understand their rights and safety procedures.",
+        "keywords": [
+            "safety",
+            "workplace",
+            "employment",
+            "labor"
+        ],
+        "tips": [
+            "Report unsafe workplace conditions to the appropriate authority."
+        ],
+        "officialSources": [
+            {
+                "name": "State Labour Inspectorate Latvia",
+                "url": "https://www.vdi.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_028",
+        "category": "Safety",
+        "title": "How can newcomers recognize phishing messages in Latvia?",
+        "shortAnswer": "Check senders, avoid suspicious links and verify requests.",
+        "answer": "Phishing attempts may target banking details, passwords and personal information. Newcomers should verify unexpected messages claiming to be from authorities or companies.",
+        "keywords": [
+            "safety",
+            "phishing",
+            "online security",
+            "fraud"
+        ],
+        "tips": [
+            "Do not open unknown links requesting personal information."
+        ],
+        "officialSources": [
+            {
+                "name": "CERT.LV",
+                "url": "https://cert.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_029",
+        "category": "Safety",
+        "title": "What should newcomers know about neighborhood safety in Latvia?",
+        "shortAnswer": "Learn your area and follow normal community safety practices.",
+        "answer": "Understanding local neighborhoods, transport routes and nearby services helps newcomers adapt safely. Most areas are safe when residents follow basic precautions.",
+        "keywords": [
+            "safety",
+            "neighborhood",
+            "community",
+            "Latvia"
+        ],
+        "tips": [
+            "Save nearby police stations, hospitals and emergency services."
+        ],
+        "officialSources": [
+            {
+                "name": "State Police Latvia",
+                "url": "https://www.vp.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_030",
+        "category": "Safety",
+        "title": "How can newcomers report dangerous situations in Latvia?",
+        "shortAnswer": "Contact emergency services or relevant authorities depending on the situation.",
+        "answer": "Immediate threats should be reported through emergency services. Other safety concerns can be reported to responsible authorities or service providers.",
+        "keywords": [
+            "safety",
+            "reporting",
+            "emergency",
+            "authorities"
+        ],
+        "tips": [
+            "Provide clear details including location and type of danger."
+        ],
+        "officialSources": [
+            {
+                "name": "State Police Latvia",
+                "url": "https://www.vp.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_031",
+        "category": "Safety",
+        "title": "What should newcomers know about fire safety in apartments in Latvia?",
+        "shortAnswer": "Install smoke detectors and follow basic fire prevention practices.",
+        "answer": "Apartment residents in Latvia should maintain smoke detectors, avoid unsafe electrical usage and know evacuation routes. Fire prevention is especially important during heating seasons.",
+        "keywords": [
+            "safety",
+            "fire prevention",
+            "apartments",
+            "home safety"
+        ],
+        "tips": [
+            "Test smoke detectors regularly and keep exits clear."
+        ],
+        "officialSources": [
+            {
+                "name": "State Fire and Rescue Service Latvia",
+                "url": "https://www.vugd.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_032",
+        "category": "Safety",
+        "title": "How can newcomers stay safe during Latvian winter travel?",
+        "shortAnswer": "Prepare vehicles, check conditions and allow extra travel time.",
+        "answer": "Winter conditions in Latvia can include snow, ice and reduced visibility. Travellers should check weather updates and prepare suitable clothing and transport arrangements.",
+        "keywords": [
+            "safety",
+            "winter travel",
+            "snow",
+            "ice"
+        ],
+        "tips": [
+            "Avoid unnecessary travel during severe weather warnings."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvian Environment Geology and Meteorology Centre",
+                "url": "https://www.lvgmc.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_033",
+        "category": "Safety",
+        "title": "What should newcomers know about bicycle theft prevention in Latvia?",
+        "shortAnswer": "Use secure locks and store bicycles in safe locations.",
+        "answer": "Bicycle theft can occur in urban areas. Residents should use strong locks, register valuable bicycles when possible and avoid leaving bicycles unsecured in public spaces.",
+        "keywords": [
+            "safety",
+            "bicycle",
+            "theft prevention",
+            "security"
+        ],
+        "tips": [
+            "Use a high-quality lock and secure the bicycle frame."
+        ],
+        "officialSources": [
+            {
+                "name": "State Police Latvia",
+                "url": "https://www.vp.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_034",
+        "category": "Safety",
+        "title": "How can newcomers stay safe when using online marketplaces in Latvia?",
+        "shortAnswer": "Verify sellers, avoid suspicious payments and meet safely.",
+        "answer": "Online marketplace scams can involve fake products, payment fraud or misleading listings. Buyers should verify sellers and use secure payment methods.",
+        "keywords": [
+            "safety",
+            "online marketplace",
+            "scams",
+            "payments"
+        ],
+        "tips": [
+            "Avoid sending money before confirming the transaction details."
+        ],
+        "officialSources": [
+            {
+                "name": "Consumer Rights Protection Centre Latvia",
+                "url": "https://www.ptac.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_035",
+        "category": "Safety",
+        "title": "What should newcomers know about earthquake safety in Latvia?",
+        "shortAnswer": "Earthquakes are rare, but basic emergency awareness is useful.",
+        "answer": "Latvia has low earthquake activity compared with many regions. However, newcomers should still understand general emergency procedures for unexpected natural events.",
+        "keywords": [
+            "safety",
+            "earthquake",
+            "emergency",
+            "preparedness"
+        ],
+        "tips": [
+            "Follow official emergency instructions during unusual events."
+        ],
+        "officialSources": [
+            {
+                "name": "European Emergency Number Association",
+                "url": "https://eena.org"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_036",
+        "category": "Safety",
+        "title": "How can newcomers protect their home in Latvia?",
+        "shortAnswer": "Secure doors, windows and valuable belongings.",
+        "answer": "Home security includes using reliable locks, maintaining safe access points and protecting important documents and valuables.",
+        "keywords": [
+            "safety",
+            "home security",
+            "housing",
+            "protection"
+        ],
+        "tips": [
+            "Do not share access codes or keys with unknown people."
+        ],
+        "officialSources": [
+            {
+                "name": "State Police Latvia",
+                "url": "https://www.vp.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_037",
+        "category": "Safety",
+        "title": "What should newcomers know about child safety in Latvia?",
+        "shortAnswer": "Follow child protection rules and supervise children appropriately.",
+        "answer": "Families moving to Latvia should understand local child safety practices, school safety procedures and emergency contacts.",
+        "keywords": [
+            "safety",
+            "children",
+            "family",
+            "protection"
+        ],
+        "tips": [
+            "Teach children emergency numbers and basic safety rules."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvian State Inspectorate for Protection of Children's Rights",
+                "url": "https://www.bti.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_038",
+        "category": "Safety",
+        "title": "How can newcomers handle lost items in Latvia?",
+        "shortAnswer": "Report valuable lost items and check official lost-and-found services.",
+        "answer": "Lost passports, phones, wallets or important documents should be reported quickly. Public transport operators and authorities may provide lost-and-found assistance.",
+        "keywords": [
+            "safety",
+            "lost items",
+            "documents",
+            "Latvia"
+        ],
+        "tips": [
+            "Enable device tracking features on smartphones."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvija.lv",
+                "url": "https://www.latvija.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_039",
+        "category": "Safety",
+        "title": "What should newcomers know about emergency alerts in Latvia?",
+        "shortAnswer": "Follow official warnings through government and emergency channels.",
+        "answer": "Emergency authorities may issue warnings during severe weather, disasters or public safety situations. Residents should monitor official announcements.",
+        "keywords": [
+            "safety",
+            "alerts",
+            "emergency warnings",
+            "Latvia"
+        ],
+        "tips": [
+            "Enable emergency notifications on your mobile device."
+        ],
+        "officialSources": [
+            {
+                "name": "State Fire and Rescue Service Latvia",
+                "url": "https://www.vugd.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_040",
+        "category": "Safety",
+        "title": "How can newcomers build a personal safety plan in Latvia?",
+        "shortAnswer": "Prepare emergency contacts, documents and response steps.",
+        "answer": "A personal safety plan helps newcomers respond quickly during emergencies. It should include important phone numbers, medical information, document backups and evacuation knowledge.",
+        "keywords": [
+            "safety",
+            "emergency plan",
+            "preparedness",
+            "newcomer"
+        ],
+        "tips": [
+            "Review your safety plan after major life changes."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvija.lv",
+                "url": "https://www.latvija.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_041",
+        "category": "Safety",
+        "title": "What should newcomers know about emergency shelters in Latvia?",
+        "shortAnswer": "Follow official instructions to locate safe areas during major emergencies.",
+        "answer": "During serious emergencies, authorities may provide instructions about temporary shelters, evacuation routes and safety measures. Residents should follow official announcements.",
+        "keywords": [
+            "safety",
+            "emergency shelters",
+            "evacuation",
+            "Latvia"
+        ],
+        "tips": [
+            "Keep emergency notifications enabled on your phone."
+        ],
+        "officialSources": [
+            {
+                "name": "State Fire and Rescue Service Latvia",
+                "url": "https://www.vugd.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_042",
+        "category": "Safety",
+        "title": "How can newcomers prepare an emergency kit in Latvia?",
+        "shortAnswer": "Keep basic supplies such as water, food, medicine and lighting.",
+        "answer": "An emergency kit helps residents handle unexpected situations such as power outages, severe weather or temporary disruptions. It should include essential daily items.",
+        "keywords": [
+            "safety",
+            "emergency kit",
+            "preparedness",
+            "supplies"
+        ],
+        "tips": [
+            "Store enough essential supplies for short-term emergencies."
+        ],
+        "officialSources": [
+            {
+                "name": "State Fire and Rescue Service Latvia",
+                "url": "https://www.vugd.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_043",
+        "category": "Safety",
+        "title": "What should newcomers know about scam phone calls in Latvia?",
+        "shortAnswer": "Do not share personal information with unknown callers.",
+        "answer": "Fraudulent callers may pretend to represent banks, authorities or companies. Newcomers should verify caller identities before sharing personal information or making payments.",
+        "keywords": [
+            "safety",
+            "phone scams",
+            "fraud",
+            "security"
+        ],
+        "tips": [
+            "End suspicious calls and contact organizations through official numbers."
+        ],
+        "officialSources": [
+            {
+                "name": "CERT.LV",
+                "url": "https://cert.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_044",
+        "category": "Safety",
+        "title": "How can newcomers stay safe when using ATMs in Latvia?",
+        "shortAnswer": "Use trusted ATMs and protect banking information.",
+        "answer": "Residents should use ATMs from reliable financial institutions, cover PIN entry and monitor accounts for suspicious transactions.",
+        "keywords": [
+            "safety",
+            "ATM",
+            "banking",
+            "security"
+        ],
+        "tips": [
+            "Avoid accepting help from strangers near ATMs."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvijas Banka",
+                "url": "https://www.bank.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_045",
+        "category": "Safety",
+        "title": "What should newcomers know about personal safety at night in Latvia?",
+        "shortAnswer": "Stay aware, use well-lit areas and plan transportation.",
+        "answer": "Latvia is generally safe, but newcomers should use normal precautions at night including staying in populated areas and arranging reliable transport.",
+        "keywords": [
+            "safety",
+            "night safety",
+            "transport",
+            "Latvia"
+        ],
+        "tips": [
+            "Share travel plans with trusted contacts when travelling late."
+        ],
+        "officialSources": [
+            {
+                "name": "State Police Latvia",
+                "url": "https://www.vp.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_046",
+        "category": "Safety",
+        "title": "How can newcomers safely use social media in Latvia?",
+        "shortAnswer": "Protect privacy and avoid sharing sensitive personal information.",
+        "answer": "Social media can expose users to scams, misinformation and privacy risks. Newcomers should review privacy settings and be careful with unknown contacts.",
+        "keywords": [
+            "safety",
+            "social media",
+            "privacy",
+            "online security"
+        ],
+        "tips": [
+            "Avoid posting documents or personal identification details online."
+        ],
+        "officialSources": [
+            {
+                "name": "CERT.LV",
+                "url": "https://cert.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_047",
+        "category": "Safety",
+        "title": "What should newcomers know about consumer protection in Latvia?",
+        "shortAnswer": "Consumers have rights when buying goods and services.",
+        "answer": "Latvia provides consumer protection rules covering purchases, contracts, complaints and unfair business practices. Newcomers should understand their rights as customers.",
+        "keywords": [
+            "safety",
+            "consumer rights",
+            "shopping",
+            "protection"
+        ],
+        "tips": [
+            "Keep receipts and agreements for important purchases."
+        ],
+        "officialSources": [
+            {
+                "name": "Consumer Rights Protection Centre Latvia",
+                "url": "https://www.ptac.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_048",
+        "category": "Safety",
+        "title": "How can newcomers protect themselves during public events in Latvia?",
+        "shortAnswer": "Follow event rules and remain aware of surroundings.",
+        "answer": "Large gatherings are generally safe when visitors follow organizer instructions, respect safety barriers and keep personal belongings secure.",
+        "keywords": [
+            "safety",
+            "events",
+            "crowds",
+            "public places"
+        ],
+        "tips": [
+            "Identify exits when attending large public events."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvia Travel",
+                "url": "https://www.latvia.travel"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_049",
+        "category": "Safety",
+        "title": "What should newcomers know about animal safety in Latvia?",
+        "shortAnswer": "Avoid unknown animals and follow local guidance.",
+        "answer": "Newcomers should avoid approaching unfamiliar animals and seek medical advice after animal bites or dangerous encounters.",
+        "keywords": [
+            "safety",
+            "animals",
+            "health",
+            "emergency"
+        ],
+        "tips": [
+            "Seek medical assistance after serious animal injuries."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service Latvia",
+                "url": "https://www.vmnvd.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "safety_050",
+        "category": "Safety",
+        "title": "What safety information should every newcomer learn in Latvia?",
+        "shortAnswer": "Know emergency numbers, local laws, healthcare access and personal security practices.",
+        "answer": "Understanding emergency procedures, public safety rules, digital security and local services helps newcomers adapt confidently and handle unexpected situations.",
+        "keywords": [
+            "safety",
+            "newcomer",
+            "Latvia",
+            "emergency"
+        ],
+        "tips": [
+            "Create a personal safety checklist after arrival."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvija.lv",
+                "url": "https://www.latvija.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    }
+]

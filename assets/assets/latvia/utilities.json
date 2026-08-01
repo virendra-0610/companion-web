@@ -1,0 +1,1185 @@
+[
+    {
+        "id": "utilities_001",
+        "category": "Utilities",
+        "title": "What household utilities should newcomers set up after moving to Latvia?",
+        "shortAnswer": "Electricity, water, heating, internet and mobile services are the main utilities to arrange.",
+        "answer": "After moving to a new home in Latvia, newcomers usually need to arrange electricity, heating, water, waste management, internet and mobile communication services depending on the property.",
+        "keywords": [
+            "utilities",
+            "electricity",
+            "water",
+            "internet",
+            "Latvia"
+        ],
+        "tips": [
+            "Create a checklist for all household services during your first weeks."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvija.lv",
+                "url": "https://www.latvija.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "utilities_002",
+        "category": "Utilities",
+        "title": "How can newcomers set up electricity in Latvia?",
+        "shortAnswer": "Electricity services are arranged through energy providers or included in rental agreements.",
+        "answer": "Electricity supply in Latvia is provided through energy companies. Tenants should check whether electricity is already included in rent or needs a separate contract.",
+        "keywords": [
+            "utilities",
+            "electricity",
+            "energy",
+            "Latvia"
+        ],
+        "tips": [
+            "Check previous electricity bills before signing a rental agreement."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvenergo",
+                "url": "https://www.latvenergo.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "utilities_003",
+        "category": "Utilities",
+        "title": "How does heating work in Latvian homes?",
+        "shortAnswer": "Most homes use centralized heating managed by building service providers.",
+        "answer": "Heating is an important utility in Latvia due to cold winters. Many apartments use centralized heating systems where costs are calculated based on consumption or building arrangements.",
+        "keywords": [
+            "utilities",
+            "heating",
+            "apartments",
+            "winter"
+        ],
+        "tips": [
+            "Ask landlords about average winter heating costs before renting."
+        ],
+        "officialSources": [
+            {
+                "name": "Rīgas siltums",
+                "url": "https://www.rs.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "utilities_004",
+        "category": "Utilities",
+        "title": "How can newcomers get internet service in Latvia?",
+        "shortAnswer": "Internet can be arranged through local telecom providers.",
+        "answer": "Latvia has several internet providers offering home broadband services. Availability and prices depend on location and building infrastructure.",
+        "keywords": [
+            "utilities",
+            "internet",
+            "broadband",
+            "Latvia"
+        ],
+        "tips": [
+            "Check provider availability using your exact address."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvian Public Utilities Commission",
+                "url": "https://www.sprk.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "utilities_005",
+        "category": "Utilities",
+        "title": "Which mobile operators are available in Latvia?",
+        "shortAnswer": "Latvia has several mobile operators offering prepaid and contract plans.",
+        "answer": "Newcomers can choose from multiple mobile providers offering SIM cards, mobile data and calling plans. Registration requirements may apply depending on service type.",
+        "keywords": [
+            "utilities",
+            "mobile",
+            "SIM card",
+            "telecom"
+        ],
+        "tips": [
+            "Compare prepaid plans before choosing a long-term contract."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvian Public Utilities Commission",
+                "url": "https://www.sprk.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "utilities_006",
+        "category": "Utilities",
+        "title": "How does waste collection work in Latvia?",
+        "shortAnswer": "Waste collection is managed by local municipalities and service providers.",
+        "answer": "Residents must follow local waste sorting and collection rules. Apartment buildings usually have shared waste containers managed through agreements.",
+        "keywords": [
+            "utilities",
+            "waste",
+            "recycling",
+            "Latvia"
+        ],
+        "tips": [
+            "Learn your building's waste collection schedule."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvija.lv",
+                "url": "https://www.latvija.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "utilities_007",
+        "category": "Utilities",
+        "title": "How can newcomers pay utility bills in Latvia?",
+        "shortAnswer": "Bills can usually be paid online through banks or provider portals.",
+        "answer": "Latvia has widely used digital banking services that allow residents to pay electricity, heating, internet and other household bills electronically.",
+        "keywords": [
+            "utilities",
+            "bills",
+            "payments",
+            "online banking"
+        ],
+        "tips": [
+            "Enable automatic payments for recurring household bills."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvija.lv",
+                "url": "https://www.latvija.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "utilities_008",
+        "category": "Utilities",
+        "title": "What should newcomers check before signing utility contracts?",
+        "shortAnswer": "Review prices, contract terms, payment rules and cancellation conditions.",
+        "answer": "Before signing utility agreements, newcomers should understand service costs, contract duration, billing methods and any additional fees.",
+        "keywords": [
+            "utilities",
+            "contracts",
+            "services",
+            "Latvia"
+        ],
+        "tips": [
+            "Keep copies of all signed utility agreements."
+        ],
+        "officialSources": [
+            {
+                "name": "Consumer Rights Protection Centre Latvia",
+                "url": "https://www.ptac.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "utilities_009",
+        "category": "Utilities",
+        "title": "How can newcomers change utility services after moving homes?",
+        "shortAnswer": "Update contracts and account details when changing addresses.",
+        "answer": "When moving to another property, residents should inform relevant providers, transfer or close contracts and update billing information.",
+        "keywords": [
+            "utilities",
+            "moving",
+            "address change",
+            "services"
+        ],
+        "tips": [
+            "Notify providers before your moving date."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvija.lv",
+                "url": "https://www.latvija.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "utilities_010",
+        "category": "Utilities",
+        "title": "What household utility costs should newcomers expect in Latvia?",
+        "shortAnswer": "Costs vary by home size, location, usage and season.",
+        "answer": "Monthly utility expenses depend on electricity usage, heating type, water consumption, internet plans and waste services. Winter heating can significantly increase costs.",
+        "keywords": [
+            "utilities",
+            "costs",
+            "housing",
+            "Latvia"
+        ],
+        "tips": [
+            "Ask previous tenants about average monthly expenses."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvija.lv",
+                "url": "https://www.latvija.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "utilities_011",
+        "category": "Utilities",
+        "title": "How does water supply work in Latvia?",
+        "shortAnswer": "Water services are usually managed by municipal or local utility providers.",
+        "answer": "Most homes in Latvia receive water through centralized systems managed by local providers. Apartment residents usually pay water charges through building management services.",
+        "keywords": [
+            "utilities",
+            "water",
+            "apartments",
+            "Latvia"
+        ],
+        "tips": [
+            "Check whether water charges are included in monthly building payments."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvija.lv",
+                "url": "https://www.latvija.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "utilities_012",
+        "category": "Utilities",
+        "title": "How can newcomers arrange gas services in Latvia?",
+        "shortAnswer": "Gas services depend on property type and available infrastructure.",
+        "answer": "Some homes in Latvia use gas for heating, cooking or other purposes. Gas connections and billing depend on the building system and service provider.",
+        "keywords": [
+            "utilities",
+            "gas",
+            "heating",
+            "Latvia"
+        ],
+        "tips": [
+            "Confirm gas arrangements before renting or buying a property."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvijas Gāze",
+                "url": "https://www.lg.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "utilities_013",
+        "category": "Utilities",
+        "title": "What internet speed should newcomers choose in Latvia?",
+        "shortAnswer": "Choose a plan based on household usage and location availability.",
+        "answer": "Internet requirements depend on activities such as remote work, streaming, gaming and general browsing. Latvia offers high-speed internet services in many urban areas.",
+        "keywords": [
+            "utilities",
+            "internet",
+            "broadband",
+            "remote work"
+        ],
+        "tips": [
+            "Check fibre availability before selecting a provider."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvian Public Utilities Commission",
+                "url": "https://www.sprk.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "utilities_014",
+        "category": "Utilities",
+        "title": "How do apartment management fees work in Latvia?",
+        "shortAnswer": "Apartment owners and tenants may pay shared building maintenance charges.",
+        "answer": "Apartment buildings often have management fees covering maintenance, common areas, repairs and shared services. These charges are usually separate from personal electricity or internet costs.",
+        "keywords": [
+            "utilities",
+            "apartment management",
+            "fees",
+            "housing"
+        ],
+        "tips": [
+            "Review previous monthly bills before renting an apartment."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvija.lv",
+                "url": "https://www.latvija.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "utilities_015",
+        "category": "Utilities",
+        "title": "How can newcomers save energy during Latvian winters?",
+        "shortAnswer": "Improve heating efficiency and reduce unnecessary energy use.",
+        "answer": "Energy costs can increase during winter. Residents can save energy by managing heating, improving insulation and using appliances efficiently.",
+        "keywords": [
+            "utilities",
+            "energy saving",
+            "winter",
+            "heating"
+        ],
+        "tips": [
+            "Monitor heating usage during the coldest months."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvenergo",
+                "url": "https://www.latvenergo.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "utilities_016",
+        "category": "Utilities",
+        "title": "How can newcomers get a Latvian SIM card?",
+        "shortAnswer": "SIM cards are available from telecom providers and stores.",
+        "answer": "Newcomers can purchase prepaid or contract SIM cards from Latvian mobile operators. Identification requirements may apply for certain services.",
+        "keywords": [
+            "utilities",
+            "SIM card",
+            "mobile",
+            "telecom"
+        ],
+        "tips": [
+            "Carry identification documents when registering services."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvian Public Utilities Commission",
+                "url": "https://www.sprk.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "utilities_017",
+        "category": "Utilities",
+        "title": "What should newcomers know about TV services in Latvia?",
+        "shortAnswer": "Television services are available through internet, cable and digital providers.",
+        "answer": "Residents can access television through various providers or online streaming services. Availability depends on location and chosen package.",
+        "keywords": [
+            "utilities",
+            "TV",
+            "media",
+            "Latvia"
+        ],
+        "tips": [
+            "Compare internet bundles that include television services."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvian Public Utilities Commission",
+                "url": "https://www.sprk.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "utilities_018",
+        "category": "Utilities",
+        "title": "How can newcomers report utility problems in Latvia?",
+        "shortAnswer": "Contact the relevant provider or building management service.",
+        "answer": "Issues such as electricity outages, water problems or heating failures should be reported to the responsible service provider or property manager.",
+        "keywords": [
+            "utilities",
+            "maintenance",
+            "repairs",
+            "Latvia"
+        ],
+        "tips": [
+            "Save emergency contact numbers for important providers."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvija.lv",
+                "url": "https://www.latvija.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "utilities_019",
+        "category": "Utilities",
+        "title": "What should newcomers know about recycling in Latvia?",
+        "shortAnswer": "Latvia has separate waste collection systems for recyclable materials.",
+        "answer": "Residents can recycle materials such as paper, glass and packaging through designated collection points. Rules may vary between municipalities.",
+        "keywords": [
+            "utilities",
+            "recycling",
+            "environment",
+            "waste"
+        ],
+        "tips": [
+            "Learn recycling categories used in your residential area."
+        ],
+        "officialSources": [
+            {
+                "name": "Ministry of Climate and Energy Latvia",
+                "url": "https://www.kem.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "utilities_020",
+        "category": "Utilities",
+        "title": "How do newcomers set up services when renting an apartment in Latvia?",
+        "shortAnswer": "Check existing contracts and transfer services according to rental agreements.",
+        "answer": "Before moving into a rental property, newcomers should confirm which utilities are included, which accounts need transfer and who is responsible for payments.",
+        "keywords": [
+            "utilities",
+            "renting",
+            "services",
+            "housing"
+        ],
+        "tips": [
+            "Clarify utility responsibilities with the landlord before signing."
+        ],
+        "officialSources": [
+            {
+                "name": "Consumer Rights Protection Centre Latvia",
+                "url": "https://www.ptac.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "utilities_021",
+        "category": "Utilities",
+        "title": "What should newcomers know about electricity meters in Latvia?",
+        "shortAnswer": "Electricity meters track household consumption and determine billing.",
+        "answer": "Most homes in Latvia use electricity meters to measure usage. Residents should understand meter readings, billing periods and provider requirements.",
+        "keywords": [
+            "utilities",
+            "electricity meter",
+            "billing",
+            "Latvia"
+        ],
+        "tips": [
+            "Take a meter reading when moving into a new property."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvenergo",
+                "url": "https://www.latvenergo.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "utilities_022",
+        "category": "Utilities",
+        "title": "How are heating bills calculated in Latvia?",
+        "shortAnswer": "Heating costs depend on consumption, building systems and seasonal demand.",
+        "answer": "Heating bills in Latvia are usually higher during winter months. Calculation methods depend on apartment building systems and local service agreements.",
+        "keywords": [
+            "utilities",
+            "heating bills",
+            "winter",
+            "apartments"
+        ],
+        "tips": [
+            "Ask for previous winter heating bills before renting."
+        ],
+        "officialSources": [
+            {
+                "name": "Rīgas siltums",
+                "url": "https://www.rs.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "utilities_023",
+        "category": "Utilities",
+        "title": "How can newcomers choose an electricity provider in Latvia?",
+        "shortAnswer": "Compare prices, contract terms and available service options.",
+        "answer": "Latvia has multiple electricity service options. Residents can compare tariffs and choose plans based on their household consumption patterns.",
+        "keywords": [
+            "utilities",
+            "electricity provider",
+            "energy",
+            "Latvia"
+        ],
+        "tips": [
+            "Compare fixed and variable pricing options before choosing."
+        ],
+        "officialSources": [
+            {
+                "name": "Public Utilities Commission Latvia",
+                "url": "https://www.sprk.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "utilities_024",
+        "category": "Utilities",
+        "title": "What should newcomers know about building maintenance services in Latvia?",
+        "shortAnswer": "Building managers handle common area maintenance and repairs.",
+        "answer": "Apartment buildings usually have management organizations responsible for shared spaces, maintenance schedules and communication with residents.",
+        "keywords": [
+            "utilities",
+            "building management",
+            "apartments",
+            "maintenance"
+        ],
+        "tips": [
+            "Find your building manager's contact details after moving in."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvija.lv",
+                "url": "https://www.latvija.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "utilities_025",
+        "category": "Utilities",
+        "title": "How can newcomers get a postal address service in Latvia?",
+        "shortAnswer": "Residents can use registered addresses and postal services for official communication.",
+        "answer": "A registered address is important for receiving official documents and services. Latvia Post provides postal services throughout the country.",
+        "keywords": [
+            "utilities",
+            "postal service",
+            "address",
+            "Latvia"
+        ],
+        "tips": [
+            "Update your address with relevant institutions after moving."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvijas Pasts",
+                "url": "https://www.pasts.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "utilities_026",
+        "category": "Utilities",
+        "title": "How does drinking water quality work in Latvia?",
+        "shortAnswer": "Public water systems provide regulated drinking water in many areas.",
+        "answer": "Municipal water suppliers provide drinking water that follows quality requirements. Residents can check local water information through service providers.",
+        "keywords": [
+            "utilities",
+            "drinking water",
+            "quality",
+            "Latvia"
+        ],
+        "tips": [
+            "Check local guidance if you live outside urban areas."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvian Public Utilities Commission",
+                "url": "https://www.sprk.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "utilities_027",
+        "category": "Utilities",
+        "title": "What should newcomers know about internet installation in apartments?",
+        "shortAnswer": "Installation depends on building infrastructure and provider availability.",
+        "answer": "Internet providers may need access to install equipment. Some apartment buildings already have network infrastructure available.",
+        "keywords": [
+            "utilities",
+            "internet installation",
+            "apartment",
+            "telecom"
+        ],
+        "tips": [
+            "Ask the landlord about existing internet connections."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvian Public Utilities Commission",
+                "url": "https://www.sprk.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "utilities_028",
+        "category": "Utilities",
+        "title": "How can newcomers manage utility payments online in Latvia?",
+        "shortAnswer": "Online banking and provider portals are commonly used for payments.",
+        "answer": "Latvia has advanced digital banking services that allow residents to pay household bills remotely and manage recurring payments.",
+        "keywords": [
+            "utilities",
+            "online payments",
+            "banking",
+            "Latvia"
+        ],
+        "tips": [
+            "Keep digital copies of payment confirmations."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvija.lv",
+                "url": "https://www.latvija.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "utilities_029",
+        "category": "Utilities",
+        "title": "What should newcomers know about utility contracts when leaving Latvia?",
+        "shortAnswer": "Close or transfer services before moving away.",
+        "answer": "Residents leaving a property should notify utility providers, settle outstanding payments and transfer responsibilities according to agreements.",
+        "keywords": [
+            "utilities",
+            "moving out",
+            "contracts",
+            "Latvia"
+        ],
+        "tips": [
+            "Submit final meter readings before leaving."
+        ],
+        "officialSources": [
+            {
+                "name": "Consumer Rights Protection Centre Latvia",
+                "url": "https://www.ptac.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "utilities_030",
+        "category": "Utilities",
+        "title": "What are the most important utility tasks after arriving in Latvia?",
+        "shortAnswer": "Set up communication, energy, heating and household services early.",
+        "answer": "Newcomers should prioritize internet, mobile services, electricity arrangements, heating information and understanding building management systems after arrival.",
+        "keywords": [
+            "utilities",
+            "newcomer",
+            "setup",
+            "Latvia"
+        ],
+        "tips": [
+            "Complete essential utility setup during your first month."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvija.lv",
+                "url": "https://www.latvija.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "utilities_031",
+        "category": "Utilities",
+        "title": "How can newcomers check electricity usage in Latvia?",
+        "shortAnswer": "Electricity usage can be monitored through provider portals or meter readings.",
+        "answer": "Many electricity providers offer online platforms where customers can view consumption history, invoices and payment details.",
+        "keywords": [
+            "utilities",
+            "electricity usage",
+            "energy monitoring",
+            "Latvia"
+        ],
+        "tips": [
+            "Monitor monthly usage to avoid unexpected bills."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvenergo",
+                "url": "https://www.latvenergo.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "utilities_032",
+        "category": "Utilities",
+        "title": "What should newcomers know about water bills in Latvia?",
+        "shortAnswer": "Water bills depend on consumption and building management arrangements.",
+        "answer": "Water charges are usually calculated based on apartment consumption and may appear together with other building-related payments.",
+        "keywords": [
+            "utilities",
+            "water bills",
+            "apartments",
+            "Latvia"
+        ],
+        "tips": [
+            "Review monthly building invoices to understand charges."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvija.lv",
+                "url": "https://www.latvija.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "utilities_033",
+        "category": "Utilities",
+        "title": "How can newcomers reduce household electricity costs in Latvia?",
+        "shortAnswer": "Use efficient appliances and manage daily energy consumption.",
+        "answer": "Residents can reduce electricity costs by using energy-efficient appliances, avoiding unnecessary usage and monitoring consumption patterns.",
+        "keywords": [
+            "utilities",
+            "electricity saving",
+            "energy efficiency",
+            "Latvia"
+        ],
+        "tips": [
+            "Replace old appliances with energy-efficient models when possible."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvenergo",
+                "url": "https://www.latvenergo.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "utilities_034",
+        "category": "Utilities",
+        "title": "What should newcomers know about internet contracts in Latvia?",
+        "shortAnswer": "Review speed, contract duration and cancellation terms before signing.",
+        "answer": "Internet providers may offer different contract periods, installation fees and service packages. Newcomers should compare options before committing.",
+        "keywords": [
+            "utilities",
+            "internet contracts",
+            "telecom",
+            "Latvia"
+        ],
+        "tips": [
+            "Check if a minimum contract period applies."
+        ],
+        "officialSources": [
+            {
+                "name": "Consumer Rights Protection Centre Latvia",
+                "url": "https://www.ptac.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "utilities_035",
+        "category": "Utilities",
+        "title": "How does mobile data work for newcomers in Latvia?",
+        "shortAnswer": "Mobile operators offer prepaid and monthly data plans.",
+        "answer": "Newcomers can choose mobile data packages based on their usage needs. Latvia has widespread mobile network coverage in cities and many rural areas.",
+        "keywords": [
+            "utilities",
+            "mobile data",
+            "SIM",
+            "telecom"
+        ],
+        "tips": [
+            "Compare data allowances before selecting a mobile plan."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvian Public Utilities Commission",
+                "url": "https://www.sprk.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "utilities_036",
+        "category": "Utilities",
+        "title": "What should newcomers know about electricity outages in Latvia?",
+        "shortAnswer": "Report outages through the electricity distribution service provider.",
+        "answer": "Temporary electricity interruptions may happen due to maintenance, weather or technical issues. Residents should check official outage information.",
+        "keywords": [
+            "utilities",
+            "power outage",
+            "electricity",
+            "Latvia"
+        ],
+        "tips": [
+            "Keep emergency lighting available during winter months."
+        ],
+        "officialSources": [
+            {
+                "name": "Sadales tīkls",
+                "url": "https://www.sadalestikls.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "utilities_037",
+        "category": "Utilities",
+        "title": "How can newcomers arrange waste collection for private houses in Latvia?",
+        "shortAnswer": "Private homeowners usually arrange waste services directly with providers.",
+        "answer": "Unlike many apartments, private house residents may need individual agreements for waste collection services with local providers.",
+        "keywords": [
+            "utilities",
+            "waste collection",
+            "private house",
+            "Latvia"
+        ],
+        "tips": [
+            "Check local municipality requirements for waste services."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvija.lv",
+                "url": "https://www.latvija.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "utilities_038",
+        "category": "Utilities",
+        "title": "What should newcomers know about gas safety in Latvia?",
+        "shortAnswer": "Follow safety instructions and maintain gas equipment properly.",
+        "answer": "Homes using gas systems should follow provider safety guidelines, arrange required maintenance and report suspected gas leaks immediately.",
+        "keywords": [
+            "utilities",
+            "gas safety",
+            "home",
+            "Latvia"
+        ],
+        "tips": [
+            "Never ignore unusual gas smells or equipment problems."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvijas Gāze",
+                "url": "https://www.lg.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "utilities_039",
+        "category": "Utilities",
+        "title": "How can newcomers compare utility providers in Latvia?",
+        "shortAnswer": "Compare prices, service quality, coverage and contract terms.",
+        "answer": "Residents can compare providers using official information, customer reviews and service availability based on their location.",
+        "keywords": [
+            "utilities",
+            "providers",
+            "comparison",
+            "Latvia"
+        ],
+        "tips": [
+            "Check total monthly cost instead of only advertised prices."
+        ],
+        "officialSources": [
+            {
+                "name": "Public Utilities Commission Latvia",
+                "url": "https://www.sprk.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "utilities_040",
+        "category": "Utilities",
+        "title": "What utility information should newcomers save after moving?",
+        "shortAnswer": "Keep provider contacts, account numbers and contract details.",
+        "answer": "Saving utility account information helps newcomers manage bills, report problems and update services when moving or changing providers.",
+        "keywords": [
+            "utilities",
+            "documents",
+            "accounts",
+            "Latvia"
+        ],
+        "tips": [
+            "Store utility details securely in digital format."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvija.lv",
+                "url": "https://www.latvija.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "utilities_041",
+        "category": "Utilities",
+        "title": "How can newcomers find utility service providers in Latvia?",
+        "shortAnswer": "Use official provider websites and municipal information channels.",
+        "answer": "Newcomers can find electricity, heating, water, internet and waste service providers through official company websites, municipality portals and housing management information.",
+        "keywords": [
+            "utilities",
+            "providers",
+            "services",
+            "Latvia"
+        ],
+        "tips": [
+            "Verify provider information through official sources before signing agreements."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvija.lv",
+                "url": "https://www.latvija.lv"
+            }
+        ]
+    },
+    {
+        "id": "utilities_042",
+        "category": "Utilities",
+        "title": "What should newcomers know about utility deposits in Latvia?",
+        "shortAnswer": "Some providers may require deposits depending on service agreements.",
+        "answer": "Certain utility providers or landlords may request advance payments or deposits. Terms should be clearly explained in contracts before payment.",
+        "keywords": [
+            "utilities",
+            "deposit",
+            "contracts",
+            "Latvia"
+        ],
+        "tips": [
+            "Read payment conditions carefully before signing."
+        ],
+        "officialSources": [
+            {
+                "name": "Consumer Rights Protection Centre Latvia",
+                "url": "https://www.ptac.gov.lv"
+            }
+        ]
+    },
+    {
+        "id": "utilities_043",
+        "category": "Utilities",
+        "title": "How are apartment utility invoices usually delivered in Latvia?",
+        "shortAnswer": "Invoices are commonly provided digitally or through building management systems.",
+        "answer": "Many residents receive utility bills through online portals, email or building management platforms. Paper invoices may also be available depending on the provider.",
+        "keywords": [
+            "utilities",
+            "invoices",
+            "billing",
+            "Latvia"
+        ],
+        "tips": [
+            "Register online accounts for easier bill management."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvija.lv",
+                "url": "https://www.latvija.lv"
+            }
+        ]
+    },
+    {
+        "id": "utilities_044",
+        "category": "Utilities",
+        "title": "What should newcomers know about district heating in Latvia?",
+        "shortAnswer": "District heating supplies warmth to many urban apartment buildings.",
+        "answer": "Many Latvian cities use centralized district heating networks. Heating companies supply hot water for building heating systems during colder months.",
+        "keywords": [
+            "utilities",
+            "district heating",
+            "winter",
+            "apartments"
+        ],
+        "tips": [
+            "Understand heating costs before choosing an apartment."
+        ],
+        "officialSources": [
+            {
+                "name": "Rīgas siltums",
+                "url": "https://www.rs.lv"
+            }
+        ]
+    },
+    {
+        "id": "utilities_045",
+        "category": "Utilities",
+        "title": "How can newcomers change their utility account details in Latvia?",
+        "shortAnswer": "Contact providers and update personal information after changes.",
+        "answer": "Residents should update utility providers when changing names, addresses, ownership status or contact information to avoid billing problems.",
+        "keywords": [
+            "utilities",
+            "account update",
+            "services",
+            "Latvia"
+        ],
+        "tips": [
+            "Keep confirmation messages after updating accounts."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvija.lv",
+                "url": "https://www.latvija.lv"
+            }
+        ]
+    },
+    {
+        "id": "utilities_046",
+        "category": "Utilities",
+        "title": "What should newcomers know about smart meters in Latvia?",
+        "shortAnswer": "Smart meters provide more accurate and automated consumption tracking.",
+        "answer": "Smart meters help households and providers monitor electricity usage more efficiently and can simplify billing processes.",
+        "keywords": [
+            "utilities",
+            "smart meter",
+            "electricity",
+            "technology"
+        ],
+        "tips": [
+            "Check whether your property already has smart meter equipment."
+        ],
+        "officialSources": [
+            {
+                "name": "Sadales tīkls",
+                "url": "https://www.sadalestikls.lv"
+            }
+        ]
+    },
+    {
+        "id": "utilities_047",
+        "category": "Utilities",
+        "title": "How can newcomers prepare utilities before moving into a new home?",
+        "shortAnswer": "Confirm existing services and arrange transfers before arrival.",
+        "answer": "Before moving, newcomers should confirm electricity, heating, water, internet and waste arrangements with landlords or service providers.",
+        "keywords": [
+            "utilities",
+            "moving",
+            "new home",
+            "Latvia"
+        ],
+        "tips": [
+            "Prepare a utility checklist before receiving apartment keys."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvija.lv",
+                "url": "https://www.latvija.lv"
+            }
+        ]
+    },
+    {
+        "id": "utilities_048",
+        "category": "Utilities",
+        "title": "What should newcomers know about utility customer support in Latvia?",
+        "shortAnswer": "Providers offer customer support through phone, email and online portals.",
+        "answer": "Most utility companies provide customer service channels for billing questions, technical issues and contract changes.",
+        "keywords": [
+            "utilities",
+            "customer support",
+            "providers",
+            "Latvia"
+        ],
+        "tips": [
+            "Save customer service contacts for frequently used providers."
+        ],
+        "officialSources": [
+            {
+                "name": "Public Utilities Commission Latvia",
+                "url": "https://www.sprk.gov.lv"
+            }
+        ]
+    },
+    {
+        "id": "utilities_049",
+        "category": "Utilities",
+        "title": "How can newcomers manage utilities when sharing an apartment in Latvia?",
+        "shortAnswer": "Agree clearly on payments and responsibilities with roommates.",
+        "answer": "Shared housing requires clear agreements about utility bills, payment deadlines and responsibility for service accounts.",
+        "keywords": [
+            "utilities",
+            "shared apartment",
+            "roommates",
+            "Latvia"
+        ],
+        "tips": [
+            "Create a written agreement for shared household expenses."
+        ],
+        "officialSources": [
+            {
+                "name": "Consumer Rights Protection Centre Latvia",
+                "url": "https://www.ptac.gov.lv"
+            }
+        ]
+    },
+    {
+        "id": "utilities_050",
+        "category": "Utilities",
+        "title": "What utility knowledge should every newcomer learn in Latvia?",
+        "shortAnswer": "Understand energy, water, heating, internet and payment systems.",
+        "answer": "Knowing how household services work helps newcomers manage expenses, avoid service interruptions and adapt quickly to daily life in Latvia.",
+        "keywords": [
+            "utilities",
+            "newcomer",
+            "household",
+            "Latvia"
+        ],
+        "tips": [
+            "Learn essential utility processes during your first month."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvija.lv",
+                "url": "https://www.latvija.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    }
+]

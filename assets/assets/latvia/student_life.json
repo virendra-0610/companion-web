@@ -1,0 +1,1166 @@
+[
+    {
+        "id": "student_001",
+        "category": "Student Life",
+        "title": "What should I do immediately after arriving in Latvia as an international student?",
+        "shortAnswer": "Complete your university registration, move into accommodation and activate essential services.",
+        "answer": "After arriving in Latvia, international students should complete university registration, move into their dormitory or apartment, obtain a local SIM card if needed, understand their residence requirements, and familiarize themselves with nearby grocery stores, public transport and healthcare facilities.",
+        "keywords": [
+            "arrival",
+            "international student",
+            "first day",
+            "registration"
+        ],
+        "tips": [
+            "Keep your passport and university documents easily accessible during your first week."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_002",
+        "category": "Student Life",
+        "title": "Do universities organize orientation programs?",
+        "shortAnswer": "Most universities organize orientation events for new students.",
+        "answer": "Orientation programs introduce students to the campus, academic system, university services, student organizations and everyday life in Latvia.",
+        "keywords": [
+            "orientation",
+            "welcome week",
+            "campus"
+        ],
+        "tips": [
+            "Attend orientation to meet other international students."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_003",
+        "category": "Student Life",
+        "title": "Is English widely spoken at universities?",
+        "shortAnswer": "Yes, especially in international study programs.",
+        "answer": "Most international degree programs are taught in English. Administrative staff and international offices also commonly communicate in English.",
+        "keywords": [
+            "english",
+            "language",
+            "study"
+        ],
+        "tips": [
+            "Learning basic Latvian phrases is still helpful for daily life."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_004",
+        "category": "Student Life",
+        "title": "Should I learn Latvian?",
+        "shortAnswer": "It is recommended even if your program is in English.",
+        "answer": "Knowing basic Latvian makes shopping, public services and daily communication easier. Many universities also offer introductory Latvian language courses.",
+        "keywords": [
+            "latvian language",
+            "learn latvian"
+        ],
+        "tips": [
+            "Learn greetings, numbers and common phrases first."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_005",
+        "category": "Student Life",
+        "title": "How can I meet other students?",
+        "shortAnswer": "Join university clubs, events and student organizations.",
+        "answer": "Most universities have student associations, sports clubs and international communities that organize social events throughout the year.",
+        "keywords": [
+            "friends",
+            "clubs",
+            "student organization"
+        ],
+        "tips": [
+            "Participate in welcome events during your first month."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_006",
+        "category": "Student Life",
+        "title": "Are libraries free for students?",
+        "shortAnswer": "Yes, enrolled students can generally use university libraries.",
+        "answer": "University libraries provide study spaces, computers, Wi-Fi and access to books and academic resources.",
+        "keywords": [
+            "library",
+            "books",
+            "study room"
+        ],
+        "tips": [
+            "Carry your student ID when visiting the library."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_007",
+        "category": "Student Life",
+        "title": "Is Wi-Fi available on campus?",
+        "shortAnswer": "Yes.",
+        "answer": "Most Latvian universities provide free Wi-Fi access for enrolled students throughout campus buildings.",
+        "keywords": [
+            "wifi",
+            "internet",
+            "campus"
+        ],
+        "tips": [
+            "Ask your university IT department for login instructions."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_008",
+        "category": "Student Life",
+        "title": "Can international students work while studying?",
+        "shortAnswer": "Employment rules depend on your residence status and applicable regulations.",
+        "answer": "International students should always verify current employment rules through official immigration and university guidance before accepting work.",
+        "keywords": [
+            "work",
+            "job",
+            "part time"
+        ],
+        "tips": [
+            "Confirm legal work conditions before signing an employment contract."
+        ],
+        "officialSources": [
+            {
+                "name": "Office of Citizenship and Migration Affairs",
+                "url": "https://www.pmlp.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_009",
+        "category": "Student Life",
+        "title": "What documents should I always carry?",
+        "shortAnswer": "Carry identification and your residence documents when appropriate.",
+        "answer": "Students should keep important identification documents secure and carry them when required for official purposes.",
+        "keywords": [
+            "passport",
+            "id",
+            "documents"
+        ],
+        "tips": [
+            "Store digital copies securely as a backup."
+        ],
+        "officialSources": [
+            {
+                "name": "PMLP",
+                "url": "https://www.pmlp.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_010",
+        "category": "Student Life",
+        "title": "What is the most important advice for new international students?",
+        "shortAnswer": "Complete official paperwork early and actively participate in university life.",
+        "answer": "Attend orientation, finish all required registrations, learn basic Latvian phrases, understand public transport and begin building your social network during the first few weeks.",
+        "keywords": [
+            "advice",
+            "new student",
+            "international"
+        ],
+        "tips": [
+            "The first month is the best time to build friendships."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_011",
+        "category": "Student Life",
+        "title": "How do I get my student ID card?",
+        "shortAnswer": "Your university issues it after enrollment.",
+        "answer": "After completing enrollment, your university will provide instructions for obtaining your student identification card. It is required for accessing many university services.",
+        "keywords": [
+            "student id",
+            "campus card",
+            "identity"
+        ],
+        "tips": [
+            "Carry your student ID whenever you are on campus."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_012",
+        "category": "Student Life",
+        "title": "What is an ISIC card?",
+        "shortAnswer": "It is an international student identity card offering various discounts.",
+        "answer": "Many students use the ISIC card to receive discounts on transportation, museums, restaurants and other services.",
+        "keywords": [
+            "ISIC",
+            "student discounts",
+            "card"
+        ],
+        "tips": [
+            "Check available ISIC offers regularly."
+        ],
+        "officialSources": [
+            {
+                "name": "ISIC Latvia",
+                "url": "https://isic.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_013",
+        "category": "Student Life",
+        "title": "Can international students stay in university dormitories?",
+        "shortAnswer": "Yes, many universities provide student accommodation.",
+        "answer": "Dormitory availability depends on the university and room availability. Apply as early as possible.",
+        "keywords": [
+            "dormitory",
+            "hostel",
+            "accommodation"
+        ],
+        "tips": [
+            "Reserve your room before arriving in Latvia."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_014",
+        "category": "Student Life",
+        "title": "What should I bring to my dormitory?",
+        "shortAnswer": "Bring personal essentials and important documents.",
+        "answer": "Most students bring bedding if required, toiletries, study materials, chargers, medications and important identification documents.",
+        "keywords": [
+            "dorm",
+            "packing",
+            "arrival"
+        ],
+        "tips": [
+            "Ask your dormitory what is already provided."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_015",
+        "category": "Student Life",
+        "title": "Can I cook in student dormitories?",
+        "shortAnswer": "Most dormitories provide shared kitchens.",
+        "answer": "Kitchen facilities vary between dormitories. Follow kitchen rules and clean the area after use.",
+        "keywords": [
+            "kitchen",
+            "cooking",
+            "dormitory"
+        ],
+        "tips": [
+            "Label your food if using a shared refrigerator."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_016",
+        "category": "Student Life",
+        "title": "Can I receive parcels at my dormitory?",
+        "shortAnswer": "Usually yes.",
+        "answer": "Most dormitories accept parcels for residents, although procedures differ between universities.",
+        "keywords": [
+            "parcel",
+            "delivery",
+            "mail"
+        ],
+        "tips": [
+            "Confirm delivery instructions with your dormitory administration."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_017",
+        "category": "Student Life",
+        "title": "Can I invite friends to my dormitory?",
+        "shortAnswer": "Visitor rules depend on your dormitory.",
+        "answer": "Many student residences allow visitors during specified hours. Always follow dormitory regulations.",
+        "keywords": [
+            "visitor",
+            "guest",
+            "friends"
+        ],
+        "tips": [
+            "Respect quiet hours and visitor policies."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_018",
+        "category": "Student Life",
+        "title": "Is laundry available in student dormitories?",
+        "shortAnswer": "Most dormitories provide laundry facilities.",
+        "answer": "Laundry rooms are commonly available for residents. Some require payment or booking.",
+        "keywords": [
+            "laundry",
+            "washing machine",
+            "clothes"
+        ],
+        "tips": [
+            "Keep detergent available in your room."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_019",
+        "category": "Student Life",
+        "title": "Is campus Wi-Fi free?",
+        "shortAnswer": "Yes, universities generally provide free Wi-Fi.",
+        "answer": "Students receive access credentials after enrollment and can use Wi-Fi in classrooms, libraries and many campus buildings.",
+        "keywords": [
+            "wifi",
+            "internet",
+            "campus"
+        ],
+        "tips": [
+            "Change your password regularly if required by your university."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_020",
+        "category": "Student Life",
+        "title": "What should I do during my first week at university?",
+        "shortAnswer": "Attend orientation, explore campus and complete all registrations.",
+        "answer": "Use your first week to attend orientation events, learn your class locations, activate student services, meet classmates and understand your timetable.",
+        "keywords": [
+            "first week",
+            "orientation",
+            "campus"
+        ],
+        "tips": [
+            "Walk around campus before your first classes begin."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_021",
+        "category": "Student Life",
+        "title": "Can I open a bank account as an international student?",
+        "shortAnswer": "Yes, if you meet the bank's identification and residency requirements.",
+        "answer": "Many Latvian banks offer accounts for international students. Requirements may include your passport, residence permit or visa, proof of address and university enrollment documents.",
+        "keywords": [
+            "bank",
+            "bank account",
+            "student",
+            "money"
+        ],
+        "tips": [
+            "Compare account fees before choosing a bank."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_022",
+        "category": "Student Life",
+        "title": "Should I get a Latvian SIM card?",
+        "shortAnswer": "Yes, it makes communication and online services much easier.",
+        "answer": "A local SIM card provides affordable mobile data, local phone numbers and easier access to banking and delivery services.",
+        "keywords": [
+            "SIM",
+            "mobile",
+            "phone",
+            "internet"
+        ],
+        "tips": [
+            "Bring your passport when purchasing a SIM card."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_023",
+        "category": "Student Life",
+        "title": "Which mobile operators are available in Latvia?",
+        "shortAnswer": "Latvia has several major mobile network providers.",
+        "answer": "Students can choose among multiple mobile operators offering prepaid and contract plans depending on their needs.",
+        "keywords": [
+            "mobile operator",
+            "SIM",
+            "network"
+        ],
+        "tips": [
+            "Compare data plans before purchasing."
+        ],
+        "officialSources": [
+            {
+                "name": "Public Utilities Commission",
+                "url": "https://www.sprk.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_024",
+        "category": "Student Life",
+        "title": "Can I pay using my international debit or credit card?",
+        "shortAnswer": "Yes, international cards are widely accepted.",
+        "answer": "Visa and Mastercard are commonly accepted in shops, restaurants and supermarkets throughout Latvia.",
+        "keywords": [
+            "visa",
+            "mastercard",
+            "payment",
+            "bank card"
+        ],
+        "tips": [
+            "Keep a small amount of cash for emergencies."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_025",
+        "category": "Student Life",
+        "title": "Where should students buy groceries?",
+        "shortAnswer": "Latvia has many supermarkets located near residential areas.",
+        "answer": "Large supermarket chains and neighborhood grocery stores are available throughout Riga and other cities.",
+        "keywords": [
+            "grocery",
+            "food",
+            "shopping",
+            "supermarket"
+        ],
+        "tips": [
+            "Store loyalty cards can reduce grocery expenses."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_026",
+        "category": "Student Life",
+        "title": "Is Latvia expensive for international students?",
+        "shortAnswer": "Living costs depend on your lifestyle and city.",
+        "answer": "Accommodation, transportation and food usually make up the largest monthly expenses. Careful budgeting can help reduce costs.",
+        "keywords": [
+            "cost",
+            "living",
+            "budget",
+            "expenses"
+        ],
+        "tips": [
+            "Track your monthly spending during the first semester."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_027",
+        "category": "Student Life",
+        "title": "Can I receive money from my home country?",
+        "shortAnswer": "Yes.",
+        "answer": "Students can receive international bank transfers and other supported payment methods depending on their financial institution.",
+        "keywords": [
+            "money transfer",
+            "international",
+            "bank"
+        ],
+        "tips": [
+            "Check exchange rates and transfer fees."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_028",
+        "category": "Student Life",
+        "title": "Can international students use healthcare services?",
+        "shortAnswer": "Access depends on insurance and residence status.",
+        "answer": "Healthcare access varies according to insurance coverage and applicable regulations. Universities can provide guidance for international students.",
+        "keywords": [
+            "healthcare",
+            "doctor",
+            "insurance"
+        ],
+        "tips": [
+            "Carry your health insurance information with you."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service",
+                "url": "https://www.vmnvd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_029",
+        "category": "Student Life",
+        "title": "Where can I buy medicines?",
+        "shortAnswer": "Medicines are available from licensed pharmacies.",
+        "answer": "Prescription medicines require a valid prescription, while many common medicines are available over the counter.",
+        "keywords": [
+            "pharmacy",
+            "medicine",
+            "drugstore"
+        ],
+        "tips": [
+            "Look for pharmacies marked with the green pharmacy symbol."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service",
+                "url": "https://www.vmnvd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_030",
+        "category": "Student Life",
+        "title": "What emergency number should every student know?",
+        "shortAnswer": "Call 112 for emergencies.",
+        "answer": "Emergency number 112 connects callers to emergency services throughout Latvia, including police, ambulance and fire services.",
+        "keywords": [
+            "112",
+            "emergency",
+            "ambulance",
+            "police",
+            "fire"
+        ],
+        "tips": [
+            "Save emergency numbers in your phone immediately after arrival."
+        ],
+        "officialSources": [
+            {
+                "name": "State Fire and Rescue Service",
+                "url": "https://www.vugd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_031",
+        "category": "Student Life",
+        "title": "Can I work part-time while studying in Latvia?",
+        "shortAnswer": "International students may be allowed to work depending on their residence permit conditions.",
+        "answer": "Employment rights depend on your residence permit, visa type and current immigration regulations. Always verify your eligibility before accepting employment.",
+        "keywords": [
+            "part time",
+            "job",
+            "work",
+            "employment"
+        ],
+        "tips": [
+            "Confirm your work rights with the Office of Citizenship and Migration Affairs."
+        ],
+        "officialSources": [
+            {
+                "name": "PMLP",
+                "url": "https://www.pmlp.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_032",
+        "category": "Student Life",
+        "title": "Where can students find part-time jobs?",
+        "shortAnswer": "Universities, online job portals and local businesses are common sources.",
+        "answer": "Many students find work through university career centers, online recruitment websites and local employers looking for part-time staff.",
+        "keywords": [
+            "career",
+            "job",
+            "student employment"
+        ],
+        "tips": [
+            "Prepare a professional CV before applying."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_033",
+        "category": "Student Life",
+        "title": "Should I create a Latvian-style CV?",
+        "shortAnswer": "Yes.",
+        "answer": "Employers generally expect a professional CV highlighting your education, experience, technical skills and language abilities.",
+        "keywords": [
+            "cv",
+            "resume",
+            "job application"
+        ],
+        "tips": [
+            "Keep your CV concise and up to date."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_034",
+        "category": "Student Life",
+        "title": "Can I do internships while studying?",
+        "shortAnswer": "Many universities encourage internships.",
+        "answer": "Internships help students gain practical experience and may be integrated into some study programs.",
+        "keywords": [
+            "internship",
+            "placement",
+            "career"
+        ],
+        "tips": [
+            "Start applying several months before your preferred internship period."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_035",
+        "category": "Student Life",
+        "title": "How are university exams conducted?",
+        "shortAnswer": "Exam formats depend on the course and instructor.",
+        "answer": "Courses may include written exams, oral examinations, presentations, laboratory work, projects or continuous assessment.",
+        "keywords": [
+            "exam",
+            "assessment",
+            "grading"
+        ],
+        "tips": [
+            "Read the course syllabus carefully at the beginning of the semester."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_036",
+        "category": "Student Life",
+        "title": "What is plagiarism?",
+        "shortAnswer": "Presenting someone else's work as your own.",
+        "answer": "Universities take plagiarism seriously. Always cite your sources correctly and follow your institution's academic integrity policies.",
+        "keywords": [
+            "plagiarism",
+            "academic integrity",
+            "assignment"
+        ],
+        "tips": [
+            "Use proper citations in reports and research papers."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_037",
+        "category": "Student Life",
+        "title": "Can professors be addressed by their first name?",
+        "shortAnswer": "Follow your university's academic culture.",
+        "answer": "When unsure, address professors formally until they indicate another preference.",
+        "keywords": [
+            "professor",
+            "etiquette",
+            "classroom"
+        ],
+        "tips": [
+            "Professional communication creates a good first impression."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_038",
+        "category": "Student Life",
+        "title": "How important is class attendance?",
+        "shortAnswer": "Attendance requirements vary by course.",
+        "answer": "Some courses require mandatory attendance while others evaluate students mainly through assignments and examinations.",
+        "keywords": [
+            "attendance",
+            "lecture",
+            "class"
+        ],
+        "tips": [
+            "Check attendance rules in every course syllabus."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_039",
+        "category": "Student Life",
+        "title": "Can students access university sports facilities?",
+        "shortAnswer": "Many universities provide sports facilities for students.",
+        "answer": "Universities often offer gyms, sports halls, fitness classes and recreational activities for enrolled students.",
+        "keywords": [
+            "gym",
+            "sports",
+            "fitness"
+        ],
+        "tips": [
+            "Ask your student union about available sports clubs."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_040",
+        "category": "Student Life",
+        "title": "How can I improve my English and Latvian while studying?",
+        "shortAnswer": "Practice daily and participate in university activities.",
+        "answer": "Speaking with classmates, joining student organizations and attending language courses are effective ways to improve communication skills.",
+        "keywords": [
+            "english",
+            "latvian",
+            "language",
+            "communication"
+        ],
+        "tips": [
+            "Try learning a few new Latvian words every day."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_041",
+        "category": "Student Life",
+        "title": "How can I make friends in Latvia?",
+        "shortAnswer": "Join student organizations, university events and international communities.",
+        "answer": "Most universities organize social events, cultural evenings, sports activities and student clubs where international students can meet classmates and build friendships.",
+        "keywords": [
+            "friends",
+            "social",
+            "clubs",
+            "international students"
+        ],
+        "tips": [
+            "Attend welcome events during your first month."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_042",
+        "category": "Student Life",
+        "title": "Is Latvia safe for international students?",
+        "shortAnswer": "Latvia is generally considered a safe country for students.",
+        "answer": "Students should still follow normal safety precautions, protect personal belongings and avoid isolated areas late at night.",
+        "keywords": [
+            "safe",
+            "crime",
+            "security"
+        ],
+        "tips": [
+            "Save emergency number 112 on your phone."
+        ],
+        "officialSources": [
+            {
+                "name": "State Police",
+                "url": "https://www.vp.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_043",
+        "category": "Student Life",
+        "title": "Can I travel to other Schengen countries while studying in Latvia?",
+        "shortAnswer": "Travel depends on your visa or residence permit conditions.",
+        "answer": "Students should always verify travel requirements and carry valid travel documents before visiting another Schengen country.",
+        "keywords": [
+            "schengen",
+            "travel",
+            "visa",
+            "residence permit"
+        ],
+        "tips": [
+            "Always carry your passport and residence permit when travelling."
+        ],
+        "officialSources": [
+            {
+                "name": "PMLP",
+                "url": "https://www.pmlp.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_044",
+        "category": "Student Life",
+        "title": "What clothes should I bring to Latvia?",
+        "shortAnswer": "Bring clothing suitable for all four seasons, especially warm winter clothing.",
+        "answer": "Latvia experiences cold winters and mild summers. A warm jacket, waterproof shoes, gloves, scarf and winter hat are highly recommended.",
+        "keywords": [
+            "winter",
+            "clothes",
+            "weather",
+            "packing"
+        ],
+        "tips": [
+            "Layered clothing works best during changing seasons."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvian Environment, Geology and Meteorology Centre",
+                "url": "https://www.meteo.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_045",
+        "category": "Student Life",
+        "title": "Does it snow in Latvia?",
+        "shortAnswer": "Yes, snowfall is common during winter.",
+        "answer": "Snow usually occurs during the winter season, although conditions vary each year depending on the weather.",
+        "keywords": [
+            "snow",
+            "winter",
+            "cold"
+        ],
+        "tips": [
+            "Buy waterproof winter footwear before heavy snowfall."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvian Environment, Geology and Meteorology Centre",
+                "url": "https://www.meteo.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_046",
+        "category": "Student Life",
+        "title": "Can I drink tap water in Latvia?",
+        "shortAnswer": "Tap water is generally safe to drink in Latvia.",
+        "answer": "Municipal tap water meets drinking water standards in most areas, although some people prefer filtered water based on personal taste.",
+        "keywords": [
+            "tap water",
+            "drinking water",
+            "water"
+        ],
+        "tips": [
+            "Carry a reusable water bottle to save money."
+        ],
+        "officialSources": [
+            {
+                "name": "Riga Water",
+                "url": "https://www.rigasudens.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_047",
+        "category": "Student Life",
+        "title": "What is the currency used in Latvia?",
+        "shortAnswer": "Latvia uses the Euro (€).",
+        "answer": "All official payments in Latvia are made in Euros. International bank cards are widely accepted.",
+        "keywords": [
+            "currency",
+            "euro",
+            "money"
+        ],
+        "tips": [
+            "Most shops accept card payments."
+        ],
+        "officialSources": [
+            {
+                "name": "Bank of Latvia",
+                "url": "https://www.bank.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_048",
+        "category": "Student Life",
+        "title": "Should I carry cash in Latvia?",
+        "shortAnswer": "A small amount of cash is useful, but cards are widely accepted.",
+        "answer": "Most businesses accept card payments, although carrying a small amount of cash can be useful for emergencies or small purchases.",
+        "keywords": [
+            "cash",
+            "payment",
+            "card"
+        ],
+        "tips": [
+            "Avoid carrying large amounts of cash."
+        ],
+        "officialSources": [
+            {
+                "name": "Bank of Latvia",
+                "url": "https://www.bank.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_049",
+        "category": "Student Life",
+        "title": "How can I manage my monthly student budget?",
+        "shortAnswer": "Track expenses and prioritize essential spending.",
+        "answer": "Create a monthly budget covering accommodation, food, transport, study materials and personal expenses. Reviewing spending regularly helps avoid financial stress.",
+        "keywords": [
+            "budget",
+            "money",
+            "expenses",
+            "finance"
+        ],
+        "tips": [
+            "Use a budgeting app to monitor your spending."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "student_050",
+        "category": "Student Life",
+        "title": "What is the best advice for succeeding as an international student in Latvia?",
+        "shortAnswer": "Stay organized, ask questions and actively participate in university life.",
+        "answer": "Successful students attend classes regularly, communicate with professors, complete assignments on time, participate in campus activities and maintain a healthy balance between studies and personal life.",
+        "keywords": [
+            "success",
+            "study",
+            "international student",
+            "advice"
+        ],
+        "tips": [
+            "Don't hesitate to ask your university's international office for help whenever needed."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    }
+]

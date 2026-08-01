@@ -1,0 +1,1106 @@
+,
+{
+    "id": "banking_001",
+    "category": "Banking",
+    "title": "Can international students open a bank account in Latvia?",
+    "shortAnswer": "Yes. Most major banks offer accounts for international students who meet their requirements.",
+    "answer": "International students can usually open a bank account after providing identification, residence documentation (if applicable), proof of address and university enrollment. Requirements vary by bank.",
+    "keywords": [
+        "bank",
+        "account",
+        "student",
+        "money"
+    ],
+    "tips": [
+        "Compare fees and online banking services before choosing a bank."
+    ],
+    "officialSources": [
+        {
+            "name": "Bank of Latvia",
+            "url": "https://www.bank.lv/en"
+        }
+    ],
+    "lastVerified": "2026-08-01",
+    "confidence": "officialGovernment"
+},
+{
+    "id": "banking_002",
+    "category": "Banking",
+    "title": "What documents are required to open a bank account?",
+    "shortAnswer": "Banks commonly request identification and proof of your legal stay.",
+    "answer": "Requirements vary, but banks typically ask for a passport or national ID, residence permit or visa when applicable, proof of address and university enrollment.",
+    "keywords": [
+        "documents",
+        "passport",
+        "bank account"
+    ],
+    "tips": [
+        "Carry both original documents and copies when visiting a branch."
+    ],
+    "officialSources": [
+        {
+            "name": "Bank of Latvia",
+            "url": "https://www.bank.lv/en"
+        }
+    ],
+    "lastVerified": "2026-08-01",
+    "confidence": "officialGovernment"
+},
+{
+    "id": "banking_003",
+    "category": "Banking",
+    "title": "Can I use my foreign debit or credit card in Latvia?",
+    "shortAnswer": "Yes. International Visa and Mastercard cards are widely accepted.",
+    "answer": "Most shops, restaurants and online merchants accept international debit and credit cards. Some businesses may prefer card payments over cash.",
+    "keywords": [
+        "visa",
+        "mastercard",
+        "card",
+        "payment"
+    ],
+    "tips": [
+        "Inform your home bank before traveling abroad."
+    ],
+    "officialSources": [
+        {
+            "name": "Bank of Latvia",
+            "url": "https://www.bank.lv/en"
+        }
+    ],
+    "lastVerified": "2026-08-01",
+    "confidence": "officialGovernment"
+},
+{
+    "id": "banking_004",
+    "category": "Banking",
+    "title": "What currency is used in Latvia?",
+    "shortAnswer": "Latvia uses the Euro (€).",
+    "answer": "The official currency of Latvia is the Euro. Prices in shops, restaurants and public transport are displayed in euros.",
+    "keywords": [
+        "currency",
+        "euro",
+        "money"
+    ],
+    "tips": [
+        "Use the Companion currency converter to estimate prices from your home currency."
+    ],
+    "officialSources": [
+        {
+            "name": "Bank of Latvia",
+            "url": "https://www.bank.lv/en"
+        }
+    ],
+    "lastVerified": "2026-08-01",
+    "confidence": "officialGovernment"
+},
+{
+    "id": "banking_005",
+    "category": "Banking",
+    "title": "Can I withdraw cash from ATMs?",
+    "shortAnswer": "Yes. ATMs are widely available throughout Latvia.",
+    "answer": "ATMs are available in cities, shopping centers and near banks. Fees may depend on your bank and card issuer.",
+    "keywords": [
+        "ATM",
+        "cash",
+        "withdrawal"
+    ],
+    "tips": [
+        "Check your bank's international withdrawal fees before traveling."
+    ],
+    "officialSources": [
+        {
+            "name": "Bank of Latvia",
+            "url": "https://www.bank.lv/en"
+        }
+    ],
+    "lastVerified": "2026-08-01",
+    "confidence": "officialGovernment"
+},
+{
+    "id": "banking_006",
+    "category": "Banking",
+    "title": "Is card payment common in Latvia?",
+    "shortAnswer": "Yes. Card payments are accepted in most places.",
+    "answer": "Debit and credit cards are widely accepted in supermarkets, restaurants, public transport ticket offices and many small businesses.",
+    "keywords": [
+        "card",
+        "payment",
+        "cashless"
+    ],
+    "tips": [
+        "Carry a small amount of cash for situations where cards are not accepted."
+    ],
+    "officialSources": [
+        {
+            "name": "Bank of Latvia",
+            "url": "https://www.bank.lv/en"
+        }
+    ],
+    "lastVerified": "2026-08-01",
+    "confidence": "officialGovernment"
+},
+{
+    "id": "banking_007",
+    "category": "Banking",
+    "title": "Can I transfer money internationally from Latvia?",
+    "shortAnswer": "Yes. Banks offer international transfers.",
+    "answer": "International transfers can usually be completed through online banking or at a branch. Transfer fees and processing times vary by bank.",
+    "keywords": [
+        "international transfer",
+        "wire transfer",
+        "bank"
+    ],
+    "tips": [
+        "Compare exchange rates before sending money abroad."
+    ],
+    "officialSources": [
+        {
+            "name": "Bank of Latvia",
+            "url": "https://www.bank.lv/en"
+        }
+    ],
+    "lastVerified": "2026-08-01",
+    "confidence": "officialGovernment"
+},
+{
+    "id": "banking_008",
+    "category": "Banking",
+    "title": "What should I do if my bank card is lost or stolen?",
+    "shortAnswer": "Block the card immediately and contact your bank.",
+    "answer": "Most banks allow customers to temporarily block cards through mobile banking or by contacting customer support.",
+    "keywords": [
+        "lost card",
+        "stolen card",
+        "bank"
+    ],
+    "tips": [
+        "Save your bank's emergency phone number before you need it."
+    ],
+    "officialSources": [
+        {
+            "name": "Bank of Latvia",
+            "url": "https://www.bank.lv/en"
+        }
+    ],
+    "lastVerified": "2026-08-01",
+    "confidence": "officialGovernment"
+},
+{
+    "id": "banking_009",
+    "category": "Banking",
+    "title": "Is online banking widely available?",
+    "shortAnswer": "Yes. Major Latvian banks provide online and mobile banking.",
+    "answer": "Customers can manage accounts, transfer money, pay bills and monitor transactions through secure online banking services.",
+    "keywords": [
+        "online banking",
+        "mobile banking",
+        "internet bank"
+    ],
+    "tips": [
+        "Enable two-factor authentication for better account security."
+    ],
+    "officialSources": [
+        {
+            "name": "Bank of Latvia",
+            "url": "https://www.bank.lv/en"
+        }
+    ],
+    "lastVerified": "2026-08-01",
+    "confidence": "officialGovernment"
+},
+{
+    "id": "banking_010",
+    "category": "Banking",
+    "title": "What is the best banking advice for new international students?",
+    "shortAnswer": "Open a local account if needed, protect your banking credentials and monitor your transactions regularly.",
+    "answer": "Choose a bank that supports English, secure your debit card and PIN, use online banking safely and regularly review your account activity for unauthorized transactions.",
+    "keywords": [
+        "banking",
+        "student",
+        "security",
+        "money"
+    ],
+    "tips": [
+        "Never share your PIN or online banking passwords with anyone."
+    ],
+    "officialSources": [
+        {
+            "name": "Bank of Latvia",
+            "url": "https://www.bank.lv/en"
+        }
+    ],
+    {
+        "id": "banking_011",
+        "category": "Banking",
+        "title": "What is an IBAN?",
+        "shortAnswer": "IBAN is your International Bank Account Number used for transfers.",
+        "answer": "An IBAN uniquely identifies your bank account for domestic and international transfers within Europe and many other countries.",
+        "keywords": [
+            "IBAN",
+            "bank transfer",
+            "account number"
+        ],
+        "tips": [
+            "Double-check the IBAN before sending money."
+        ],
+        "officialSources": [
+            {
+                "name": "Bank of Latvia",
+                "url": "https://www.bank.lv/en"
+            }
+        ]
+    },
+    {
+        "id": "banking_012",
+        "category": "Banking",
+        "title": "What is a SEPA transfer?",
+        "shortAnswer": "SEPA allows euro transfers between participating European countries.",
+        "answer": "SEPA (Single Euro Payments Area) enables fast euro transfers between participating countries using an IBAN.",
+        "keywords": [
+            "SEPA",
+            "transfer",
+            "Europe",
+            "IBAN"
+        ],
+        "tips": [
+            "SEPA transfers are usually cheaper than international wire transfers."
+        ],
+        "officialSources": [
+            {
+                "name": "Bank of Latvia",
+                "url": "https://www.bank.lv/en"
+            }
+        ]
+    },
+    {
+        "id": "banking_013",
+        "category": "Banking",
+        "title": "Can I use Google Pay or Apple Pay in Latvia?",
+        "shortAnswer": "Yes, many banks and merchants support contactless mobile payments.",
+        "answer": "Google Pay and Apple Pay are widely accepted anywhere contactless card payments are supported, provided your bank supports these services.",
+        "keywords": [
+            "Google Pay",
+            "Apple Pay",
+            "contactless"
+        ],
+        "tips": [
+            "Enable biometric authentication on your phone for additional security."
+        ],
+        "officialSources": [
+            {
+                "name": "Bank of Latvia",
+                "url": "https://www.bank.lv/en"
+            }
+        ]
+    },
+    {
+        "id": "banking_014",
+        "category": "Banking",
+        "title": "Can I use contactless payments?",
+        "shortAnswer": "Yes. Contactless card payments are common in Latvia.",
+        "answer": "Most payment terminals accept contactless debit cards, credit cards and supported mobile wallets.",
+        "keywords": [
+            "contactless",
+            "NFC",
+            "tap to pay"
+        ],
+        "tips": [
+            "Keep your card secure even if it supports contactless payments."
+        ],
+        "officialSources": [
+            {
+                "name": "Bank of Latvia",
+                "url": "https://www.bank.lv/en"
+            }
+        ]
+    },
+    {
+        "id": "banking_015",
+        "category": "Banking",
+        "title": "How can I protect myself from banking fraud?",
+        "shortAnswer": "Never share passwords, PINs or one-time verification codes.",
+        "answer": "Banks will never ask for your PIN or online banking password by email or phone. Be cautious of phishing websites and suspicious messages.",
+        "keywords": [
+            "fraud",
+            "phishing",
+            "bank security"
+        ],
+        "tips": [
+            "Always verify the website address before logging into online banking."
+        ],
+        "officialSources": [
+            {
+                "name": "Bank of Latvia",
+                "url": "https://www.bank.lv/en"
+            }
+        ]
+    },
+    {
+        "id": "banking_016",
+        "category": "Banking",
+        "title": "Should I enable transaction notifications?",
+        "shortAnswer": "Yes. Instant notifications help detect unauthorized transactions.",
+        "answer": "Most banking apps allow push notifications whenever money enters or leaves your account.",
+        "keywords": [
+            "notifications",
+            "banking app",
+            "security"
+        ],
+        "tips": [
+            "Review unexpected transactions immediately."
+        ],
+        "officialSources": [
+            {
+                "name": "Bank of Latvia",
+                "url": "https://www.bank.lv/en"
+            }
+        ]
+    },
+    {
+        "id": "banking_017",
+        "category": "Banking",
+        "title": "Can I receive my salary into a Latvian bank account?",
+        "shortAnswer": "Yes. Employers commonly transfer salaries directly to bank accounts.",
+        "answer": "Most employers pay salaries by bank transfer into an account held in your name.",
+        "keywords": [
+            "salary",
+            "employment",
+            "bank account"
+        ],
+        "tips": [
+            "Provide the correct IBAN to your employer."
+        ],
+        "officialSources": [
+            {
+                "name": "Bank of Latvia",
+                "url": "https://www.bank.lv/en"
+            }
+        ]
+    },
+    {
+        "id": "banking_018",
+        "category": "Banking",
+        "title": "Can I deposit cash into my bank account?",
+        "shortAnswer": "Yes. Cash deposits are available through bank branches or deposit ATMs.",
+        "answer": "Availability depends on your bank. Some ATMs support cash deposits while others are withdrawal-only.",
+        "keywords": [
+            "cash deposit",
+            "ATM",
+            "bank"
+        ],
+        "tips": [
+            "Keep deposit receipts until the transaction is confirmed."
+        ],
+        "officialSources": [
+            {
+                "name": "Bank of Latvia",
+                "url": "https://www.bank.lv/en"
+            }
+        ]
+    },
+    {
+        "id": "banking_019",
+        "category": "Banking",
+        "title": "How often should I review my bank statements?",
+        "shortAnswer": "Review your transactions regularly.",
+        "answer": "Checking your account activity helps identify unauthorized transactions and budgeting errors quickly.",
+        "keywords": [
+            "bank statement",
+            "transactions",
+            "security"
+        ],
+        "tips": [
+            "Review your account at least once each week."
+        ],
+        "officialSources": [
+            {
+                "name": "Bank of Latvia",
+                "url": "https://www.bank.lv/en"
+            }
+        ]
+    },
+    {
+        "id": "banking_020",
+        "category": "Banking",
+        "title": "What should I do if an ATM keeps my card?",
+        "shortAnswer": "Contact your bank immediately.",
+        "answer": "If an ATM retains your card, contact the bank operating the ATM or your card issuer for assistance. Do not leave the location without noting the ATM details.",
+        "keywords": [
+            "ATM",
+            "card retained",
+            "bank card"
+        ],
+        "tips": [
+            "Record the ATM location and time before contacting your bank."
+        ],
+        "officialSources": [
+            {
+                "name": "Bank of Latvia",
+                "url": "https://www.bank.lv/en"
+            }
+        ]
+    },
+    {
+        "id": "banking_021",
+        "category": "Banking",
+        "title": "Can I close my Latvian bank account before leaving Latvia?",
+        "shortAnswer": "Yes. Contact your bank before leaving the country.",
+        "answer": "Before closing your account, ensure all pending transactions are completed and your balance is transferred to another account if necessary.",
+        "keywords": [
+            "close account",
+            "leave Latvia",
+            "bank"
+        ],
+        "tips": [
+            "Do not close your account until your final salary or deposit refund has been received."
+        ],
+        "officialSources": [
+            {
+                "name": "Bank of Latvia",
+                "url": "https://www.bank.lv/en"
+            }
+        ]
+    },
+    {
+        "id": "banking_022",
+        "category": "Banking",
+        "title": "Are ATMs available throughout Latvia?",
+        "shortAnswer": "Yes. ATMs are common in cities, shopping malls and transport hubs.",
+        "answer": "Cash withdrawal machines are widely available across Latvia, particularly in urban areas.",
+        "keywords": [
+            "ATM",
+            "cash",
+            "withdraw"
+        ],
+        "tips": [
+            "Use ATMs attached to banks whenever possible."
+        ],
+        "officialSources": [
+            {
+                "name": "Bank of Latvia",
+                "url": "https://www.bank.lv/en"
+            }
+        ]
+    },
+    {
+        "id": "banking_023",
+        "category": "Banking",
+        "title": "Can I exchange foreign currency in Latvia?",
+        "shortAnswer": "Yes. Banks and licensed exchange offices provide currency exchange services.",
+        "answer": "Exchange rates and service fees vary. Compare rates before exchanging large amounts of money.",
+        "keywords": [
+            "currency exchange",
+            "euro",
+            "money exchange"
+        ],
+        "tips": [
+            "Avoid exchanging money at airports unless necessary."
+        ],
+        "officialSources": [
+            {
+                "name": "Bank of Latvia",
+                "url": "https://www.bank.lv/en"
+            }
+        ]
+    },
+    {
+        "id": "banking_024",
+        "category": "Banking",
+        "title": "Should I carry cash every day?",
+        "shortAnswer": "Carry a small amount for emergencies.",
+        "answer": "Although cards are widely accepted, having a small amount of cash can be useful if electronic payments are temporarily unavailable.",
+        "keywords": [
+            "cash",
+            "wallet",
+            "payments"
+        ],
+        "tips": [
+            "Do not carry large amounts of cash unnecessarily."
+        ],
+        "officialSources": [
+            {
+                "name": "Bank of Latvia",
+                "url": "https://www.bank.lv/en"
+            }
+        ]
+    },
+    {
+        "id": "banking_025",
+        "category": "Banking",
+        "title": "How can I budget my monthly expenses as a student?",
+        "shortAnswer": "Track your spending and separate essential expenses from optional spending.",
+        "answer": "Prepare a monthly budget that includes rent, food, transport, utilities, mobile service and study-related expenses before spending on entertainment.",
+        "keywords": [
+            "budget",
+            "student",
+            "expenses",
+            "money"
+        ],
+        "tips": [
+            "Review your spending at the end of every month."
+        ],
+        "officialSources": [
+            {
+                "name": "Bank of Latvia",
+                "url": "https://www.bank.lv/en"
+            }
+        ]
+    },
+    {
+        "id": "banking_026",
+        "category": "Banking",
+        "title": "What is contactless payment?",
+        "shortAnswer": "It allows you to pay by tapping your card or phone on the payment terminal.",
+        "answer": "Most modern payment terminals in Latvia support NFC contactless payments using cards, smartphones and smartwatches.",
+        "keywords": [
+            "NFC",
+            "contactless",
+            "tap",
+            "payment"
+        ],
+        "tips": [
+            "Look for the contactless payment symbol on the terminal."
+        ],
+        "officialSources": [
+            {
+                "name": "Bank of Latvia",
+                "url": "https://www.bank.lv/en"
+            }
+        ]
+    },
+    {
+        "id": "banking_027",
+        "category": "Banking",
+        "title": "Should I notify my bank before traveling outside Latvia?",
+        "shortAnswer": "Some banks recommend notifying them before international travel.",
+        "answer": "Informing your bank about travel plans may help prevent legitimate transactions from being flagged as suspicious.",
+        "keywords": [
+            "travel",
+            "bank",
+            "card"
+        ],
+        "tips": [
+            "Check your bank's travel recommendations through mobile banking."
+        ],
+        "officialSources": [
+            {
+                "name": "Bank of Latvia",
+                "url": "https://www.bank.lv/en"
+            }
+        ]
+    },
+    {
+        "id": "banking_028",
+        "category": "Banking",
+        "title": "Can I pay university tuition using a Latvian bank account?",
+        "shortAnswer": "Yes. Universities generally accept bank transfers.",
+        "answer": "Most universities provide bank account details and payment references for tuition payments.",
+        "keywords": [
+            "tuition",
+            "university",
+            "bank transfer"
+        ],
+        "tips": [
+            "Always include the payment reference provided by your university."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ]
+    },
+    {
+        "id": "banking_029",
+        "category": "Banking",
+        "title": "What should I do if I notice an unauthorized transaction?",
+        "shortAnswer": "Contact your bank immediately.",
+        "answer": "Report suspicious transactions as soon as possible. Your bank can investigate and may block your card if necessary.",
+        "keywords": [
+            "fraud",
+            "unauthorized transaction",
+            "bank"
+        ],
+        "tips": [
+            "Enable transaction alerts for faster detection."
+        ],
+        "officialSources": [
+            {
+                "name": "Bank of Latvia",
+                "url": "https://www.bank.lv/en"
+            }
+        ]
+    },
+    {
+        "id": "banking_030",
+        "category": "Banking",
+        "title": "What is the best financial advice for new international students?",
+        "shortAnswer": "Spend carefully, keep an emergency fund and monitor your bank account regularly.",
+        "answer": "Use a monthly budget, avoid unnecessary debt, keep savings for emergencies and regularly check your banking transactions to maintain financial security while studying in Latvia.",
+        "keywords": [
+            "budget",
+            "finance",
+            "student",
+            "money",
+            "bank"
+        ],
+        "tips": [
+            "Aim to save a small amount every month, even if your income is limited."
+        ],
+        "officialSources": [
+            {
+                "name": "Bank of Latvia",
+                "url": "https://www.bank.lv/en"
+            }
+        ]
+    },
+    {
+        "id": "banking_031",
+        "category": "Banking",
+        "title": "Can I receive money from my family abroad?",
+        "shortAnswer": "Yes. International bank transfers are supported by Latvian banks.",
+        "answer": "Family members can send money directly to your Latvian bank account using your IBAN and the bank's SWIFT/BIC code if required.",
+        "keywords": [
+            "international transfer",
+            "family",
+            "IBAN",
+            "SWIFT"
+        ],
+        "tips": [
+            "Double-check your IBAN before sharing it."
+        ],
+        "officialSources": [
+            {
+                "name": "Bank of Latvia",
+                "url": "https://www.bank.lv/en"
+            }
+        ]
+    },
+    {
+        "id": "banking_032",
+        "category": "Banking",
+        "title": "Can I use Revolut or Wise in Latvia?",
+        "shortAnswer": "Yes. Many students use digital banking services for international transfers and payments.",
+        "answer": "Digital banking platforms such as Revolut and Wise are commonly used alongside traditional banks for international transfers and currency exchange.",
+        "keywords": [
+            "Revolut",
+            "Wise",
+            "digital bank",
+            "money transfer"
+        ],
+        "tips": [
+            "Compare exchange rates before transferring large amounts."
+        ],
+        "officialSources": [
+            {
+                "name": "Bank of Latvia",
+                "url": "https://www.bank.lv/en"
+            }
+        ]
+    },
+    {
+        "id": "banking_033",
+        "category": "Banking",
+        "title": "How can I avoid ATM withdrawal fees?",
+        "shortAnswer": "Use ATMs recommended by your bank whenever possible.",
+        "answer": "Some banks charge additional fees when using ATMs operated by other banks or outside their preferred network.",
+        "keywords": [
+            "ATM",
+            "fees",
+            "withdrawal"
+        ],
+        "tips": [
+            "Review your bank's fee schedule before withdrawing cash."
+        ],
+        "officialSources": [
+            {
+                "name": "Bank of Latvia",
+                "url": "https://www.bank.lv/en"
+            }
+        ]
+    },
+    {
+        "id": "banking_034",
+        "category": "Banking",
+        "title": "Can I change my debit card PIN?",
+        "shortAnswer": "Yes. Most banks allow PIN changes through ATMs or online banking.",
+        "answer": "PIN management options vary by bank. Choose a PIN that is difficult to guess and never share it.",
+        "keywords": [
+            "PIN",
+            "debit card",
+            "security"
+        ],
+        "tips": [
+            "Avoid using birthdays or simple number sequences."
+        ],
+        "officialSources": [
+            {
+                "name": "Bank of Latvia",
+                "url": "https://www.bank.lv/en"
+            }
+        ]
+    },
+    {
+        "id": "banking_035",
+        "category": "Banking",
+        "title": "What should I do if I forget my online banking password?",
+        "shortAnswer": "Use your bank's password recovery process or contact customer support.",
+        "answer": "Banks provide secure methods for resetting online banking credentials after verifying your identity.",
+        "keywords": [
+            "password",
+            "online banking",
+            "login"
+        ],
+        "tips": [
+            "Use a password manager to securely store your banking credentials."
+        ],
+        "officialSources": [
+            {
+                "name": "Bank of Latvia",
+                "url": "https://www.bank.lv/en"
+            }
+        ]
+    },
+    {
+        "id": "banking_036",
+        "category": "Banking",
+        "title": "Can I pay my rent using bank transfer?",
+        "shortAnswer": "Yes. Bank transfers are commonly used for rent payments.",
+        "answer": "Many landlords prefer rent payments by bank transfer because they provide a clear payment record.",
+        "keywords": [
+            "rent",
+            "bank transfer",
+            "housing"
+        ],
+        "tips": [
+            "Always include the payment reference requested by your landlord."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ]
+    },
+    {
+        "id": "banking_037",
+        "category": "Banking",
+        "title": "Should I keep receipts for large purchases?",
+        "shortAnswer": "Yes. Receipts are useful for returns, warranties and expense tracking.",
+        "answer": "Keep receipts for electronics, furniture, tuition payments and other expensive purchases.",
+        "keywords": [
+            "receipt",
+            "purchase",
+            "warranty"
+        ],
+        "tips": [
+            "Take photos of paper receipts as a backup."
+        ],
+        "officialSources": [
+            {
+                "name": "Consumer Rights Protection Centre",
+                "url": "https://www.ptac.gov.lv/en"
+            }
+        ]
+    },
+    {
+        "id": "banking_038",
+        "category": "Banking",
+        "title": "Can I receive scholarship payments into my bank account?",
+        "shortAnswer": "Yes. Scholarships are generally paid by bank transfer.",
+        "answer": "Universities usually require your bank account details so scholarship payments can be transferred directly.",
+        "keywords": [
+            "scholarship",
+            "bank account",
+            "student"
+        ],
+        "tips": [
+            "Verify your IBAN before submitting it to the university."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ]
+    },
+    {
+        "id": "banking_039",
+        "category": "Banking",
+        "title": "Should I monitor my monthly spending?",
+        "shortAnswer": "Yes. Regular budgeting helps avoid financial stress.",
+        "answer": "Review your spending each month to understand where your money goes and identify opportunities to save.",
+        "keywords": [
+            "budget",
+            "expenses",
+            "money management"
+        ],
+        "tips": [
+            "Use your banking app's spending analysis if available."
+        ],
+        "officialSources": [
+            {
+                "name": "Bank of Latvia",
+                "url": "https://www.bank.lv/en"
+            }
+        ]
+    },
+    {
+        "id": "banking_040",
+        "category": "Banking",
+        "title": "What banking habits should every international student develop?",
+        "shortAnswer": "Protect your account, monitor transactions, budget wisely and save for emergencies.",
+        "answer": "Good financial habits include checking your account regularly, avoiding unnecessary debt, protecting your banking credentials, maintaining an emergency fund and paying bills on time.",
+        "keywords": [
+            "banking",
+            "budget",
+            "student",
+            "finance",
+            "security"
+        ],
+        "tips": [
+            "Treat your emergency savings as a monthly expense and contribute to it consistently."
+        ],
+        "officialSources": [
+            {
+                "name": "Bank of Latvia",
+                "url": "https://www.bank.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "banking_041",
+        "category": "Banking",
+        "title": "Can I open a joint bank account in Latvia?",
+        "shortAnswer": "Some banks offer joint accounts subject to their policies.",
+        "answer": "Joint account availability depends on the bank. Contact the bank directly to understand eligibility, documentation and account terms.",
+        "keywords": [
+            "joint account",
+            "bank account",
+            "family"
+        ],
+        "tips": [
+            "Ensure both account holders understand account responsibilities."
+        ],
+        "officialSources": [
+            {
+                "name": "Bank of Latvia",
+                "url": "https://www.bank.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "banking_042",
+        "category": "Banking",
+        "title": "Can I request a bank statement in English?",
+        "shortAnswer": "Many banks provide statements and online banking in English.",
+        "answer": "English-language banking services are commonly available, particularly at banks serving international customers.",
+        "keywords": [
+            "bank statement",
+            "English",
+            "documents"
+        ],
+        "tips": [
+            "Ask the bank about language options when opening your account."
+        ],
+        "officialSources": [
+            {
+                "name": "Bank of Latvia",
+                "url": "https://www.bank.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "banking_043",
+        "category": "Banking",
+        "title": "Is it safe to use public Wi-Fi for online banking?",
+        "shortAnswer": "No. Avoid accessing online banking over unsecured public Wi-Fi.",
+        "answer": "Use mobile data or a trusted private network when accessing financial services. Public Wi-Fi may expose sensitive information.",
+        "keywords": [
+            "public wifi",
+            "security",
+            "online banking"
+        ],
+        "tips": [
+            "Enable two-factor authentication and avoid logging into banking apps on public networks."
+        ],
+        "officialSources": [
+            {
+                "name": "Bank of Latvia",
+                "url": "https://www.bank.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "banking_044",
+        "category": "Banking",
+        "title": "What is two-factor authentication (2FA)?",
+        "shortAnswer": "2FA adds an extra layer of security when accessing your bank account.",
+        "answer": "Two-factor authentication requires both your password and an additional verification method, such as a code from your phone or banking app.",
+        "keywords": [
+            "2FA",
+            "security",
+            "authentication"
+        ],
+        "tips": [
+            "Always enable 2FA if your bank supports it."
+        ],
+        "officialSources": [
+            {
+                "name": "Bank of Latvia",
+                "url": "https://www.bank.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "banking_045",
+        "category": "Banking",
+        "title": "Can I receive refunds directly to my bank card?",
+        "shortAnswer": "Yes. Card purchases are generally refunded to the original payment method.",
+        "answer": "When returning eligible items, merchants usually refund the payment to the same card used for the purchase.",
+        "keywords": [
+            "refund",
+            "card payment",
+            "shopping"
+        ],
+        "tips": [
+            "Keep your purchase receipt until the refund is processed."
+        ],
+        "officialSources": [
+            {
+                "name": "Consumer Rights Protection Centre",
+                "url": "https://www.ptac.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "banking_046",
+        "category": "Banking",
+        "title": "Can I set up automatic bill payments?",
+        "shortAnswer": "Yes. Most banks support recurring payments.",
+        "answer": "Automatic payments can be used for rent, utilities, subscriptions and other regular expenses through online banking.",
+        "keywords": [
+            "automatic payment",
+            "bill",
+            "standing order"
+        ],
+        "tips": [
+            "Ensure sufficient funds are available before the payment date."
+        ],
+        "officialSources": [
+            {
+                "name": "Bank of Latvia",
+                "url": "https://www.bank.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "banking_047",
+        "category": "Banking",
+        "title": "What should I do if I suspect a banking scam?",
+        "shortAnswer": "Contact your bank immediately and stop responding to suspicious messages.",
+        "answer": "If you believe you've been targeted by a scam, report it to your bank without delay so they can secure your account and investigate.",
+        "keywords": [
+            "scam",
+            "fraud",
+            "phishing",
+            "security"
+        ],
+        "tips": [
+            "Never click banking links received through unexpected emails or SMS messages."
+        ],
+        "officialSources": [
+            {
+                "name": "Bank of Latvia",
+                "url": "https://www.bank.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "banking_048",
+        "category": "Banking",
+        "title": "Should I keep money in more than one account?",
+        "shortAnswer": "Many people separate daily spending from emergency savings.",
+        "answer": "Using separate accounts for everyday expenses and savings can make budgeting easier and reduce unnecessary spending.",
+        "keywords": [
+            "savings",
+            "budget",
+            "bank account"
+        ],
+        "tips": [
+            "Keep an emergency fund separate from your daily spending account."
+        ],
+        "officialSources": [
+            {
+                "name": "Bank of Latvia",
+                "url": "https://www.bank.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "banking_049",
+        "category": "Banking",
+        "title": "How can I avoid overspending?",
+        "shortAnswer": "Track your expenses and set monthly spending limits.",
+        "answer": "Monitoring your spending regularly helps identify unnecessary expenses and supports better financial planning during your studies.",
+        "keywords": [
+            "budget",
+            "expenses",
+            "money management"
+        ],
+        "tips": [
+            "Review your banking app weekly to stay within your budget."
+        ],
+        "officialSources": [
+            {
+                "name": "Bank of Latvia",
+                "url": "https://www.bank.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "banking_050",
+        "category": "Banking",
+        "title": "What are the most important banking safety rules in Latvia?",
+        "shortAnswer": "Protect your PIN, enable 2FA, monitor transactions and report suspicious activity immediately.",
+        "answer": "Good banking security includes using strong passwords, enabling two-factor authentication, checking your account frequently, avoiding phishing attempts and contacting your bank immediately if you notice unusual activity.",
+        "keywords": [
+            "banking security",
+            "2FA",
+            "fraud",
+            "PIN",
+            "student"
+        ],
+        "tips": [
+            "Your bank will never ask for your PIN or one-time verification code by phone or email."
+        ],
+        "officialSources": [
+            {
+                "name": "Bank of Latvia",
+                "url": "https://www.bank.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    }
+}

@@ -1,75 +1,246 @@
 [
   {
-    "id": "drive001",
+    "id": "driving_001",
     "category": "Driving",
-    "title": "Can I use my Indian driving licence?",
-    "shortAnswer": "Depends on residency and current Latvian regulations.",
-    "answer": "Foreign driving licences may be accepted only under certain conditions. Students staying long term may eventually need a Latvian or recognised licence. Always verify the latest requirements before driving.",
+    "title": "Can I drive in Latvia using my Indian driving licence?",
+    "shortAnswer": "An Indian licence is not automatically valid for long-term driving in Latvia.",
+    "answer": "Visitors may drive only under conditions permitted by Latvian law. Students staying long-term should verify whether they must exchange or obtain a Latvian driving licence depending on their residence status.",
     "keywords": [
+      "indian licence",
       "driving",
-      "licence",
-      "license",
-      "india",
+      "driver license",
+      "international driving permit",
+      "idp",
       "car"
     ],
     "tips": [
       "Carry your original licence.",
-      "Carry passport.",
-      "Check CSDD requirements."
+      "Carry your passport or residence permit.",
+      "Check current CSDD regulations."
     ],
-    "sources": [
+    "officialSources": [
       {
         "name": "CSDD",
         "url": "https://www.csdd.lv/en"
       }
     ],
-    "lastVerified": "2026-08-01"
+    "lastVerified": "2026-08-01",
+    "confidence": "officialGovernment"
   },
   {
-    "id": "transport001",
+    "id": "driving_002",
+    "category": "Driving",
+    "title": "Is an International Driving Permit required?",
+    "shortAnswer": "It depends on your licence and your legal status in Latvia.",
+    "answer": "Many visitors carry an International Driving Permit together with their national licence. Long-term residents should verify current legal requirements before driving.",
+    "keywords": [
+      "idp",
+      "international permit",
+      "international driving permit"
+    ],
+    "tips": [
+      "Never carry only the IDP.",
+      "The original licence is also required."
+    ],
+    "officialSources": [
+      {
+        "name": "CSDD",
+        "url": "https://www.csdd.lv/en"
+      }
+    ],
+    "lastVerified": "2026-08-01",
+    "confidence": "officialGovernment"
+  },
+  {
+    "id": "driving_003",
+    "category": "Driving",
+    "title": "What side of the road do people drive on?",
+    "shortAnswer": "Vehicles drive on the right side of the road.",
+    "answer": "Traffic in Latvia keeps to the right. Overtaking is generally performed on the left unless road signs indicate otherwise.",
+    "keywords": [
+      "left",
+      "right",
+      "road",
+      "traffic"
+    ],
+    "tips": [
+      "Take extra care during your first few days.",
+      "Watch for tram tracks in Riga."
+    ],
+    "officialSources": [
+      {
+        "name": "CSDD",
+        "url": "https://www.csdd.lv/en"
+      }
+    ],
+    "lastVerified": "2026-08-01",
+    "confidence": "officialGovernment"
+  },
+  {
+    "id": "transport_001",
     "category": "Transportation",
-    "title": "Do I need to validate my bus ticket?",
-    "shortAnswer": "Always follow the transport operator's ticket validation rules.",
-    "answer": "Depending on the ticket type, validation may be required before or immediately after boarding. Follow the official transport operator's instructions.",
+    "title": "How do I buy a bus or tram ticket in Riga?",
+    "shortAnswer": "Tickets can be purchased using official public transport channels.",
+    "answer": "Passengers should purchase or activate a valid ticket before or immediately after boarding according to the transport operator's rules.",
     "keywords": [
       "bus",
       "tram",
       "ticket",
-      "transport",
-      "validate"
+      "riga transport"
     ],
     "tips": [
-      "Don't throw away your ticket.",
+      "Always validate your ticket if required.",
       "Keep it until your journey ends."
     ],
-    "sources": [
+    "officialSources": [
       {
         "name": "Rīgas Satiksme",
         "url": "https://www.rigassatiksme.lv/en"
       }
     ],
-    "lastVerified": "2026-08-01"
+    "lastVerified": "2026-08-01",
+    "confidence": "officialGovernment"
   },
   {
-    "id": "student001",
-    "category": "Student",
-    "title": "Can international students work?",
-    "shortAnswer": "Check the conditions attached to your residence permit and applicable regulations.",
-    "answer": "Work permissions depend on your immigration status and applicable Latvian regulations. Review the current requirements before accepting employment.",
+    "id": "transport_002",
+    "category": "Transportation",
+    "title": "Do students receive transport discounts?",
+    "shortAnswer": "Many eligible students can receive discounted public transport.",
+    "answer": "Discount eligibility depends on student status and municipality requirements. Check your university and the transport operator.",
     "keywords": [
-      "student",
-      "job",
-      "work",
+      "student transport",
+      "discount",
+      "public transport"
+    ],
+    "tips": [
+      "Carry your student ID.",
+      "Register if required."
+    ],
+    "officialSources": [
+      {
+        "name": "Rīgas Satiksme",
+        "url": "https://www.rigassatiksme.lv/en"
+      }
+    ],
+    "lastVerified": "2026-08-01",
+    "confidence": "officialGovernment"
+  },
+  {
+    "id": "housing_001",
+    "category": "Housing",
+    "title": "Should I sign a rental agreement?",
+    "shortAnswer": "Yes. Always use a written rental agreement.",
+    "answer": "A written agreement protects both the tenant and landlord. Read all conditions before signing.",
+    "keywords": [
+      "rent",
+      "agreement",
+      "lease",
+      "housing"
+    ],
+    "tips": [
+      "Keep a signed copy.",
+      "Photograph the apartment before moving in."
+    ],
+    "officialSources": [
+      {
+        "name": "Latvija.lv",
+        "url": "https://www.latvija.lv/en"
+      }
+    ],
+    "lastVerified": "2026-08-01",
+    "confidence": "officialGovernment"
+  },
+  {
+    "id": "housing_002",
+    "category": "Housing",
+    "title": "Should I pay cash before seeing an apartment?",
+    "shortAnswer": "No. Be cautious of advance-payment scams.",
+    "answer": "Avoid sending deposits before verifying the landlord, property and rental agreement.",
+    "keywords": [
+      "housing scam",
+      "deposit",
+      "rent fraud"
+    ],
+    "tips": [
+      "Meet the landlord.",
+      "Inspect the property."
+    ],
+    "officialSources": [
+      {
+        "name": "Latvija.lv",
+        "url": "https://www.latvija.lv/en"
+      }
+    ],
+    "lastVerified": "2026-08-01",
+    "confidence": "officialGovernment"
+  },
+  {
+    "id": "student_001",
+    "category": "Student Life",
+    "title": "Can international students work while studying?",
+    "shortAnswer": "Employment depends on Latvian immigration regulations and residence permit conditions.",
+    "answer": "Students should always verify their work rights according to their residence permit and current immigration rules.",
+    "keywords": [
+      "student job",
+      "work permit",
       "part time"
     ],
     "tips": [
-      "Keep your residence permit valid.",
-      "Understand employment conditions before starting work."
+      "Check residence permit conditions.",
+      "Ask your university international office."
     ],
-    "sources": [
+    "officialSources": [
       {
-        "name": "OCMA",
+        "name": "Office of Citizenship and Migration Affairs",
         "url": "https://www.pmlp.gov.lv/en"
+      }
+    ],
+    "lastVerified": "2026-08-01",
+    "confidence": "officialGovernment"
+  },
+  {
+    "id": "student_002",
+    "category": "Student Life",
+    "title": "Should I register with my university after arrival?",
+    "shortAnswer": "Yes. Complete all university registration steps promptly.",
+    "answer": "Most universities require identity verification, residence information and student registration after arrival.",
+    "keywords": [
+      "registration",
+      "arrival",
+      "student"
+    ],
+    "tips": [
+      "Carry passport.",
+      "Carry admission documents."
+    ],
+    "officialSources": [
+      {
+        "name": "University International Office",
+        "url": "https://www.rtu.lv/en"
+      }
+    ],
+    "lastVerified": "2026-08-01",
+    "confidence": "officialGovernment"
+  },
+  {
+    "id": "transport_003",
+    "category": "Transportation",
+    "title": "What happens if I travel without a valid ticket?",
+    "shortAnswer": "Passengers may be subject to penalties according to transport operator rules.",
+    "answer": "Ticket inspectors may request proof of a valid ticket. Penalties are determined by the transport operator's regulations.",
+    "keywords": [
+      "fine",
+      "ticket inspection",
+      "public transport"
+    ],
+    "tips": [
+      "Validate your ticket.",
+      "Keep it until you leave the vehicle."
+    ],
+    "officialSources": [
+      {
+        "name": "Rīgas Satiksme",
+        "url": "https://www.rigassatiksme.lv/en"
       }
     ],
     "lastVerified": "2026-08-01"

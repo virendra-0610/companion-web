@@ -1,0 +1,1227 @@
+[
+    {
+        "id": "immigration_001",
+        "category": "Immigration",
+        "title": "What documents should newcomers prepare before moving to Latvia?",
+        "shortAnswer": "Passport, visa documents, employment or study documents, insurance and accommodation proof are commonly required.",
+        "answer": "Before moving to Latvia, newcomers should prepare essential documents including a valid passport, visa or residence permit documents, employment or university confirmation, health insurance and proof of accommodation. Keeping both physical and digital copies helps during registration and official procedures.",
+        "keywords": [
+            "immigration",
+            "documents",
+            "visa",
+            "Latvia",
+            "newcomer"
+        ],
+        "tips": [
+            "Prepare translated and certified copies of important documents if required."
+        ],
+        "officialSources": [
+            {
+                "name": "Office of Citizenship and Migration Affairs Latvia",
+                "url": "https://www.pmlp.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_002",
+        "category": "Immigration",
+        "title": "Do EU citizens need a visa to live in Latvia?",
+        "shortAnswer": "EU citizens generally do not need a visa and can move under EU free movement rules.",
+        "answer": "Citizens of European Union countries can enter and live in Latvia without a traditional visa. For longer stays, they may need to register their residence according to Latvian and EU regulations.",
+        "keywords": [
+            "immigration",
+            "EU citizens",
+            "visa",
+            "residence"
+        ],
+        "tips": [
+            "Check registration requirements if staying longer than three months."
+        ],
+        "officialSources": [
+            {
+                "name": "European Union Immigration Portal",
+                "url": "https://immigration-portal.ec.europa.eu"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_003",
+        "category": "Immigration",
+        "title": "Do non-EU citizens need a visa for Latvia?",
+        "shortAnswer": "Most non-EU citizens need a visa or residence permit depending on their purpose of stay.",
+        "answer": "Non-EU citizens usually need appropriate immigration permission based on employment, studies, family reunification or other reasons. The required process depends on nationality and planned duration of stay.",
+        "keywords": [
+            "immigration",
+            "non-EU",
+            "visa",
+            "residence permit"
+        ],
+        "tips": [
+            "Apply for the correct visa category before travelling."
+        ],
+        "officialSources": [
+            {
+                "name": "Office of Citizenship and Migration Affairs Latvia",
+                "url": "https://www.pmlp.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_004",
+        "category": "Immigration",
+        "title": "How can newcomers apply for a residence permit in Latvia?",
+        "shortAnswer": "Residence permits are applied for through Latvian immigration authorities with required supporting documents.",
+        "answer": "Foreign nationals who plan to stay in Latvia for an extended period may need a residence permit. Applications usually require identification documents, proof of purpose of stay and supporting documents.",
+        "keywords": [
+            "immigration",
+            "residence permit",
+            "application",
+            "PMLP"
+        ],
+        "tips": [
+            "Start the residence permit process early because processing times vary."
+        ],
+        "officialSources": [
+            {
+                "name": "Office of Citizenship and Migration Affairs Latvia",
+                "url": "https://www.pmlp.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_005",
+        "category": "Immigration",
+        "title": "What is a temporary residence permit in Latvia?",
+        "shortAnswer": "A temporary residence permit allows foreigners to stay in Latvia for a limited period.",
+        "answer": "Temporary residence permits are issued for specific purposes such as employment, education, business activities or family reasons. The permit duration and conditions depend on the reason for residence.",
+        "keywords": [
+            "immigration",
+            "temporary residence",
+            "permit",
+            "Latvia"
+        ],
+        "tips": [
+            "Keep your residence permit valid and renew it before expiration."
+        ],
+        "officialSources": [
+            {
+                "name": "Office of Citizenship and Migration Affairs Latvia",
+                "url": "https://www.pmlp.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_006",
+        "category": "Immigration",
+        "title": "What is a permanent residence permit in Latvia?",
+        "shortAnswer": "A permanent residence permit provides long-term residence rights for eligible foreigners.",
+        "answer": "Foreign nationals who meet specific legal requirements may apply for permanent residence in Latvia. Requirements usually include lawful residence history, language knowledge and other conditions.",
+        "keywords": [
+            "immigration",
+            "permanent residence",
+            "Latvia",
+            "permit"
+        ],
+        "tips": [
+            "Review eligibility requirements before applying."
+        ],
+        "officialSources": [
+            {
+                "name": "Office of Citizenship and Migration Affairs Latvia",
+                "url": "https://www.pmlp.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_007",
+        "category": "Immigration",
+        "title": "How do newcomers register their address in Latvia?",
+        "shortAnswer": "Residents must declare their place of residence through official channels.",
+        "answer": "Address registration is an important step after moving to Latvia because many government and administrative services depend on having an officially declared residence address.",
+        "keywords": [
+            "immigration",
+            "address registration",
+            "residence",
+            "Latvia"
+        ],
+        "tips": [
+            "Complete address declaration soon after finding permanent accommodation."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvija.lv",
+                "url": "https://www.latvija.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_008",
+        "category": "Immigration",
+        "title": "What is a Latvian personal identity code?",
+        "shortAnswer": "It is a unique identification number used for official services in Latvia.",
+        "answer": "The personal identity code is used for interactions with government institutions, healthcare, employment and financial services. New residents may receive one during official registration processes.",
+        "keywords": [
+            "immigration",
+            "identity code",
+            "personal number",
+            "Latvia"
+        ],
+        "tips": [
+            "Keep your personal identity information secure."
+        ],
+        "officialSources": [
+            {
+                "name": "Office of Citizenship and Migration Affairs Latvia",
+                "url": "https://www.pmlp.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_009",
+        "category": "Immigration",
+        "title": "How long can visitors stay in Latvia?",
+        "shortAnswer": "Stay duration depends on nationality and visa requirements.",
+        "answer": "Visitors from visa-free countries can usually stay according to Schengen rules, while others need appropriate visas. The allowed duration depends on nationality and travel purpose.",
+        "keywords": [
+            "immigration",
+            "Schengen",
+            "visa",
+            "travel"
+        ],
+        "tips": [
+            "Check your permitted stay period before travelling."
+        ],
+        "officialSources": [
+            {
+                "name": "European Commission Migration Portal",
+                "url": "https://home-affairs.ec.europa.eu"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_010",
+        "category": "Immigration",
+        "title": "Where can newcomers get official immigration information in Latvia?",
+        "shortAnswer": "The Office of Citizenship and Migration Affairs provides official immigration guidance.",
+        "answer": "The Office of Citizenship and Migration Affairs (PMLP) is the main authority handling residence permits, citizenship matters, identity documents and immigration procedures in Latvia.",
+        "keywords": [
+            "immigration",
+            "PMLP",
+            "official information",
+            "Latvia"
+        ],
+        "tips": [
+            "Always verify immigration information using official government sources."
+        ],
+        "officialSources": [
+            {
+                "name": "Office of Citizenship and Migration Affairs Latvia",
+                "url": "https://www.pmlp.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_011",
+        "category": "Immigration",
+        "title": "How can foreigners apply for a Latvian work residence permit?",
+        "shortAnswer": "Foreign workers usually need an employment offer and approval from Latvian authorities.",
+        "answer": "Foreign nationals coming to Latvia for employment generally need a valid work agreement or employment offer and must complete the required residence permit process before starting work.",
+        "keywords": [
+            "immigration",
+            "work permit",
+            "employment",
+            "residence permit"
+        ],
+        "tips": [
+            "Confirm employer responsibilities before signing an employment agreement."
+        ],
+        "officialSources": [
+            {
+                "name": "Office of Citizenship and Migration Affairs Latvia",
+                "url": "https://www.pmlp.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_012",
+        "category": "Immigration",
+        "title": "What immigration options are available for students in Latvia?",
+        "shortAnswer": "International students can apply for residence based on admission to a Latvian educational institution.",
+        "answer": "Students accepted by Latvian universities or educational institutions may apply for a residence permit connected to their studies. They must provide admission documents and meet immigration requirements.",
+        "keywords": [
+            "immigration",
+            "students",
+            "study permit",
+            "Latvia"
+        ],
+        "tips": [
+            "Keep your university admission letter and enrollment documents available."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://www.studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_013",
+        "category": "Immigration",
+        "title": "Can family members join a foreign resident in Latvia?",
+        "shortAnswer": "Eligible family members may apply for residence based on family reunification rules.",
+        "answer": "Latvia provides immigration pathways for certain family members of residents, workers and citizens. Applicants must provide proof of family relationship and meet legal requirements.",
+        "keywords": [
+            "immigration",
+            "family reunification",
+            "residence",
+            "Latvia"
+        ],
+        "tips": [
+            "Prepare official marriage and birth certificates if applying for family reunification."
+        ],
+        "officialSources": [
+            {
+                "name": "Office of Citizenship and Migration Affairs Latvia",
+                "url": "https://www.pmlp.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_014",
+        "category": "Immigration",
+        "title": "What is the Schengen visa for Latvia?",
+        "shortAnswer": "A Schengen visa allows short-term travel within Latvia and other Schengen countries.",
+        "answer": "Latvia is part of the Schengen Area, allowing eligible visitors with a valid Schengen visa to travel within participating countries for short stays according to visa conditions.",
+        "keywords": [
+            "immigration",
+            "Schengen",
+            "visa",
+            "travel"
+        ],
+        "tips": [
+            "Check visa validity dates and permitted travel duration carefully."
+        ],
+        "officialSources": [
+            {
+                "name": "European Commission Migration Portal",
+                "url": "https://home-affairs.ec.europa.eu"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_015",
+        "category": "Immigration",
+        "title": "How can newcomers extend their stay in Latvia?",
+        "shortAnswer": "Stay extensions depend on visa type, residence status and legal eligibility.",
+        "answer": "Foreign nationals who need to remain longer than their permitted period must follow the appropriate extension or residence permit procedures before their current permission expires.",
+        "keywords": [
+            "immigration",
+            "extension",
+            "visa",
+            "residence"
+        ],
+        "tips": [
+            "Apply before your current immigration status expires."
+        ],
+        "officialSources": [
+            {
+                "name": "Office of Citizenship and Migration Affairs Latvia",
+                "url": "https://www.pmlp.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_016",
+        "category": "Immigration",
+        "title": "What is the EU Blue Card in Latvia?",
+        "shortAnswer": "The EU Blue Card supports qualified non-EU professionals working in Latvia.",
+        "answer": "The EU Blue Card is a residence and work authorization option for highly qualified professionals from outside the European Union who meet salary and qualification requirements.",
+        "keywords": [
+            "immigration",
+            "EU Blue Card",
+            "skilled workers",
+            "employment"
+        ],
+        "tips": [
+            "Check qualification and salary requirements before applying."
+        ],
+        "officialSources": [
+            {
+                "name": "European Commission Immigration Portal",
+                "url": "https://immigration-portal.ec.europa.eu"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_017",
+        "category": "Immigration",
+        "title": "How can newcomers check immigration application status?",
+        "shortAnswer": "Application updates are provided through official immigration channels.",
+        "answer": "Applicants can contact the responsible immigration authority or use available digital services to receive information about their residence permit or visa applications.",
+        "keywords": [
+            "immigration",
+            "application status",
+            "residence permit",
+            "PMLP"
+        ],
+        "tips": [
+            "Keep application reference numbers and official correspondence saved."
+        ],
+        "officialSources": [
+            {
+                "name": "Office of Citizenship and Migration Affairs Latvia",
+                "url": "https://www.pmlp.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_018",
+        "category": "Immigration",
+        "title": "What should newcomers do after arriving in Latvia?",
+        "shortAnswer": "Register residence, complete official paperwork and set up essential services.",
+        "answer": "After arrival, newcomers should complete required immigration procedures, register their address, arrange banking, healthcare access and other daily services.",
+        "keywords": [
+            "immigration",
+            "arrival",
+            "settling",
+            "Latvia"
+        ],
+        "tips": [
+            "Create a first-week checklist to avoid missing important registrations."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvija.lv",
+                "url": "https://www.latvija.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_019",
+        "category": "Immigration",
+        "title": "Can foreigners work while studying in Latvia?",
+        "shortAnswer": "International students may have limited work rights depending on their residence conditions.",
+        "answer": "Students with Latvian residence permits may have opportunities to work under applicable regulations. The permitted work conditions depend on immigration status and legal requirements.",
+        "keywords": [
+            "immigration",
+            "students",
+            "work",
+            "Latvia"
+        ],
+        "tips": [
+            "Confirm work limits with official immigration authorities."
+        ],
+        "officialSources": [
+            {
+                "name": "Office of Citizenship and Migration Affairs Latvia",
+                "url": "https://www.pmlp.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_020",
+        "category": "Immigration",
+        "title": "What mistakes should newcomers avoid during immigration procedures?",
+        "shortAnswer": "Avoid missing deadlines, incomplete documents and relying on unofficial information.",
+        "answer": "Common immigration problems happen because of expired documents, incorrect applications or delayed submissions. Following official instructions helps prevent unnecessary delays.",
+        "keywords": [
+            "immigration",
+            "mistakes",
+            "documents",
+            "Latvia"
+        ],
+        "tips": [
+            "Use official government websites for immigration guidance."
+        ],
+        "officialSources": [
+            {
+                "name": "Office of Citizenship and Migration Affairs Latvia",
+                "url": "https://www.pmlp.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_021",
+        "category": "Immigration",
+        "title": "How can newcomers book an appointment with immigration authorities in Latvia?",
+        "shortAnswer": "Appointments can be arranged through official immigration service channels.",
+        "answer": "Foreign nationals can contact the Office of Citizenship and Migration Affairs (PMLP) to submit documents, provide biometric information and complete immigration procedures through available appointment systems.",
+        "keywords": [
+            "immigration",
+            "appointment",
+            "PMLP",
+            "residence permit"
+        ],
+        "tips": [
+            "Check required documents before attending your appointment."
+        ],
+        "officialSources": [
+            {
+                "name": "Office of Citizenship and Migration Affairs Latvia",
+                "url": "https://www.pmlp.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_022",
+        "category": "Immigration",
+        "title": "What language documents may be required for Latvian immigration?",
+        "shortAnswer": "Foreign documents may need translation into Latvian or another accepted language.",
+        "answer": "Immigration applications may require official translations and document certification depending on the country of origin and document type. Applicants should verify specific requirements before submission.",
+        "keywords": [
+            "immigration",
+            "documents",
+            "translation",
+            "certification"
+        ],
+        "tips": [
+            "Use certified translators for official immigration documents when required."
+        ],
+        "officialSources": [
+            {
+                "name": "Office of Citizenship and Migration Affairs Latvia",
+                "url": "https://www.pmlp.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_023",
+        "category": "Immigration",
+        "title": "What happens if a residence permit expires in Latvia?",
+        "shortAnswer": "A person must renew or change their immigration status before expiry.",
+        "answer": "Remaining in Latvia after a residence permit expires can create legal issues. Residents should apply for renewal or another valid status before the current permit expiration date.",
+        "keywords": [
+            "immigration",
+            "residence permit",
+            "renewal",
+            "expiry"
+        ],
+        "tips": [
+            "Set reminders several months before your permit expires."
+        ],
+        "officialSources": [
+            {
+                "name": "Office of Citizenship and Migration Affairs Latvia",
+                "url": "https://www.pmlp.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_024",
+        "category": "Immigration",
+        "title": "How can newcomers replace lost immigration documents in Latvia?",
+        "shortAnswer": "Report lost documents and apply for replacements through official authorities.",
+        "answer": "If a residence card, passport or immigration document is lost, newcomers should report the loss and follow the official replacement process to receive new documentation.",
+        "keywords": [
+            "immigration",
+            "lost documents",
+            "replacement",
+            "residence card"
+        ],
+        "tips": [
+            "Keep secure digital copies of important documents."
+        ],
+        "officialSources": [
+            {
+                "name": "Office of Citizenship and Migration Affairs Latvia",
+                "url": "https://www.pmlp.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_025",
+        "category": "Immigration",
+        "title": "What insurance requirements apply for Latvian visas?",
+        "shortAnswer": "Many visa applicants need valid health insurance covering their stay.",
+        "answer": "Applicants for certain Latvian visas or residence permits may need to provide proof of valid health insurance meeting required coverage conditions.",
+        "keywords": [
+            "immigration",
+            "health insurance",
+            "visa",
+            "requirements"
+        ],
+        "tips": [
+            "Purchase insurance that meets Latvian immigration requirements."
+        ],
+        "officialSources": [
+            {
+                "name": "European Commission Migration Portal",
+                "url": "https://home-affairs.ec.europa.eu"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_026",
+        "category": "Immigration",
+        "title": "How does citizenship work in Latvia?",
+        "shortAnswer": "Citizenship is granted through specific legal pathways including naturalization.",
+        "answer": "Foreign residents may become Latvian citizens through naturalization if they meet requirements such as residence duration, language knowledge and legal conditions.",
+        "keywords": [
+            "immigration",
+            "citizenship",
+            "naturalization",
+            "Latvia"
+        ],
+        "tips": [
+            "Learn Latvian language requirements early if citizenship is a future goal."
+        ],
+        "officialSources": [
+            {
+                "name": "Office of Citizenship and Migration Affairs Latvia",
+                "url": "https://www.pmlp.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_027",
+        "category": "Immigration",
+        "title": "What Latvian language requirements exist for immigration?",
+        "shortAnswer": "Some long-term residence and citizenship processes require Latvian language knowledge.",
+        "answer": "Latvian language requirements may apply for certain immigration statuses and citizenship applications. Learning Latvian also helps newcomers integrate into daily life.",
+        "keywords": [
+            "immigration",
+            "Latvian language",
+            "requirements",
+            "integration"
+        ],
+        "tips": [
+            "Start learning Latvian early using online courses and practice groups."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvian Language Agency",
+                "url": "https://valoda.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_028",
+        "category": "Immigration",
+        "title": "Can newcomers travel outside Latvia with a residence permit?",
+        "shortAnswer": "A valid Latvian residence permit may allow travel within Schengen rules.",
+        "answer": "Residents with valid Latvian residence permits can generally travel within the Schengen Area according to applicable regulations. Travel rights depend on permit type and personal circumstances.",
+        "keywords": [
+            "immigration",
+            "residence permit",
+            "Schengen",
+            "travel"
+        ],
+        "tips": [
+            "Carry your residence card and passport when travelling."
+        ],
+        "officialSources": [
+            {
+                "name": "European Commission Migration Portal",
+                "url": "https://home-affairs.ec.europa.eu"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_029",
+        "category": "Immigration",
+        "title": "What should newcomers know about immigration fees in Latvia?",
+        "shortAnswer": "Government services may require fees depending on application type and processing speed.",
+        "answer": "Residence permits, visas and related immigration services can include government fees. Costs vary depending on application category and processing options.",
+        "keywords": [
+            "immigration",
+            "fees",
+            "visa",
+            "residence permit"
+        ],
+        "tips": [
+            "Check current fees on official websites before submitting applications."
+        ],
+        "officialSources": [
+            {
+                "name": "Office of Citizenship and Migration Affairs Latvia",
+                "url": "https://www.pmlp.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_030",
+        "category": "Immigration",
+        "title": "What are the first immigration tasks after moving to Latvia?",
+        "shortAnswer": "Complete registration, residence formalities and access essential services.",
+        "answer": "After arrival, newcomers should complete required immigration steps, register their residence, obtain necessary identification documents and connect with essential services such as banking and healthcare.",
+        "keywords": [
+            "immigration",
+            "first steps",
+            "newcomer",
+            "Latvia"
+        ],
+        "tips": [
+            "Follow a relocation checklist to track completed immigration tasks."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvija.lv",
+                "url": "https://www.latvija.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_031",
+        "category": "Immigration",
+        "title": "How can newcomers verify immigration requirements before moving to Latvia?",
+        "shortAnswer": "Check official Latvian immigration websites for current visa and residence requirements.",
+        "answer": "Immigration rules can change depending on nationality, purpose of stay and legal status. Newcomers should verify requirements through official Latvian authorities before making travel arrangements.",
+        "keywords": [
+            "immigration",
+            "requirements",
+            "visa",
+            "Latvia"
+        ],
+        "tips": [
+            "Avoid relying only on unofficial immigration advice."
+        ],
+        "officialSources": [
+            {
+                "name": "Office of Citizenship and Migration Affairs Latvia",
+                "url": "https://www.pmlp.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_032",
+        "category": "Immigration",
+        "title": "What is the difference between a visa and a residence permit in Latvia?",
+        "shortAnswer": "A visa is usually for short stays, while a residence permit allows longer-term living.",
+        "answer": "A Latvian visa generally allows temporary entry for a limited period, while a residence permit provides authorization for longer stays based on reasons such as work, studies or family.",
+        "keywords": [
+            "immigration",
+            "visa",
+            "residence permit",
+            "Latvia"
+        ],
+        "tips": [
+            "Choose the correct immigration category based on your purpose of stay."
+        ],
+        "officialSources": [
+            {
+                "name": "European Commission Immigration Portal",
+                "url": "https://immigration-portal.ec.europa.eu"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_033",
+        "category": "Immigration",
+        "title": "How can newcomers prepare for Latvian immigration interviews?",
+        "shortAnswer": "Review your documents and be ready to explain your purpose of stay.",
+        "answer": "Some immigration procedures may require applicants to provide information about employment, studies, accommodation or personal circumstances. Preparing accurate documents helps the process go smoothly.",
+        "keywords": [
+            "immigration",
+            "interview",
+            "documents",
+            "residence"
+        ],
+        "tips": [
+            "Carry original documents along with required copies."
+        ],
+        "officialSources": [
+            {
+                "name": "Office of Citizenship and Migration Affairs Latvia",
+                "url": "https://www.pmlp.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_034",
+        "category": "Immigration",
+        "title": "What should foreigners know about Latvian residence cards?",
+        "shortAnswer": "Residence cards prove legal permission to stay in Latvia.",
+        "answer": "Foreign residents with approved residence permits receive documentation proving their legal status. The card may be needed when accessing services, travelling or completing official procedures.",
+        "keywords": [
+            "immigration",
+            "residence card",
+            "permit",
+            "identity"
+        ],
+        "tips": [
+            "Keep your residence card safe and check its expiry date regularly."
+        ],
+        "officialSources": [
+            {
+                "name": "Office of Citizenship and Migration Affairs Latvia",
+                "url": "https://www.pmlp.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_035",
+        "category": "Immigration",
+        "title": "How can newcomers update personal information with immigration authorities?",
+        "shortAnswer": "Changes to important personal details should be reported through official procedures.",
+        "answer": "Foreign residents may need to update immigration authorities when there are changes to address, personal information or other details connected with their residence status.",
+        "keywords": [
+            "immigration",
+            "personal information",
+            "updates",
+            "residence"
+        ],
+        "tips": [
+            "Report important changes promptly to avoid administrative problems."
+        ],
+        "officialSources": [
+            {
+                "name": "Office of Citizenship and Migration Affairs Latvia",
+                "url": "https://www.pmlp.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_036",
+        "category": "Immigration",
+        "title": "What role does the Latvian embassy play in immigration?",
+        "shortAnswer": "Embassies provide visa information and accept certain immigration applications abroad.",
+        "answer": "Latvian embassies and consulates help foreign nationals with visa applications, document requirements and pre-arrival immigration guidance.",
+        "keywords": [
+            "immigration",
+            "embassy",
+            "visa",
+            "consulate"
+        ],
+        "tips": [
+            "Contact the nearest Latvian embassy before travelling if you need visa assistance."
+        ],
+        "officialSources": [
+            {
+                "name": "Ministry of Foreign Affairs Latvia",
+                "url": "https://www.mfa.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_036",
+        "category": "Immigration",
+        "title": "What role does the Latvian embassy play in immigration?",
+        "shortAnswer": "Embassies provide visa information and accept certain immigration applications abroad.",
+        "answer": "Latvian embassies and consulates help foreign nationals with visa applications, document requirements and pre-arrival immigration guidance.",
+        "keywords": [
+            "immigration",
+            "embassy",
+            "visa",
+            "consulate"
+        ],
+        "tips": [
+            "Contact the nearest Latvian embassy before travelling if you need visa assistance."
+        ],
+        "officialSources": [
+            {
+                "name": "Ministry of Foreign Affairs Latvia",
+                "url": "https://www.mfa.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_037",
+        "category": "Immigration",
+        "title": "How can newcomers avoid immigration scams in Latvia?",
+        "shortAnswer": "Use official authorities and avoid unofficial agents promising guaranteed approvals.",
+        "answer": "Immigration scams may involve fake documents, false job offers or unofficial services. Newcomers should verify information through Latvian government websites and authorized institutions.",
+        "keywords": [
+            "immigration",
+            "scams",
+            "security",
+            "fraud"
+        ],
+        "tips": [
+            "Never share passport copies or personal data with unverified sources."
+        ],
+        "officialSources": [
+            {
+                "name": "Office of Citizenship and Migration Affairs Latvia",
+                "url": "https://www.pmlp.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_038",
+        "category": "Immigration",
+        "title": "What should newcomers know about immigration deadlines in Latvia?",
+        "shortAnswer": "Meeting application and renewal deadlines is essential to maintain legal status.",
+        "answer": "Missing immigration deadlines can delay applications or create legal complications. Residents should track visa expiry dates, residence permit renewals and required submissions.",
+        "keywords": [
+            "immigration",
+            "deadlines",
+            "renewal",
+            "legal status"
+        ],
+        "tips": [
+            "Set calendar reminders for all immigration-related dates."
+        ],
+        "officialSources": [
+            {
+                "name": "Office of Citizenship and Migration Affairs Latvia",
+                "url": "https://www.pmlp.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_039",
+        "category": "Immigration",
+        "title": "Can remote workers move to Latvia?",
+        "shortAnswer": "Remote workers may need specific immigration options depending on nationality and circumstances.",
+        "answer": "Remote work arrangements do not automatically provide residence rights. Foreign nationals should check whether they qualify for available Latvian immigration pathways.",
+        "keywords": [
+            "immigration",
+            "remote work",
+            "digital nomad",
+            "residence"
+        ],
+        "tips": [
+            "Confirm your legal right to work while staying in Latvia."
+        ],
+        "officialSources": [
+            {
+                "name": "Office of Citizenship and Migration Affairs Latvia",
+                "url": "https://www.pmlp.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_040",
+        "category": "Immigration",
+        "title": "How can newcomers integrate after completing immigration procedures?",
+        "shortAnswer": "Learn Latvian, understand local systems and connect with community resources.",
+        "answer": "Completing immigration paperwork is only the first step. Learning the language, understanding local rules and building connections help newcomers successfully settle in Latvia.",
+        "keywords": [
+            "immigration",
+            "integration",
+            "language",
+            "community"
+        ],
+        "tips": [
+            "Join local integration programs and language courses."
+        ],
+        "officialSources": [
+            {
+                "name": "Integration and Inclusion Agency Latvia",
+                "url": "https://www.integration.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_041",
+        "category": "Immigration",
+        "title": "What is the process for renewing a residence permit in Latvia?",
+        "shortAnswer": "Apply for renewal before expiry and provide updated required documents.",
+        "answer": "Foreign residents who want to continue staying in Latvia must apply for residence permit renewal before their current permit expires. The process may require updated documents, proof of continued eligibility and payment of applicable fees.",
+        "keywords": [
+            "immigration",
+            "residence permit",
+            "renewal",
+            "Latvia"
+        ],
+        "tips": [
+            "Start renewal preparations several months before the expiry date."
+        ],
+        "officialSources": [
+            {
+                "name": "Office of Citizenship and Migration Affairs Latvia",
+                "url": "https://www.pmlp.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_042",
+        "category": "Immigration",
+        "title": "What rights do legal residents have in Latvia?",
+        "shortAnswer": "Legal residents can access permitted services, work or study according to their status.",
+        "answer": "Residents with valid immigration status can access services and rights connected to their residence category, such as employment, education or healthcare access depending on applicable rules.",
+        "keywords": [
+            "immigration",
+            "resident rights",
+            "services",
+            "Latvia"
+        ],
+        "tips": [
+            "Understand your residence permit conditions to avoid violations."
+        ],
+        "officialSources": [
+            {
+                "name": "Office of Citizenship and Migration Affairs Latvia",
+                "url": "https://www.pmlp.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_043",
+        "category": "Immigration",
+        "title": "How can newcomers bring personal belongings when moving to Latvia?",
+        "shortAnswer": "Import rules depend on citizenship, residency status and type of goods.",
+        "answer": "People moving to Latvia should understand customs rules for personal belongings, household items and restricted goods before arrival.",
+        "keywords": [
+            "immigration",
+            "moving",
+            "customs",
+            "belongings"
+        ],
+        "tips": [
+            "Check customs requirements before shipping personal items."
+        ],
+        "officialSources": [
+            {
+                "name": "State Revenue Service Latvia Customs",
+                "url": "https://www.vid.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_044",
+        "category": "Immigration",
+        "title": "What customs rules should newcomers know when entering Latvia?",
+        "shortAnswer": "Travellers must follow Latvian and EU customs rules for goods and valuables.",
+        "answer": "Newcomers entering Latvia should follow European Union customs regulations regarding personal goods, cash declarations, prohibited items and imported products.",
+        "keywords": [
+            "immigration",
+            "customs",
+            "EU rules",
+            "travel"
+        ],
+        "tips": [
+            "Declare items when required to avoid penalties."
+        ],
+        "officialSources": [
+            {
+                "name": "European Commission Taxation and Customs",
+                "url": "https://taxation-customs.ec.europa.eu"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_045",
+        "category": "Immigration",
+        "title": "How can newcomers find immigration help in Latvia?",
+        "shortAnswer": "Use government authorities, official portals and authorized support organizations.",
+        "answer": "Newcomers can receive immigration guidance from PMLP, Latvian government portals, embassies and approved integration organizations.",
+        "keywords": [
+            "immigration",
+            "help",
+            "support",
+            "Latvia"
+        ],
+        "tips": [
+            "Prefer official sources over social media advice for legal matters."
+        ],
+        "officialSources": [
+            {
+                "name": "Office of Citizenship and Migration Affairs Latvia",
+                "url": "https://www.pmlp.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_046",
+        "category": "Immigration",
+        "title": "What happens after submitting a residence permit application in Latvia?",
+        "shortAnswer": "Authorities review documents and decide according to immigration regulations.",
+        "answer": "After submission, immigration authorities verify documents, eligibility and other requirements. Applicants may need to provide additional information during the review process.",
+        "keywords": [
+            "immigration",
+            "application",
+            "review",
+            "residence permit"
+        ],
+        "tips": [
+            "Monitor official communication after submitting your application."
+        ],
+        "officialSources": [
+            {
+                "name": "Office of Citizenship and Migration Affairs Latvia",
+                "url": "https://www.pmlp.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_047",
+        "category": "Immigration",
+        "title": "Can foreigners buy property in Latvia?",
+        "shortAnswer": "Foreign ownership rules depend on nationality and property type.",
+        "answer": "Foreign nationals may be able to purchase property in Latvia, but certain restrictions and legal requirements can apply depending on citizenship and property category.",
+        "keywords": [
+            "immigration",
+            "property",
+            "foreigners",
+            "Latvia"
+        ],
+        "tips": [
+            "Consult legal professionals before purchasing property."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvian Land Registry",
+                "url": "https://www.zemesgramata.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_048",
+        "category": "Immigration",
+        "title": "How can newcomers invite family members to Latvia?",
+        "shortAnswer": "Eligible residents may support family reunification applications.",
+        "answer": "Foreign residents living legally in Latvia may be able to invite certain family members through family reunification procedures if requirements are met.",
+        "keywords": [
+            "immigration",
+            "family",
+            "reunification",
+            "Latvia"
+        ],
+        "tips": [
+            "Prepare official proof of family relationships."
+        ],
+        "officialSources": [
+            {
+                "name": "Office of Citizenship and Migration Affairs Latvia",
+                "url": "https://www.pmlp.gov.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_049",
+        "category": "Immigration",
+        "title": "What should newcomers know about leaving and re-entering Latvia?",
+        "shortAnswer": "Carry valid travel documents and ensure your immigration status remains valid.",
+        "answer": "Residents travelling outside Latvia should ensure their passport and residence documents are valid before leaving. Re-entry conditions depend on nationality and immigration status.",
+        "keywords": [
+            "immigration",
+            "travel",
+            "re-entry",
+            "documents"
+        ],
+        "tips": [
+            "Check residence card validity before international travel."
+        ],
+        "officialSources": [
+            {
+                "name": "European Commission Migration Portal",
+                "url": "https://immigration-portal.ec.europa.eu"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "immigration_050",
+        "category": "Immigration",
+        "title": "What immigration checklist should newcomers complete after arriving in Latvia?",
+        "shortAnswer": "Complete residence registration, documents, banking, healthcare and essential registrations.",
+        "answer": "A newcomer checklist should include confirming legal residence status, registering an address, arranging identification documents, setting up essential services and understanding local requirements.",
+        "keywords": [
+            "immigration",
+            "checklist",
+            "newcomer",
+            "settlement"
+        ],
+        "tips": [
+            "Complete important registrations during the first weeks after arrival."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvija.lv",
+                "url": "https://www.latvija.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    }
+]

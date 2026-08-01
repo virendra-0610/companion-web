@@ -1,0 +1,1186 @@
+[
+    {
+        "id": "digital_001",
+        "category": "Digital Services",
+        "title": "What is Latvija.lv?",
+        "shortAnswer": "Latvija.lv is Latvia's official e-government portal.",
+        "answer": "Latvija.lv provides access to hundreds of public services, including certificates, applications, health information and government notifications.",
+        "keywords": [
+            "Latvija.lv",
+            "government",
+            "online services",
+            "portal"
+        ],
+        "tips": [
+            "Bookmark the portal for future government services."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvija.lv",
+                "url": "https://www.latvija.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "digital_002",
+        "category": "Digital Services",
+        "title": "What is eParaksts?",
+        "shortAnswer": "eParaksts is Latvia's official electronic signature system.",
+        "answer": "eParaksts allows users to securely sign digital documents that have the same legal validity as handwritten signatures in many situations.",
+        "keywords": [
+            "eParaksts",
+            "digital signature",
+            "documents"
+        ],
+        "tips": [
+            "Many government services accept digitally signed documents."
+        ],
+        "officialSources": [
+            {
+                "name": "eParaksts",
+                "url": "https://www.eparaksts.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "digital_003",
+        "category": "Digital Services",
+        "title": "What is Smart-ID?",
+        "shortAnswer": "Smart-ID is a secure digital identity application.",
+        "answer": "Smart-ID allows users to authenticate themselves and approve banking and government transactions electronically.",
+        "keywords": [
+            "Smart-ID",
+            "authentication",
+            "banking"
+        ],
+        "tips": [
+            "Protect your Smart-ID PIN codes and never share them."
+        ],
+        "officialSources": [
+            {
+                "name": "Smart-ID",
+                "url": "https://www.smart-id.com"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "digital_004",
+        "category": "Digital Services",
+        "title": "What is Mobile-ID?",
+        "shortAnswer": "Mobile-ID provides secure authentication using your SIM card.",
+        "answer": "Some digital services allow authentication using Mobile-ID, depending on your mobile operator and eligibility.",
+        "keywords": [
+            "Mobile-ID",
+            "authentication",
+            "SIM"
+        ],
+        "tips": [
+            "Check whether your operator supports Mobile-ID."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvija.lv",
+                "url": "https://www.latvija.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "digital_005",
+        "category": "Digital Services",
+        "title": "Can I access government services online?",
+        "shortAnswer": "Yes. Many government services are available digitally.",
+        "answer": "Applications, certificates, tax services and many administrative procedures can be completed online through official government portals.",
+        "keywords": [
+            "government",
+            "online",
+            "digital services"
+        ],
+        "tips": [
+            "Use official websites only."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvija.lv",
+                "url": "https://www.latvija.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "digital_006",
+        "category": "Digital Services",
+        "title": "What is an eID card?",
+        "shortAnswer": "An eID card is Latvia's electronic identity document.",
+        "answer": "The electronic identity card can be used for secure identification and access to supported digital services.",
+        "keywords": [
+            "eID",
+            "identity card",
+            "authentication"
+        ],
+        "tips": [
+            "Keep your PIN codes separate from your card."
+        ],
+        "officialSources": [
+            {
+                "name": "Office of Citizenship and Migration Affairs",
+                "url": "https://www.pmlp.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "digital_007",
+        "category": "Digital Services",
+        "title": "Can I sign PDF documents electronically?",
+        "shortAnswer": "Yes, supported electronic signature tools can digitally sign documents.",
+        "answer": "Electronic signatures can replace handwritten signatures for many official and business documents.",
+        "keywords": [
+            "PDF",
+            "digital signature",
+            "documents"
+        ],
+        "tips": [
+            "Verify that the receiving organization accepts electronic signatures."
+        ],
+        "officialSources": [
+            {
+                "name": "eParaksts",
+                "url": "https://www.eparaksts.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "digital_008",
+        "category": "Digital Services",
+        "title": "Can I access healthcare information online?",
+        "shortAnswer": "Yes. Latvia provides digital healthcare services.",
+        "answer": "Eligible users can access healthcare-related services through official electronic systems.",
+        "keywords": [
+            "health",
+            "digital",
+            "e-health"
+        ],
+        "tips": [
+            "Keep your login credentials secure."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service",
+                "url": "https://www.vmnvd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "digital_009",
+        "category": "Digital Services",
+        "title": "Can I use online banking together with Smart-ID?",
+        "shortAnswer": "Yes. Many Latvian banks support Smart-ID authentication.",
+        "answer": "Smart-ID is commonly used to securely log into banking applications and approve payments.",
+        "keywords": [
+            "Smart-ID",
+            "bank",
+            "authentication"
+        ],
+        "tips": [
+            "Enable biometric protection on your phone."
+        ],
+        "officialSources": [
+            {
+                "name": "Smart-ID",
+                "url": "https://www.smart-id.com"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "digital_010",
+        "category": "Digital Services",
+        "title": "What are the essential digital services every newcomer should know?",
+        "shortAnswer": "Latvija.lv, eParaksts, Smart-ID and online banking are the most important digital services.",
+        "answer": "Most residents use digital identity, electronic signatures, government portals and secure banking applications for everyday administrative tasks.",
+        "keywords": [
+            "digital",
+            "government",
+            "Smart-ID",
+            "eParaksts",
+            "Latvija"
+        ],
+        "tips": [
+            "Learning Latvia's digital ecosystem will save significant time when dealing with government services."
+        ],
+        "officialSources": [
+            {
+                "name": "Latvija.lv",
+                "url": "https://www.latvija.lv"
+            }
+        ],
+        {
+            "id": "digital_011",
+            "category": "Digital Services",
+            "title": "Can I create a Latvija.lv account as an international student?",
+            "shortAnswer": "Access depends on your available Latvian digital identity methods.",
+            "answer": "Many online government services require secure electronic identification such as eID, Smart-ID or other supported authentication methods.",
+            "keywords": [
+                "Latvija.lv",
+                "account",
+                "student",
+                "login"
+            ],
+            "tips": [
+                "Check which authentication methods are available to you after arriving in Latvia."
+            ],
+            "officialSources": [
+                {
+                    "name": "Latvija.lv",
+                    "url": "https://www.latvija.lv"
+                }
+            ],
+            "lastVerified": "2026-08-01",
+            "confidence": "officialGovernment"
+        },
+        {
+            "id": "digital_012",
+            "category": "Digital Services",
+            "title": "Can I book government appointments online?",
+            "shortAnswer": "Many public institutions allow online appointment booking.",
+            "answer": "Several government agencies provide appointment scheduling through their official websites or online portals.",
+            "keywords": [
+                "appointment",
+                "government",
+                "online booking"
+            ],
+            "tips": [
+                "Book early during busy immigration periods."
+            ],
+            "officialSources": [
+                {
+                    "name": "Latvija.lv",
+                    "url": "https://www.latvija.lv"
+                }
+            ],
+            "lastVerified": "2026-08-01",
+            "confidence": "officialGovernment"
+        },
+        {
+            "id": "digital_013",
+            "category": "Digital Services",
+            "title": "Can I receive official notifications electronically?",
+            "shortAnswer": "Yes. Many government services provide electronic notifications.",
+            "answer": "Depending on the service, notifications may be delivered through official portals or registered communication channels.",
+            "keywords": [
+                "notification",
+                "government",
+                "digital"
+            ],
+            "tips": [
+                "Regularly check your registered email and government portal."
+            ],
+            "officialSources": [
+                {
+                    "name": "Latvija.lv",
+                    "url": "https://www.latvija.lv"
+                }
+            ],
+            "lastVerified": "2026-08-01",
+            "confidence": "officialGovernment"
+        },
+        {
+            "id": "digital_014",
+            "category": "Digital Services",
+            "title": "What is e-Veselība?",
+            "shortAnswer": "e-Veselība is Latvia's electronic healthcare system.",
+            "answer": "The platform provides eligible users access to various healthcare-related digital services including prescriptions and medical information.",
+            "keywords": [
+                "e-veselība",
+                "health",
+                "prescription"
+            ],
+            "tips": [
+                "Use only official healthcare portals for medical information."
+            ],
+            "officialSources": [
+                {
+                    "name": "National Health Service",
+                    "url": "https://www.vmnvd.gov.lv/en"
+                }
+            ],
+            "lastVerified": "2026-08-01",
+            "confidence": "officialGovernment"
+        },
+        {
+            "id": "digital_015",
+            "category": "Digital Services",
+            "title": "Can I receive electronic prescriptions?",
+            "shortAnswer": "Yes. Latvia supports electronic prescriptions.",
+            "answer": "Healthcare providers may issue electronic prescriptions that participating pharmacies can access electronically.",
+            "keywords": [
+                "e-prescription",
+                "medicine",
+                "pharmacy"
+            ],
+            "tips": [
+                "Carry identification when collecting prescription medicines."
+            ],
+            "officialSources": [
+                {
+                    "name": "National Health Service",
+                    "url": "https://www.vmnvd.gov.lv/en"
+                }
+            ],
+            "lastVerified": "2026-08-01",
+            "confidence": "officialGovernment"
+        },
+        {
+            "id": "digital_016",
+            "category": "Digital Services",
+            "title": "Can I submit documents electronically to government offices?",
+            "shortAnswer": "Many institutions accept digitally signed electronic documents.",
+            "answer": "Government organizations increasingly support electronic document submission through official online services.",
+            "keywords": [
+                "documents",
+                "government",
+                "digital signature"
+            ],
+            "tips": [
+                "Use legally recognized electronic signatures whenever required."
+            ],
+            "officialSources": [
+                {
+                    "name": "eParaksts",
+                    "url": "https://www.eparaksts.lv"
+                }
+            ],
+            "lastVerified": "2026-08-01",
+            "confidence": "officialGovernment"
+        },
+        {
+            "id": "digital_017",
+            "category": "Digital Services",
+            "title": "Should I install official government mobile apps?",
+            "shortAnswer": "Yes. Official apps provide convenient access to digital services.",
+            "answer": "Many public services are easier to access through their official mobile applications or secure websites.",
+            "keywords": [
+                "mobile app",
+                "government",
+                "digital"
+            ],
+            "tips": [
+                "Download apps only from official app stores."
+            ],
+            "officialSources": [
+                {
+                    "name": "Latvija.lv",
+                    "url": "https://www.latvija.lv"
+                }
+            ],
+            "lastVerified": "2026-08-01",
+            "confidence": "officialGovernment"
+        },
+        {
+            "id": "digital_018",
+            "category": "Digital Services",
+            "title": "Can I use digital signatures for university paperwork?",
+            "shortAnswer": "Some universities accept electronically signed documents.",
+            "answer": "Acceptance depends on university policies and the type of document being submitted.",
+            "keywords": [
+                "university",
+                "digital signature",
+                "documents"
+            ],
+            "tips": [
+                "Confirm with your university before submitting electronic documents."
+            ],
+            "officialSources": [
+                {
+                    "name": "Study in Latvia",
+                    "url": "https://studyinlatvia.lv"
+                }
+            ],
+            "lastVerified": "2026-08-01",
+            "confidence": "officialGovernment"
+        },
+        {
+            "id": "digital_019",
+            "category": "Digital Services",
+            "title": "How can I keep my digital identity secure?",
+            "shortAnswer": "Protect your PINs, passwords and authentication devices.",
+            "answer": "Never share authentication codes, PINs or passwords, and enable biometric protection whenever available.",
+            "keywords": [
+                "security",
+                "PIN",
+                "Smart-ID",
+                "password"
+            ],
+            "tips": [
+                "Immediately report a lost authentication device."
+            ],
+            "officialSources": [
+                {
+                    "name": "CERT.LV",
+                    "url": "https://cert.lv/en"
+                }
+            ],
+            "lastVerified": "2026-08-01",
+            "confidence": "officialGovernment"
+        },
+        {
+            "id": "digital_020",
+            "category": "Digital Services",
+            "title": "What digital services should every newcomer set up first?",
+            "shortAnswer": "Online banking, Smart-ID, government portal access and healthcare services are the most useful.",
+            "answer": "Setting up secure authentication, online banking and access to official digital services early will simplify daily life in Latvia.",
+            "keywords": [
+                "digital services",
+                "Smart-ID",
+                "government",
+                "newcomer"
+            ],
+            "tips": [
+                "Complete your digital setup during your first week in Latvia."
+            ],
+            "officialSources": [
+                {
+                    "name": "Latvija.lv",
+                    "url": "https://www.latvija.lv"
+                }
+            ],
+            "lastVerified": "2026-08-01",
+            "confidence": "officialGovernment"
+        },
+        {
+            "id": "digital_021",
+            "category": "Digital Services",
+            "title": "How can newcomers access online banking in Latvia?",
+            "shortAnswer": "Open a bank account and activate online banking with secure authentication methods.",
+            "answer": "Most daily financial activities in Latvia can be managed digitally. Newcomers should set up online banking after opening a local bank account and enable secure authentication for payments, transfers and account management.",
+            "keywords": [
+                "digital services",
+                "banking",
+                "online banking",
+                "finance"
+            ],
+            "tips": [
+                "Choose a bank that supports English-language online services if needed."
+            ],
+            "officialSources": [
+                {
+                    "name": "Latvijas Banka",
+                    "url": "https://www.bank.lv"
+                }
+            ],
+            "lastVerified": "2026-08-01",
+            "confidence": "officialGovernment"
+        },
+        {
+            "id": "digital_022",
+            "category": "Digital Services",
+            "title": "What is Smart-ID and why is it important in Latvia?",
+            "shortAnswer": "Smart-ID is a digital authentication tool used for secure access to many online services.",
+            "answer": "Smart-ID allows residents to verify their identity online and securely access banking, government and other digital services without using physical documents every time.",
+            "keywords": [
+                "digital services",
+                "Smart-ID",
+                "authentication",
+                "security"
+            ],
+            "tips": [
+                "Install Smart-ID after setting up your local bank account."
+            ],
+            "officialSources": [
+                {
+                    "name": "Smart-ID",
+                    "url": "https://www.smart-id.com"
+                }
+            ],
+            "lastVerified": "2026-08-01",
+            "confidence": "officialGovernment"
+        },
+        {
+            "id": "digital_023",
+            "category": "Digital Services",
+            "title": "How do newcomers use Latvija.lv government services?",
+            "shortAnswer": "Latvija.lv provides access to many government services and official information online.",
+            "answer": "Latvija.lv is the main Latvian government portal where residents can access applications, forms, public information and digital government services.",
+            "keywords": [
+                "digital services",
+                "government",
+                "Latvija.lv",
+                "public services"
+            ],
+            "tips": [
+                "Create access credentials early to avoid delays when applying for services."
+            ],
+            "officialSources": [
+                {
+                    "name": "Latvija.lv",
+                    "url": "https://www.latvija.lv"
+                }
+            ],
+            "lastVerified": "2026-08-01",
+            "confidence": "officialGovernment"
+        },
+        {
+            "id": "digital_024",
+            "category": "Digital Services",
+            "title": "What digital identity options are available in Latvia?",
+            "shortAnswer": "Latvia supports electronic identification methods for secure online access.",
+            "answer": "Electronic identification solutions allow residents to prove their identity online when using government portals, banking services and other digital platforms.",
+            "keywords": [
+                "digital services",
+                "eID",
+                "digital identity",
+                "authentication"
+            ],
+            "tips": [
+                "Keep your digital identity credentials secure and private."
+            ],
+            "officialSources": [
+                {
+                    "name": "eParaksts",
+                    "url": "https://www.eparaksts.lv"
+                }
+            ],
+            "lastVerified": "2026-08-01",
+            "confidence": "officialGovernment"
+        },
+        {
+            "id": "digital_025",
+            "category": "Digital Services",
+            "title": "How can newcomers sign documents digitally in Latvia?",
+            "shortAnswer": "Use approved electronic signature services such as eParaksts.",
+            "answer": "Digital signatures are legally recognized in Latvia and allow residents to sign contracts, applications and official documents electronically.",
+            "keywords": [
+                "digital services",
+                "digital signature",
+                "eParaksts",
+                "documents"
+            ],
+            "tips": [
+                "Set up an electronic signature before handling official paperwork."
+            ],
+            "officialSources": [
+                {
+                    "name": "eParaksts",
+                    "url": "https://www.eparaksts.lv"
+                }
+            ],
+            "lastVerified": "2026-08-01",
+            "confidence": "officialGovernment"
+        },
+        {
+            "id": "digital_026",
+            "category": "Digital Services",
+            "title": "What healthcare digital services should newcomers know?",
+            "shortAnswer": "Online healthcare portals help manage appointments, records and medical information.",
+            "answer": "Latvia provides digital healthcare services where residents can access health-related information, communicate with healthcare providers and manage certain healthcare activities online.",
+            "keywords": [
+                "digital services",
+                "healthcare",
+                "e-health",
+                "medical"
+            ],
+            "tips": [
+                "Learn how to access healthcare portals after receiving your residence documents."
+            ],
+            "officialSources": [
+                {
+                    "name": "National Health Service Latvia",
+                    "url": "https://www.vmnvd.gov.lv"
+                }
+            ],
+            "lastVerified": "2026-08-01",
+            "confidence": "officialGovernment"
+        },
+        {
+            "id": "digital_027",
+            "category": "Digital Services",
+            "title": "How can residents pay bills digitally in Latvia?",
+            "shortAnswer": "Use online banking, payment apps or automatic payment services.",
+            "answer": "Electricity, internet, rent-related payments and other recurring expenses can often be managed through online banking and digital payment solutions.",
+            "keywords": [
+                "digital services",
+                "payments",
+                "bills",
+                "online banking"
+            ],
+            "tips": [
+                "Enable payment notifications to track important transactions."
+            ],
+            "officialSources": [
+                {
+                    "name": "Latvijas Banka",
+                    "url": "https://www.bank.lv"
+                }
+            ],
+            "lastVerified": "2026-08-01",
+            "confidence": "officialGovernment"
+        },
+        {
+            "id": "digital_028",
+            "category": "Digital Services",
+            "title": "What communication apps are useful in Latvia?",
+            "shortAnswer": "Messaging and video calling apps help newcomers communicate easily.",
+            "answer": "Popular communication tools help newcomers stay connected with family, employers and local contacts through messaging, voice calls and video meetings.",
+            "keywords": [
+                "digital services",
+                "communication",
+                "messaging",
+                "apps"
+            ],
+            "tips": [
+                "Keep emergency contacts saved digitally for quick access."
+            ],
+            "officialSources": [
+                {
+                    "name": "Latvia Travel",
+                    "url": "https://www.latvia.travel"
+                }
+            ],
+            "lastVerified": "2026-08-01",
+            "confidence": "officialGovernment"
+        },
+        {
+            "id": "digital_029",
+            "category": "Digital Services",
+            "title": "How can newcomers access online education services?",
+            "shortAnswer": "Digital learning platforms provide language courses, training and educational resources.",
+            "answer": "New residents can use online platforms for Latvian language learning, professional development and educational resources to support integration.",
+            "keywords": [
+                "digital services",
+                "education",
+                "language learning",
+                "training"
+            ],
+            "tips": [
+                "Start learning basic Latvian online before arrival."
+            ],
+            "officialSources": [
+                {
+                    "name": "Integration and Inclusion Agency Latvia",
+                    "url": "https://www.integration.lv"
+                }
+            ],
+            "lastVerified": "2026-08-01",
+            "confidence": "officialGovernment"
+        },
+        {
+            "id": "digital_030",
+            "category": "Digital Services",
+            "title": "What digital tools help newcomers manage daily life in Latvia?",
+            "shortAnswer": "Navigation, translation, banking and government apps simplify everyday tasks.",
+            "answer": "Using digital tools for maps, translation, payments, communication and official services helps newcomers adapt faster and handle daily activities independently.",
+            "keywords": [
+                "digital services",
+                "apps",
+                "newcomer",
+                "daily life"
+            ],
+            "tips": [
+                "Install essential apps before moving to Latvia."
+            ],
+            "officialSources": [
+                {
+                    "name": "Latvia Travel",
+                    "url": "https://www.latvia.travel"
+                }
+            ],
+            "lastVerified": "2026-08-01",
+            "confidence": "officialGovernment"
+        },
+        {
+            "id": "digital_031",
+            "category": "Digital Services",
+            "title": "How can newcomers access public transport digital services in Latvia?",
+            "shortAnswer": "Use transport apps and digital ticketing systems to plan routes and buy tickets.",
+            "answer": "Latvia offers digital tools for checking public transport schedules, planning routes and managing electronic tickets. These services are especially useful for newcomers living in Riga and other cities.",
+            "keywords": [
+                "digital services",
+                "public transport",
+                "Riga",
+                "tickets"
+            ],
+            "tips": [
+                "Install local transport apps after arriving to check routes easily."
+            ],
+            "officialSources": [
+                {
+                    "name": "Rīgas satiksme",
+                    "url": "https://www.rigassatiksme.lv"
+                }
+            ],
+            "lastVerified": "2026-08-01",
+            "confidence": "officialGovernment"
+        },
+        {
+            "id": "digital_032",
+            "category": "Digital Services",
+            "title": "How can newcomers use digital postal services in Latvia?",
+            "shortAnswer": "Online postal services help track parcels and manage deliveries.",
+            "answer": "Latvia Post provides digital services for tracking shipments, managing deliveries and accessing postal information online.",
+            "keywords": [
+                "digital services",
+                "postal",
+                "delivery",
+                "Latvijas Pasts"
+            ],
+            "tips": [
+                "Save tracking numbers digitally when ordering online."
+            ],
+            "officialSources": [
+                {
+                    "name": "Latvijas Pasts",
+                    "url": "https://www.pasts.lv"
+                }
+            ],
+            "lastVerified": "2026-08-01",
+            "confidence": "officialGovernment"
+        },
+        {
+            "id": "digital_033",
+            "category": "Digital Services",
+            "title": "What digital services help with housing in Latvia?",
+            "shortAnswer": "Online platforms help search apartments, communicate with landlords and manage utilities.",
+            "answer": "Newcomers can use digital platforms to find rental homes, compare listings and communicate with property owners. Many utility providers also offer online account management.",
+            "keywords": [
+                "digital services",
+                "housing",
+                "rent",
+                "utilities"
+            ],
+            "tips": [
+                "Verify rental agreements carefully before making online payments."
+            ],
+            "officialSources": [
+                {
+                    "name": "Latvija.lv",
+                    "url": "https://www.latvija.lv"
+                }
+            ],
+            "lastVerified": "2026-08-01",
+            "confidence": "officialGovernment"
+        },
+        {
+            "id": "digital_034",
+            "category": "Digital Services",
+            "title": "How can residents manage utility services digitally?",
+            "shortAnswer": "Utility providers offer online accounts for bills, payments and service requests.",
+            "answer": "Electricity, heating, water and internet providers commonly provide digital customer portals where residents can view invoices, submit requests and monitor usage.",
+            "keywords": [
+                "digital services",
+                "utilities",
+                "bills",
+                "home"
+            ],
+            "tips": [
+                "Register online accounts for all major household services."
+            ],
+            "officialSources": [
+                {
+                    "name": "Latvenergo",
+                    "url": "https://www.latvenergo.lv"
+                }
+            ],
+            "lastVerified": "2026-08-01",
+            "confidence": "officialGovernment"
+        },
+        {
+            "id": "digital_035",
+            "category": "Digital Services",
+            "title": "How can newcomers use online job search services in Latvia?",
+            "shortAnswer": "Digital employment platforms help find jobs and manage applications.",
+            "answer": "Online job portals allow newcomers to search vacancies, upload CVs and communicate with employers. Digital profiles can improve access to the Latvian job market.",
+            "keywords": [
+                "digital services",
+                "jobs",
+                "employment",
+                "career"
+            ],
+            "tips": [
+                "Prepare an English and Latvian version of your CV if possible."
+            ],
+            "officialSources": [
+                {
+                    "name": "State Employment Agency Latvia",
+                    "url": "https://www.nva.gov.lv"
+                }
+            ],
+            "lastVerified": "2026-08-01",
+            "confidence": "officialGovernment"
+        },
+        {
+            "id": "digital_036",
+            "category": "Digital Services",
+            "title": "What online translation tools are useful in Latvia?",
+            "shortAnswer": "Translation apps help newcomers understand Latvian documents and conversations.",
+            "answer": "Digital translation tools are useful for reading official information, communicating with locals and learning Latvian vocabulary during daily activities.",
+            "keywords": [
+                "digital services",
+                "translation",
+                "Latvian language",
+                "apps"
+            ],
+            "tips": [
+                "Use translation tools together with language learning resources for better accuracy."
+            ],
+            "officialSources": [
+                {
+                    "name": "State Language Centre Latvia",
+                    "url": "https://www.vvc.gov.lv"
+                }
+            ],
+            "lastVerified": "2026-08-01",
+            "confidence": "officialGovernment"
+        },
+        {
+            "id": "digital_037",
+            "category": "Digital Services",
+            "title": "How can newcomers store important documents digitally?",
+            "shortAnswer": "Use secure cloud storage and encrypted document management tools.",
+            "answer": "Keeping digital copies of passports, residence documents, contracts and certificates helps newcomers access important information when needed.",
+            "keywords": [
+                "digital services",
+                "documents",
+                "cloud storage",
+                "security"
+            ],
+            "tips": [
+                "Store backup copies securely and enable two-factor authentication."
+            ],
+            "officialSources": [
+                {
+                    "name": "European Commission Digital Services",
+                    "url": "https://digital-strategy.ec.europa.eu"
+                }
+            ],
+            "lastVerified": "2026-08-01",
+            "confidence": "officialGovernment"
+        },
+        {
+            "id": "digital_038",
+            "category": "Digital Services",
+            "title": "What cybersecurity practices should newcomers follow?",
+            "shortAnswer": "Use strong passwords, two-factor authentication and secure devices.",
+            "answer": "Protecting online accounts is important when using banking, government and communication services. Good cybersecurity habits reduce risks from scams and unauthorized access.",
+            "keywords": [
+                "digital services",
+                "cybersecurity",
+                "privacy",
+                "security"
+            ],
+            "tips": [
+                "Never share authentication codes or banking credentials."
+            ],
+            "officialSources": [
+                {
+                    "name": "CERT.LV",
+                    "url":"https://cert.lv
+"
+                }
+            ],
+            "lastVerified": "2026-08-01",
+            "confidence": "officialGovernment"
+        },
+        {
+            "id": "digital_039",
+            "category": "Digital Services",
+            "title": "How can newcomers access digital learning resources in Latvia?",
+            "shortAnswer": "Online platforms provide courses, training and language learning opportunities.",
+            "answer": "Digital education services help residents improve skills, learn Latvian and access professional development resources remotely.",
+            "keywords": [
+                "digital services",
+                "education",
+                "courses",
+                "learning"
+            ],
+            "tips": [
+                "Use online learning resources consistently to improve integration."
+            ],
+            "officialSources": [
+                {
+                    "name": "Integration and Inclusion Agency Latvia",
+                    "url": "https://www.integration.lv"
+                }
+            ],
+            "lastVerified": "2026-08-01",
+            "confidence": "officialGovernment"
+        },
+        {
+            "id": "digital_040",
+            "category": "Digital Services",
+            "title": "What digital services should newcomers secure during their first month?",
+            "shortAnswer": "Set up banking, digital identity, government access and essential apps.",
+            "answer": "During the first month in Latvia, newcomers should establish access to banking, electronic identification, government portals, communication tools and essential daily-life applications.",
+            "keywords": [
+                "digital services",
+                "newcomer",
+                "setup",
+                "Latvia"
+            ],
+            "tips": [
+                "Create a checklist of essential digital accounts after arrival."
+            ],
+            "officialSources": [
+                {
+                    "name": "Latvija.lv",
+                    "url": "https://www.latvija.lv"
+                }
+            ],
+            "lastVerified": "2026-08-01",
+            "confidence": "officialGovernment"
+        },
+        {
+            "id": "digital_041",
+            "category": "Digital Services",
+            "title": "How can newcomers use digital healthcare appointment services in Latvia?",
+            "shortAnswer": "Online healthcare tools help residents manage appointments and medical information.",
+            "answer": "Digital healthcare services allow residents to interact with healthcare providers, access health-related information and manage some healthcare activities online.",
+            "keywords": [
+                "digital services",
+                "healthcare",
+                "appointments",
+                "e-health"
+            ],
+            "tips": [
+                "Keep healthcare documents digitally available when visiting medical providers."
+            ],
+            "officialSources": [
+                {
+                    "name": "National Health Service Latvia",
+                    "url": "https://www.vmnvd.gov.lv"
+                }
+            ],
+            "lastVerified": "2026-08-01",
+            "confidence": "officialGovernment"
+        },
+        {
+            "id": "digital_042",
+            "category": "Digital Services",
+            "title": "How can newcomers access Latvian language learning online?",
+            "shortAnswer": "Online platforms provide Latvian language courses and practice resources.",
+            "answer": "Digital language learning platforms help newcomers learn Latvian vocabulary, pronunciation and communication skills needed for everyday life and integration.",
+            "keywords": [
+                "digital services",
+                "Latvian language",
+                "learning",
+                "integration"
+            ],
+            "tips": [
+                "Practice basic Latvian phrases before interacting with local services."
+            ],
+            "officialSources": [
+                {
+                    "name": "Latvian Language Agency",
+                    "url": "https://valoda.lv"
+                }
+            ],
+            "lastVerified": "2026-08-01",
+            "confidence": "officialGovernment"
+        },
+        {
+            "id": "digital_043",
+            "category": "Digital Services",
+            "title": "What digital services help newcomers communicate with authorities?",
+            "shortAnswer": "Government portals and electronic communication channels simplify official communication.",
+            "answer": "Residents can use official digital platforms to submit requests, receive notifications and communicate with government institutions without visiting offices for every task.",
+            "keywords": [
+                "digital services",
+                "government",
+                "communication",
+                "official services"
+            ],
+            "tips": [
+                "Check official portal notifications regularly."
+            ],
+            "officialSources": [
+                {
+                    "name": "Latvija.lv",
+                    "url": "https://www.latvija.lv"
+                }
+            ],
+            "lastVerified": "2026-08-01",
+            "confidence": "officialGovernment"
+        },
+        {
+            "id": "digital_044",
+            "category": "Digital Services",
+            "title": "How can residents access digital tax services in Latvia?",
+            "shortAnswer": "Electronic tax services allow residents to manage tax information online.",
+            "answer": "The Latvian tax authority provides online services where residents can view tax information, submit declarations and communicate digitally with tax authorities.",
+            "keywords": [
+                "digital services",
+                "tax",
+                "VID",
+                "declaration"
+            ],
+            "tips": [
+                "Create access to tax services after receiving your identification details."
+            ],
+            "officialSources": [
+                {
+                    "name": "State Revenue Service Latvia",
+                    "url": "https://www.vid.gov.lv"
+                }
+            ],
+            "lastVerified": "2026-08-01",
+            "confidence": "officialGovernment"
+        },
+        {
+            "id": "digital_045",
+            "category": "Digital Services",
+            "title": "What digital payment methods are common in Latvia?",
+            "shortAnswer": "Cards, online banking and mobile payments are widely used.",
+            "answer": "Latvia has a highly digital payment environment where residents commonly use bank cards, online banking and electronic payment solutions for daily purchases.",
+            "keywords": [
+                "digital services",
+                "payments",
+                "cards",
+                "banking"
+            ],
+            "tips": [
+                "Enable mobile banking notifications for payment tracking."
+            ],
+            "officialSources": [
+                {
+                    "name": "Latvijas Banka",
+                    "url": "https://www.bank.lv"
+                }
+            ],
+            "lastVerified": "2026-08-01",
+            "confidence": "officialGovernment"
+        },
+        {
+            "id": "digital_046",
+            "category": "Digital Services",
+            "title": "How can newcomers use digital shopping services in Latvia?",
+            "shortAnswer": "Online stores allow residents to buy products and arrange deliveries digitally.",
+            "answer": "E-commerce platforms in Latvia provide convenient access to groceries, electronics, household goods and other products with home delivery options.",
+            "keywords": [
+                "digital services",
+                "shopping",
+                "e-commerce",
+                "delivery"
+            ],
+            "tips": [
+                "Check delivery terms and return policies before purchasing online."
+            ],
+            "officialSources": [
+                {
+                    "name": "Latvia Travel",
+                    "url": "https://www.latvia.travel"
+                }
+            ],
+            "lastVerified": "2026-08-01",
+            "confidence": "officialGovernment"
+        },
+        {
+            "id": "digital_047",
+            "category": "Digital Services",
+            "title": "What digital tools help newcomers navigate Latvia?",
+            "shortAnswer": "Maps and transport apps help with directions and route planning.",
+            "answer": "Navigation applications help newcomers find addresses, understand public transport routes and explore cities independently.",
+            "keywords": [
+                "digital services",
+                "navigation",
+                "maps",
+                "transport"
+            ],
+            "tips": [
+                "Download offline maps before travelling to unfamiliar areas."
+            ],
+            "officialSources": [
+                {
+                    "name": "Rīgas satiksme",
+                    "url": "https://www.rigassatiksme.lv"
+                }
+            ],
+            "lastVerified": "2026-08-01",
+            "confidence": "officialGovernment"
+        },
+        {
+            "id": "digital_048",
+            "category": "Digital Services",
+            "title": "How can newcomers manage online subscriptions in Latvia?",
+            "shortAnswer": "Digital subscriptions can be managed through provider websites and payment accounts.",
+            "answer": "Internet, mobile, entertainment and software subscriptions can usually be activated, changed and cancelled through online customer portals.",
+            "keywords": [
+                "digital services",
+                "subscriptions",
+                "internet",
+                "accounts"
+            ],
+            "tips": [
+                "Review recurring payments regularly to avoid unwanted charges."
+            ],
+            "officialSources": [
+                {
+                    "name": "European Commission Digital Services",
+                    "url": "https://digital-strategy.ec.europa.eu"
+                }
+            ],
+            "lastVerified": "2026-08-01",
+            "confidence": "officialGovernment"
+        },
+        {
+            "id": "digital_049",
+            "category": "Digital Services",
+            "title": "What mobile services should newcomers activate in Latvia?",
+            "shortAnswer": "Mobile plans provide communication, internet access and digital connectivity.",
+            "answer": "Newcomers should choose a mobile operator, activate a SIM card and set up online account access for managing calls, data and payments.",
+            "keywords": [
+                "digital services",
+                "mobile",
+                "SIM",
+                "internet"
+            ],
+            "tips": [
+                "Compare prepaid and monthly plans based on your expected usage."
+            ],
+            "officialSources": [
+                {
+                    "name": "Public Utilities Commission Latvia",
+                    "url": "https://www.sprk.gov.lv"
+                }
+            ],
+            "lastVerified": "2026-08-01",
+            "confidence": "officialGovernment"
+        },
+        {
+            "id": "digital_050",
+            "category": "Digital Services",
+            "title": "What digital services improve daily life for newcomers in Latvia?",
+            "shortAnswer": "Banking, transport, healthcare, government and communication tools are essential.",
+            "answer": "A strong digital setup helps newcomers complete daily tasks faster, access essential services and integrate into Latvian society more easily.",
+            "keywords": [
+                "digital services",
+                "newcomer",
+                "daily life",
+                "Latvia"
+            ],
+            "tips": [
+                "Create a personal digital checklist during your relocation process."
+            ],
+            "officialSources": [
+                {
+                    "name": "Latvija.lv",
+                    "url": "https://www.latvija.lv"
+                }
+            ],
+            "lastVerified": "2026-08-01",
+            "confidence": "officialGovernment"
+        }
+    ]

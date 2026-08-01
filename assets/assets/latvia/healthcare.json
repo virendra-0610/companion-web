@@ -1,0 +1,1170 @@
+[
+    {
+        "id": "healthcare_001",
+        "category": "Healthcare",
+        "title": "How do international students access healthcare in Latvia?",
+        "shortAnswer": "Access depends on your health insurance and residence status.",
+        "answer": "International students should ensure they have valid health insurance and understand what medical services are covered during their stay in Latvia.",
+        "keywords": [
+            "healthcare",
+            "insurance",
+            "doctor",
+            "student"
+        ],
+        "tips": [
+            "Keep your insurance documents with you at all times."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service",
+                "url": "https://www.vmnvd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_002",
+        "category": "Healthcare",
+        "title": "What emergency number should I call for an ambulance?",
+        "shortAnswer": "Call 112 in medical emergencies.",
+        "answer": "Emergency number 112 connects callers to ambulance, police and fire services throughout Latvia.",
+        "keywords": [
+            "112",
+            "ambulance",
+            "emergency",
+            "medical"
+        ],
+        "tips": [
+            "Save 112 in your phone immediately after arriving."
+        ],
+        "officialSources": [
+            {
+                "name": "State Fire and Rescue Service",
+                "url": "https://www.vugd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_003",
+        "category": "Healthcare",
+        "title": "Where can I buy medicines?",
+        "shortAnswer": "Medicines are available at licensed pharmacies.",
+        "answer": "Prescription medicines require a doctor's prescription, while many common medicines are available over the counter.",
+        "keywords": [
+            "pharmacy",
+            "medicine",
+            "prescription"
+        ],
+        "tips": [
+            "Look for the green pharmacy sign when searching for pharmacies."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service",
+                "url": "https://www.vmnvd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_004",
+        "category": "Healthcare",
+        "title": "Can pharmacists speak English?",
+        "shortAnswer": "Many pharmacists, especially in larger cities, can communicate in English.",
+        "answer": "English is commonly spoken in pharmacies located in Riga and other major cities, although proficiency may vary.",
+        "keywords": [
+            "english",
+            "pharmacy",
+            "communication"
+        ],
+        "tips": [
+            "Carry the generic name of your medication if possible."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service",
+                "url": "https://www.vmnvd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_005",
+        "category": "Healthcare",
+        "title": "What should I do if I become sick?",
+        "shortAnswer": "Contact your healthcare provider or visit a medical clinic.",
+        "answer": "If your condition is not an emergency, contact a clinic or healthcare provider covered by your insurance. Seek emergency care only for urgent medical situations.",
+        "keywords": [
+            "doctor",
+            "clinic",
+            "illness",
+            "medical"
+        ],
+        "tips": [
+            "Know which clinics are covered by your insurance policy."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service",
+                "url": "https://www.vmnvd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_006",
+        "category": "Healthcare",
+        "title": "Is health insurance mandatory for international students?",
+        "shortAnswer": "Many international students are required to have valid health insurance.",
+        "answer": "Insurance requirements depend on your nationality, visa and residence status. Verify the latest requirements before arriving.",
+        "keywords": [
+            "insurance",
+            "student",
+            "visa",
+            "health"
+        ],
+        "tips": [
+            "Review your insurance coverage before traveling."
+        ],
+        "officialSources": [
+            {
+                "name": "PMLP",
+                "url": "https://www.pmlp.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_007",
+        "category": "Healthcare",
+        "title": "Can I call an ambulance for non-emergency situations?",
+        "shortAnswer": "No. Ambulances should only be used for genuine emergencies.",
+        "answer": "For non-urgent medical issues, contact a healthcare provider or clinic instead of calling emergency services.",
+        "keywords": [
+            "ambulance",
+            "emergency",
+            "112"
+        ],
+        "tips": [
+            "Use emergency services responsibly."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service",
+                "url": "https://www.vmnvd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_008",
+        "category": "Healthcare",
+        "title": "Can I buy pain relief medicine without a prescription?",
+        "shortAnswer": "Many common pain relief medicines are available over the counter.",
+        "answer": "Pharmacists can advise on suitable non-prescription medicines for common symptoms.",
+        "keywords": [
+            "painkiller",
+            "medicine",
+            "pharmacy"
+        ],
+        "tips": [
+            "Always follow dosage instructions carefully."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service",
+                "url": "https://www.vmnvd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_009",
+        "category": "Healthcare",
+        "title": "Should I carry my health insurance card?",
+        "shortAnswer": "Yes.",
+        "answer": "Carry your insurance documents whenever possible so healthcare providers can verify your coverage if needed.",
+        "keywords": [
+            "insurance card",
+            "documents",
+            "health"
+        ],
+        "tips": [
+            "Keep digital copies as a backup."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service",
+                "url": "https://www.vmnvd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_010",
+        "category": "Healthcare",
+        "title": "What is the most important healthcare advice for new students?",
+        "shortAnswer": "Know your insurance coverage before you need medical care.",
+        "answer": "Understand which clinics, hospitals and services are covered by your insurance policy, and know the emergency number before an emergency occurs.",
+        "keywords": [
+            "healthcare",
+            "insurance",
+            "student",
+            "advice"
+        ],
+        "tips": [
+            "Save the locations of nearby hospitals and pharmacies in Google Maps."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service",
+                "url": "https://www.vmnvd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_011",
+        "category": "Healthcare",
+        "title": "How do I find a doctor in Latvia?",
+        "shortAnswer": "Use your insurance provider's network or ask your university's international office.",
+        "answer": "Many universities provide guidance on nearby clinics. Your insurance company can also provide a list of healthcare providers covered under your policy.",
+        "keywords": [
+            "doctor",
+            "GP",
+            "clinic",
+            "physician"
+        ],
+        "tips": [
+            "Save the contact details of your nearest clinic."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service",
+                "url": "https://www.vmnvd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_012",
+        "category": "Healthcare",
+        "title": "Can international students visit a hospital directly?",
+        "shortAnswer": "Yes, especially for emergencies.",
+        "answer": "For emergency situations, go directly to the nearest emergency department or call 112. For non-urgent conditions, visiting a clinic or family doctor is generally recommended.",
+        "keywords": [
+            "hospital",
+            "emergency",
+            "ER"
+        ],
+        "tips": [
+            "Know the nearest emergency hospital before you need it."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service",
+                "url": "https://www.vmnvd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_013",
+        "category": "Healthcare",
+        "title": "Do doctors in Latvia speak English?",
+        "shortAnswer": "Many doctors in larger cities speak English.",
+        "answer": "English-speaking doctors are common in Riga and university cities, although language availability may vary by clinic.",
+        "keywords": [
+            "english",
+            "doctor",
+            "language"
+        ],
+        "tips": [
+            "Ask the clinic if an English-speaking doctor is available when booking."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service",
+                "url": "https://www.vmnvd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_014",
+        "category": "Healthcare",
+        "title": "Do I need an appointment to see a doctor?",
+        "shortAnswer": "Usually yes.",
+        "answer": "Most clinics operate by appointment, although emergency departments accept urgent cases without appointments.",
+        "keywords": [
+            "appointment",
+            "doctor",
+            "clinic"
+        ],
+        "tips": [
+            "Book appointments several days in advance when possible."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service",
+                "url": "https://www.vmnvd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_015",
+        "category": "Healthcare",
+        "title": "Can I visit a dentist in Latvia?",
+        "shortAnswer": "Yes, dental clinics are widely available.",
+        "answer": "Dental treatment is available throughout Latvia. Coverage depends on your insurance policy and the specific treatment required.",
+        "keywords": [
+            "dentist",
+            "dental",
+            "teeth"
+        ],
+        "tips": [
+            "Check whether dental treatment is included in your insurance."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service",
+                "url": "https://www.vmnvd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_016",
+        "category": "Healthcare",
+        "title": "What should I bring to a medical appointment?",
+        "shortAnswer": "Bring identification, insurance documents and any previous medical records.",
+        "answer": "Having your passport, residence documents, insurance card and current medication list helps healthcare providers treat you more effectively.",
+        "keywords": [
+            "appointment",
+            "insurance",
+            "documents"
+        ],
+        "tips": [
+            "Prepare a list of your current medications before visiting."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service",
+                "url": "https://www.vmnvd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_017",
+        "category": "Healthcare",
+        "title": "Can I refill prescription medicines in Latvia?",
+        "shortAnswer": "Prescription medicines require a valid prescription.",
+        "answer": "If you need ongoing medication, consult a healthcare provider in Latvia to obtain an appropriate prescription according to local regulations.",
+        "keywords": [
+            "prescription",
+            "medicine",
+            "refill"
+        ],
+        "tips": [
+            "Do not wait until your medication runs out before arranging a refill."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service",
+                "url": "https://www.vmnvd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_018",
+        "category": "Healthcare",
+        "title": "What should I do if I have allergies?",
+        "shortAnswer": "Carry your allergy medication and inform healthcare providers.",
+        "answer": "If you have severe allergies, always carry prescribed medication and clearly communicate your allergies during medical appointments.",
+        "keywords": [
+            "allergy",
+            "medicine",
+            "emergency"
+        ],
+        "tips": [
+            "Keep emergency allergy medication with you if prescribed."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service",
+                "url": "https://www.vmnvd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_019",
+        "category": "Healthcare",
+        "title": "Can I receive mental health support in Latvia?",
+        "shortAnswer": "Yes, mental health services are available.",
+        "answer": "Universities often provide counseling services, and additional mental health professionals are available through healthcare providers.",
+        "keywords": [
+            "mental health",
+            "counseling",
+            "psychologist"
+        ],
+        "tips": [
+            "Seek support early if you experience persistent stress or anxiety."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service",
+                "url": "https://www.vmnvd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_020",
+        "category": "Healthcare",
+        "title": "What should I do during a medical emergency?",
+        "shortAnswer": "Call 112 immediately.",
+        "answer": "Provide your location, explain the emergency clearly, follow the operator's instructions and remain with the patient if it is safe to do so until help arrives.",
+        "keywords": [
+            "112",
+            "ambulance",
+            "emergency",
+            "first aid"
+        ],
+        "tips": [
+            "Stay calm and provide clear location details to emergency services."
+        ],
+        "officialSources": [
+            {
+                "name": "State Fire and Rescue Service",
+                "url": "https://www.vugd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_021",
+        "category": "Healthcare",
+        "title": "Can I buy antibiotics without a prescription?",
+        "shortAnswer": "No. Antibiotics generally require a valid prescription.",
+        "answer": "Antibiotics should only be used under medical supervision. Visit a doctor if you believe you need antibiotic treatment.",
+        "keywords": [
+            "antibiotics",
+            "prescription",
+            "pharmacy"
+        ],
+        "tips": [
+            "Never use leftover antibiotics or someone else's medication."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service",
+                "url": "https://www.vmnvd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_022",
+        "category": "Healthcare",
+        "title": "Can I visit any pharmacy in Latvia?",
+        "shortAnswer": "Yes. Licensed pharmacies are available throughout the country.",
+        "answer": "You can purchase prescription and over-the-counter medicines from licensed pharmacies during their operating hours.",
+        "keywords": [
+            "pharmacy",
+            "medicine",
+            "drugstore"
+        ],
+        "tips": [
+            "Search 'Aptieka' on Google Maps to find nearby pharmacies."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service",
+                "url": "https://www.vmnvd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_023",
+        "category": "Healthcare",
+        "title": "Are there pharmacies open at night?",
+        "shortAnswer": "Some cities have pharmacies with extended or 24-hour service.",
+        "answer": "Major cities such as Riga have pharmacies that operate late or provide emergency pharmacy services.",
+        "keywords": [
+            "24 hour pharmacy",
+            "night pharmacy",
+            "medicine"
+        ],
+        "tips": [
+            "Locate a nearby late-night pharmacy before you need one."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service",
+                "url": "https://www.vmnvd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_024",
+        "category": "Healthcare",
+        "title": "Can I receive vaccinations in Latvia?",
+        "shortAnswer": "Yes, vaccinations are available through healthcare providers.",
+        "answer": "Vaccinations can be obtained at medical clinics according to national recommendations and your healthcare provider's advice.",
+        "keywords": [
+            "vaccination",
+            "vaccine",
+            "clinic"
+        ],
+        "tips": [
+            "Carry your vaccination records if available."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service",
+                "url": "https://www.vmnvd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_025",
+        "category": "Healthcare",
+        "title": "What should I do if I have a fever?",
+        "shortAnswer": "Rest, stay hydrated and seek medical advice if symptoms worsen.",
+        "answer": "Monitor your temperature, drink plenty of fluids and contact a healthcare provider if the fever is high, persistent or accompanied by severe symptoms.",
+        "keywords": [
+            "fever",
+            "illness",
+            "doctor"
+        ],
+        "tips": [
+            "Seek urgent medical care if you experience difficulty breathing or severe symptoms."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service",
+                "url": "https://www.vmnvd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_026",
+        "category": "Healthcare",
+        "title": "Can I receive treatment for minor injuries at a clinic?",
+        "shortAnswer": "Yes, clinics can treat many non-emergency injuries.",
+        "answer": "Minor cuts, sprains and similar injuries can often be treated at outpatient clinics without visiting an emergency department.",
+        "keywords": [
+            "injury",
+            "clinic",
+            "treatment"
+        ],
+        "tips": [
+            "Clean and protect wounds before traveling to the clinic."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service",
+                "url": "https://www.vmnvd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_027",
+        "category": "Healthcare",
+        "title": "Should I keep a personal first aid kit?",
+        "shortAnswer": "Yes, every student should have a basic first aid kit.",
+        "answer": "A small first aid kit with bandages, antiseptic wipes, pain relievers and any personal medication can be useful for minor health issues.",
+        "keywords": [
+            "first aid",
+            "medical kit",
+            "medicine"
+        ],
+        "tips": [
+            "Check medicine expiry dates regularly."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service",
+                "url": "https://www.vmnvd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_028",
+        "category": "Healthcare",
+        "title": "Can I use my European Health Insurance Card (EHIC) in Latvia?",
+        "shortAnswer": "Eligible EU citizens may use the EHIC according to its terms.",
+        "answer": "The European Health Insurance Card provides access to medically necessary public healthcare during temporary stays for eligible individuals.",
+        "keywords": [
+            "EHIC",
+            "European Health Insurance Card",
+            "EU"
+        ],
+        "tips": [
+            "Carry your EHIC whenever traveling within the EU."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service",
+                "url": "https://www.vmnvd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_029",
+        "category": "Healthcare",
+        "title": "What information should I provide when calling 112?",
+        "shortAnswer": "Give your location, explain the emergency and answer the operator's questions.",
+        "answer": "Remain calm, describe the situation clearly, provide your exact address or GPS location and follow all instructions from the emergency operator.",
+        "keywords": [
+            "112",
+            "emergency",
+            "ambulance"
+        ],
+        "tips": [
+            "Do not hang up until instructed by the operator."
+        ],
+        "officialSources": [
+            {
+                "name": "State Fire and Rescue Service",
+                "url": "https://www.vugd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_030",
+        "category": "Healthcare",
+        "title": "How can I stay healthy while studying in Latvia?",
+        "shortAnswer": "Maintain a balanced diet, exercise regularly, sleep well and seek medical advice when needed.",
+        "answer": "Healthy habits including regular physical activity, sufficient sleep, proper nutrition and preventive healthcare help students stay physically and mentally well during their studies.",
+        "keywords": [
+            "healthy lifestyle",
+            "exercise",
+            "student health",
+            "wellness"
+        ],
+        "tips": [
+            "Don't ignore persistent health problems—seek medical advice early."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service",
+                "url": "https://www.vmnvd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_031",
+        "category": "Healthcare",
+        "title": "Can I get a COVID-19 or flu vaccine in Latvia?",
+        "shortAnswer": "Yes. Vaccinations are available through authorized healthcare providers.",
+        "answer": "Seasonal influenza and other recommended vaccinations are available through medical clinics and vaccination centers according to national health guidelines.",
+        "keywords": [
+            "covid",
+            "flu",
+            "vaccination",
+            "vaccine"
+        ],
+        "tips": [
+            "Ask your family doctor or clinic about current vaccination recommendations."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service",
+                "url": "https://www.vmnvd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_032",
+        "category": "Healthcare",
+        "title": "What should I do if I need specialist medical care?",
+        "shortAnswer": "Consult your doctor or insurance provider for a referral if required.",
+        "answer": "Depending on your condition and insurance policy, you may need a referral before visiting certain medical specialists.",
+        "keywords": [
+            "specialist",
+            "referral",
+            "doctor"
+        ],
+        "tips": [
+            "Contact your insurance company before booking specialist appointments."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service",
+                "url": "https://www.vmnvd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_033",
+        "category": "Healthcare",
+        "title": "Can I wear contact lenses or glasses in Latvia?",
+        "shortAnswer": "Yes. Optical stores and eye clinics are widely available.",
+        "answer": "Eye examinations, prescription glasses and contact lenses are available through optical clinics and licensed retailers.",
+        "keywords": [
+            "eye care",
+            "glasses",
+            "contact lenses",
+            "optician"
+        ],
+        "tips": [
+            "Bring your current prescription if you already wear glasses."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service",
+                "url": "https://www.vmnvd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_034",
+        "category": "Healthcare",
+        "title": "Can I receive physiotherapy treatment?",
+        "shortAnswer": "Yes. Physiotherapy services are available throughout Latvia.",
+        "answer": "Physiotherapy may be available through hospitals, rehabilitation centers or private clinics depending on your medical needs and insurance coverage.",
+        "keywords": [
+            "physiotherapy",
+            "rehabilitation",
+            "injury"
+        ],
+        "tips": [
+            "Verify insurance coverage before scheduling treatment."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service",
+                "url": "https://www.vmnvd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_035",
+        "category": "Healthcare",
+        "title": "Should I keep emergency medical contacts on my phone?",
+        "shortAnswer": "Yes. Save emergency numbers and important contacts.",
+        "answer": "Store emergency services, your insurance provider, university emergency contact and a trusted family member in your phone.",
+        "keywords": [
+            "emergency contacts",
+            "112",
+            "insurance"
+        ],
+        "tips": [
+            "Enable emergency information on your smartphone if supported."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service",
+                "url": "https://www.vmnvd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_036",
+        "category": "Healthcare",
+        "title": "Can I receive treatment for sports injuries?",
+        "shortAnswer": "Yes. Clinics and hospitals provide treatment for sports-related injuries.",
+        "answer": "Minor injuries can usually be treated in clinics, while severe injuries may require emergency care or specialist treatment.",
+        "keywords": [
+            "sports injury",
+            "sprain",
+            "fracture"
+        ],
+        "tips": [
+            "Stop exercising immediately if you suspect a serious injury."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service",
+                "url": "https://www.vmnvd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_037",
+        "category": "Healthcare",
+        "title": "Can I receive healthcare if I don't speak Latvian?",
+        "shortAnswer": "Many healthcare professionals in larger cities communicate in English.",
+        "answer": "English-speaking healthcare providers are common in Riga and university cities, although availability varies by facility.",
+        "keywords": [
+            "english",
+            "translation",
+            "doctor"
+        ],
+        "tips": [
+            "Use a translation app if language becomes a barrier."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service",
+                "url": "https://www.vmnvd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_038",
+        "category": "Healthcare",
+        "title": "Should I carry a list of my medications?",
+        "shortAnswer": "Yes. It helps healthcare providers treat you safely.",
+        "answer": "Carry a list of all prescription medicines, allergies and medical conditions, especially if you have chronic illnesses.",
+        "keywords": [
+            "medication",
+            "allergies",
+            "medical history"
+        ],
+        "tips": [
+            "Store a digital copy on your phone."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service",
+                "url": "https://www.vmnvd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_039",
+        "category": "Healthcare",
+        "title": "Can universities help students with healthcare information?",
+        "shortAnswer": "Yes. International offices often guide students to local healthcare services.",
+        "answer": "Many universities provide information about nearby clinics, health insurance requirements and emergency medical assistance.",
+        "keywords": [
+            "university",
+            "international office",
+            "healthcare"
+        ],
+        "tips": [
+            "Attend your university's orientation sessions for healthcare guidance."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_040",
+        "category": "Healthcare",
+        "title": "What healthcare preparations should I make before arriving in Latvia?",
+        "shortAnswer": "Arrange health insurance, carry prescriptions and know emergency contacts.",
+        "answer": "Before traveling, ensure you have valid health insurance, enough medication for your first weeks, copies of prescriptions and knowledge of nearby hospitals and emergency numbers.",
+        "keywords": [
+            "preparation",
+            "insurance",
+            "medicine",
+            "travel"
+        ],
+        "tips": [
+            "Prepare a small personal medical kit before departure."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_041",
+        "category": "Healthcare",
+        "title": "Can I receive medical treatment on weekends?",
+        "shortAnswer": "Yes. Emergency departments operate 24/7, while some clinics have weekend hours.",
+        "answer": "Hospitals provide emergency care at all times. Some private clinics and urgent care centers also operate on weekends with reduced hours.",
+        "keywords": [
+            "weekend",
+            "hospital",
+            "clinic",
+            "emergency"
+        ],
+        "tips": [
+            "Check clinic opening hours before visiting."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service",
+                "url": "https://www.vmnvd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_042",
+        "category": "Healthcare",
+        "title": "What should I do if I lose my health insurance documents?",
+        "shortAnswer": "Contact your insurance provider immediately.",
+        "answer": "Request replacement documents and keep digital copies of your insurance information whenever possible.",
+        "keywords": [
+            "insurance",
+            "documents",
+            "replacement"
+        ],
+        "tips": [
+            "Store scanned copies in secure cloud storage."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service",
+                "url": "https://www.vmnvd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_043",
+        "category": "Healthcare",
+        "title": "Can I purchase vitamins and supplements from pharmacies?",
+        "shortAnswer": "Yes. Pharmacies sell vitamins and nutritional supplements.",
+        "answer": "Licensed pharmacies offer a wide range of vitamins, minerals and dietary supplements. Pharmacists can advise on appropriate products.",
+        "keywords": [
+            "vitamins",
+            "supplements",
+            "pharmacy"
+        ],
+        "tips": [
+            "Ask a pharmacist before combining supplements with prescription medicines."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service",
+                "url": "https://www.vmnvd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_044",
+        "category": "Healthcare",
+        "title": "Should I inform my university if I am hospitalized?",
+        "shortAnswer": "Yes. Notify your university if your illness affects your studies.",
+        "answer": "Inform your faculty or international office if hospitalization or illness prevents you from attending classes or examinations.",
+        "keywords": [
+            "hospital",
+            "university",
+            "absence"
+        ],
+        "tips": [
+            "Keep medical certificates if required by your university."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_045",
+        "category": "Healthcare",
+        "title": "Can I receive medical certificates from Latvian doctors?",
+        "shortAnswer": "Yes. Doctors can issue medical certificates when appropriate.",
+        "answer": "Medical certificates may be required for universities or employers. Ask your healthcare provider during your appointment.",
+        "keywords": [
+            "medical certificate",
+            "doctor",
+            "university"
+        ],
+        "tips": [
+            "Request the certificate before leaving the clinic."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service",
+                "url": "https://www.vmnvd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_046",
+        "category": "Healthcare",
+        "title": "How can I protect myself during flu season?",
+        "shortAnswer": "Practice good hygiene and consider seasonal vaccination.",
+        "answer": "Wash your hands regularly, avoid close contact with sick individuals, maintain a healthy lifestyle and follow public health recommendations.",
+        "keywords": [
+            "flu",
+            "influenza",
+            "prevention"
+        ],
+        "tips": [
+            "Carry hand sanitizer when traveling on public transport."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service",
+                "url": "https://www.vmnvd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_047",
+        "category": "Healthcare",
+        "title": "What should I do if I experience food poisoning?",
+        "shortAnswer": "Stay hydrated and seek medical attention if symptoms are severe.",
+        "answer": "Most mild cases improve with rest and hydration. Persistent vomiting, dehydration or severe symptoms require medical evaluation.",
+        "keywords": [
+            "food poisoning",
+            "stomach",
+            "doctor"
+        ],
+        "tips": [
+            "Drink plenty of fluids to prevent dehydration."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service",
+                "url": "https://www.vmnvd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_048",
+        "category": "Healthcare",
+        "title": "Can I visit a private medical clinic?",
+        "shortAnswer": "Yes. Latvia has many private healthcare providers.",
+        "answer": "Private clinics often offer shorter waiting times. Costs and insurance coverage depend on your healthcare policy.",
+        "keywords": [
+            "private clinic",
+            "healthcare",
+            "insurance"
+        ],
+        "tips": [
+            "Confirm consultation fees before booking."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service",
+                "url": "https://www.vmnvd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_049",
+        "category": "Healthcare",
+        "title": "Should I carry emergency medical information?",
+        "shortAnswer": "Yes. Keep allergy and medical information easily accessible.",
+        "answer": "Emergency responders can provide better care when they know about allergies, chronic illnesses and current medications.",
+        "keywords": [
+            "medical ID",
+            "allergies",
+            "emergency"
+        ],
+        "tips": [
+            "Enable your phone's Medical ID feature if available."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service",
+                "url": "https://www.vmnvd.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "healthcare_050",
+        "category": "Healthcare",
+        "title": "What are the most important healthcare preparations for living in Latvia?",
+        "shortAnswer": "Have insurance, know emergency numbers, identify nearby clinics and keep your medical records organized.",
+        "answer": "Before beginning your studies, ensure your health insurance is valid, save the emergency number 112, locate nearby hospitals and pharmacies, carry important medical documents and understand how to access healthcare services covered by your insurance.",
+        "keywords": [
+            "healthcare",
+            "insurance",
+            "112",
+            "clinic",
+            "student"
+        ],
+        "tips": [
+            "Being prepared before you become ill can save valuable time during an emergency."
+        ],
+        "officialSources": [
+            {
+                "name": "National Health Service",
+                "url": "https://www.vmnvd.gov.lv/en"
+            },
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    }
+]
