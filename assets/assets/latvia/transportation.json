@@ -1,0 +1,1177 @@
+[
+    {
+        "id": "transport_001",
+        "category": "Transportation",
+        "title": "What public transport is available in Riga?",
+        "shortAnswer": "Riga has buses, trams and trolleybuses operated by Rīgas Satiksme.",
+        "answer": "The city's public transport network consists of buses, trams and trolleybuses covering most parts of Riga. Services generally operate from early morning until late evening.",
+        "keywords": [
+            "bus",
+            "tram",
+            "trolleybus",
+            "public transport",
+            "riga"
+        ],
+        "tips": [
+            "Google Maps provides accurate public transport routes in Riga."
+        ],
+        "officialSources": [
+            {
+                "name": "Rīgas Satiksme",
+                "url": "https://www.rigassatiksme.lv/en/"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_002",
+        "category": "Transportation",
+        "title": "How do I buy a bus or tram ticket?",
+        "shortAnswer": "Tickets can be purchased using official ticketing options provided by Rīgas Satiksme.",
+        "answer": "Passengers should purchase or activate a valid ticket before travelling according to current Rīgas Satiksme procedures.",
+        "keywords": [
+            "ticket",
+            "bus ticket",
+            "tram ticket"
+        ],
+        "tips": [
+            "Always keep your ticket until your journey ends."
+        ],
+        "officialSources": [
+            {
+                "name": "Rīgas Satiksme",
+                "url": "https://www.rigassatiksme.lv/en/"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_003",
+        "category": "Transportation",
+        "title": "Do students receive public transport discounts?",
+        "shortAnswer": "Some students may qualify depending on eligibility requirements.",
+        "answer": "Student discounts depend on eligibility rules established by transport authorities and educational institutions.",
+        "keywords": [
+            "student",
+            "discount",
+            "public transport"
+        ],
+        "tips": [
+            "Ask your university about available transport discounts."
+        ],
+        "officialSources": [
+            {
+                "name": "Rīgas Satiksme",
+                "url": "https://www.rigassatiksme.lv/en/"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_004",
+        "category": "Transportation",
+        "title": "What happens if I travel without a valid ticket?",
+        "shortAnswer": "Passengers may receive a penalty.",
+        "answer": "Ticket inspectors may check passengers during the journey. Travelling without a valid ticket can result in a fine.",
+        "keywords": [
+            "fine",
+            "ticket inspection",
+            "penalty"
+        ],
+        "tips": [
+            "Purchase your ticket before boarding whenever required."
+        ],
+        "officialSources": [
+            {
+                "name": "Rīgas Satiksme",
+                "url": "https://www.rigassatiksme.lv/en/"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_005",
+        "category": "Transportation",
+        "title": "Can I use Google Maps for Riga public transport?",
+        "shortAnswer": "Yes.",
+        "answer": "Google Maps provides route planning for buses, trams and trolleybuses in Riga.",
+        "keywords": [
+            "google maps",
+            "navigation",
+            "bus route"
+        ],
+        "tips": [
+            "Enable live location for better navigation."
+        ],
+        "officialSources": [
+            {
+                "name": "Google Maps",
+                "url": "https://maps.google.com"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_006",
+        "category": "Transportation",
+        "title": "How do I travel from Riga Airport to the city centre?",
+        "shortAnswer": "Public buses and taxis connect the airport with central Riga.",
+        "answer": "Passengers can use airport bus services or licensed taxis to travel between Riga Airport and the city centre.",
+        "keywords": [
+            "airport",
+            "RIX",
+            "bus",
+            "taxi"
+        ],
+        "tips": [
+            "Use licensed taxis or official ride-hailing services."
+        ],
+        "officialSources": [
+            {
+                "name": "Riga Airport",
+                "url": "https://www.riga-airport.com"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_007",
+        "category": "Transportation",
+        "title": "Can I take luggage on public transport?",
+        "shortAnswer": "Yes, subject to transport operator rules.",
+        "answer": "Passengers may carry luggage provided it does not obstruct other passengers or violate transport regulations.",
+        "keywords": [
+            "luggage",
+            "bags",
+            "suitcase"
+        ],
+        "tips": [
+            "Keep large luggage close to you."
+        ],
+        "officialSources": [
+            {
+                "name": "Rīgas Satiksme",
+                "url": "https://www.rigassatiksme.lv/en/"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_008",
+        "category": "Transportation",
+        "title": "Is Uber available in Latvia?",
+        "shortAnswer": "Ride-hailing services operate in Latvia.",
+        "answer": "Availability of ride-hailing services depends on your location and current regulations.",
+        "keywords": [
+            "uber",
+            "bolt",
+            "taxi"
+        ],
+        "tips": [
+            "Compare fares before booking."
+        ],
+        "officialSources": [
+            {
+                "name": "Riga Airport",
+                "url": "https://www.riga-airport.com"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_009",
+        "category": "Transportation",
+        "title": "Can I travel between Latvian cities by train?",
+        "shortAnswer": "Yes.",
+        "answer": "Latvia has an intercity rail network connecting Riga with many other cities and towns.",
+        "keywords": [
+            "train",
+            "railway",
+            "intercity"
+        ],
+        "tips": [
+            "Book early during holidays."
+        ],
+        "officialSources": [
+            {
+                "name": "Vivi",
+                "url": "https://www.vivi.lv/en/"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_010",
+        "category": "Transportation",
+        "title": "Which transport app should I install after arriving in Latvia?",
+        "shortAnswer": "Install navigation and official public transport applications.",
+        "answer": "Navigation apps and official transport applications help with route planning, schedules and ticket information.",
+        "keywords": [
+            "apps",
+            "google maps",
+            "transport app"
+        ],
+        "tips": [
+            "Download maps for offline use before travelling."
+        ],
+        "officialSources": [
+            {
+                "name": "Rīgas Satiksme",
+                "url": "https://www.rigassatiksme.lv/en/"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_011",
+        "category": "Transportation",
+        "title": "Can I use the same ticket on buses, trams and trolleybuses?",
+        "shortAnswer": "Many ticket types are valid across the Rīgas Satiksme network.",
+        "answer": "Ticket validity depends on the ticket type purchased. Always check the conditions before travelling.",
+        "keywords": [
+            "ticket",
+            "bus",
+            "tram",
+            "trolleybus",
+            "single ticket"
+        ],
+        "tips": [
+            "Read ticket validity before boarding."
+        ],
+        "officialSources": [
+            {
+                "name": "Rīgas Satiksme",
+                "url": "https://www.rigassatiksme.lv/en/"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_012",
+        "category": "Transportation",
+        "title": "Do buses in Riga operate every day?",
+        "shortAnswer": "Yes, although schedules vary on weekends and holidays.",
+        "answer": "Most routes operate daily, but frequency may be reduced during weekends, public holidays and late evenings.",
+        "keywords": [
+            "schedule",
+            "weekend",
+            "holiday",
+            "bus"
+        ],
+        "tips": [
+            "Check live departure times before leaving."
+        ],
+        "officialSources": [
+            {
+                "name": "Rīgas Satiksme",
+                "url": "https://www.rigassatiksme.lv/en/"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_013",
+        "category": "Transportation",
+        "title": "Can I take my bicycle on public transport?",
+        "shortAnswer": "Rules depend on the transport operator and available space.",
+        "answer": "Some services allow bicycles under specific conditions. Always follow operator guidelines and staff instructions.",
+        "keywords": [
+            "bicycle",
+            "bike",
+            "cycle"
+        ],
+        "tips": [
+            "Avoid travelling during rush hour with a bicycle."
+        ],
+        "officialSources": [
+            {
+                "name": "Rīgas Satiksme",
+                "url": "https://www.rigassatiksme.lv/en/"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_014",
+        "category": "Transportation",
+        "title": "Are pets allowed on public transport?",
+        "shortAnswer": "Yes, subject to operator rules.",
+        "answer": "Passengers travelling with pets should follow transport regulations regarding carriers, leashes and safety.",
+        "keywords": [
+            "pets",
+            "dog",
+            "cat"
+        ],
+        "tips": [
+            "Carry small pets in an appropriate carrier."
+        ],
+        "officialSources": [
+            {
+                "name": "Rīgas Satiksme",
+                "url": "https://www.rigassatiksme.lv/en/"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_015",
+        "category": "Transportation",
+        "title": "Is public transport safe at night?",
+        "shortAnswer": "Generally yes, but stay aware of your surroundings.",
+        "answer": "Riga's public transport is generally considered safe. As with any city, remain alert and protect your belongings.",
+        "keywords": [
+            "night",
+            "safe",
+            "security"
+        ],
+        "tips": [
+            "Travel with friends if possible during very late hours."
+        ],
+        "officialSources": [
+            {
+                "name": "Rīgas Satiksme",
+                "url": "https://www.rigassatiksme.lv/en/"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_016",
+        "category": "Transportation",
+        "title": "Can I pay the bus driver for a ticket?",
+        "shortAnswer": "Ticket purchase methods depend on current operator policy.",
+        "answer": "Purchase options may change over time. Always check the latest official ticket purchasing methods before travelling.",
+        "keywords": [
+            "driver",
+            "cash",
+            "ticket"
+        ],
+        "tips": [
+            "Buying tickets before travel is usually the easiest option."
+        ],
+        "officialSources": [
+            {
+                "name": "Rīgas Satiksme",
+                "url": "https://www.rigassatiksme.lv/en/"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_017",
+        "category": "Transportation",
+        "title": "How early should I arrive at Riga Airport?",
+        "shortAnswer": "Airlines generally recommend arriving well before departure.",
+        "answer": "Arrival time depends on your airline, destination and baggage requirements. Check your airline's recommendations.",
+        "keywords": [
+            "airport",
+            "flight",
+            "departure"
+        ],
+        "tips": [
+            "Allow extra time during busy travel seasons."
+        ],
+        "officialSources": [
+            {
+                "name": "Riga Airport",
+                "url": "https://www.riga-airport.com"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_018",
+        "category": "Transportation",
+        "title": "Can I use contactless payment on public transport?",
+        "shortAnswer": "Available payment methods depend on the operator.",
+        "answer": "Transport payment systems may support contactless payments or mobile solutions depending on current services.",
+        "keywords": [
+            "contactless",
+            "credit card",
+            "payment"
+        ],
+        "tips": [
+            "Check official payment options before travelling."
+        ],
+        "officialSources": [
+            {
+                "name": "Rīgas Satiksme",
+                "url": "https://www.rigassatiksme.lv/en/"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_019",
+        "category": "Transportation",
+        "title": "Can I travel from Riga to other Baltic countries by bus?",
+        "shortAnswer": "Yes.",
+        "answer": "International coach services connect Riga with cities in Estonia, Lithuania and other European countries.",
+        "keywords": [
+            "bus",
+            "estonia",
+            "lithuania",
+            "international"
+        ],
+        "tips": [
+            "Carry your passport or residence documents when travelling internationally."
+        ],
+        "officialSources": [
+            {
+                "name": "Lux Express",
+                "url": "https://luxexpress.eu"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_020",
+        "category": "Transportation",
+        "title": "Which ride-hailing apps are commonly used in Latvia?",
+        "shortAnswer": "Bolt is widely used, and other services may also be available.",
+        "answer": "Ride-hailing applications provide an easy way to book taxis and compare fares directly from your phone.",
+        "keywords": [
+            "bolt",
+            "uber",
+            "taxi",
+            "ride"
+        ],
+        "tips": [
+            "Verify the vehicle registration before entering."
+        ],
+        "officialSources": [
+            {
+                "name": "Bolt",
+                "url": "https://bolt.eu"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_021",
+        "category": "Transportation",
+        "title": "What is the cheapest way to travel around Riga?",
+        "shortAnswer": "Public transport is usually the most affordable option.",
+        "answer": "Buses, trams and trolleybuses provide extensive coverage across Riga and are generally the most economical way to travel.",
+        "keywords": [
+            "cheap",
+            "budget",
+            "bus",
+            "tram",
+            "student",
+            "travel"
+        ],
+        "tips": [
+            "Consider purchasing longer-duration tickets if you travel daily."
+        ],
+        "officialSources": [
+            {
+                "name": "Rīgas Satiksme",
+                "url": "https://www.rigassatiksme.lv/en/"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_022",
+        "category": "Transportation",
+        "title": "Can I reach Riga Airport by public transport?",
+        "shortAnswer": "Yes.",
+        "answer": "Regular public transport connects Riga Airport with the city centre throughout the day.",
+        "keywords": [
+            "airport",
+            "bus",
+            "RIX",
+            "public transport"
+        ],
+        "tips": [
+            "Allow additional travel time during rush hour."
+        ],
+        "officialSources": [
+            {
+                "name": "Riga Airport",
+                "url": "https://www.riga-airport.com"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_023",
+        "category": "Transportation",
+        "title": "Can I use Google Maps for buses and trams in Riga?",
+        "shortAnswer": "Yes.",
+        "answer": "Google Maps provides route planning and estimated arrival times for most public transport services in Riga.",
+        "keywords": [
+            "google maps",
+            "navigation",
+            "bus",
+            "tram"
+        ],
+        "tips": [
+            "Enable live location for more accurate directions."
+        ],
+        "officialSources": [
+            {
+                "name": "Google Maps",
+                "url": "https://maps.google.com"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_024",
+        "category": "Transportation",
+        "title": "How do I know which bus to take?",
+        "shortAnswer": "Use route planners or information displayed at bus stops.",
+        "answer": "Public transport stops display route numbers and destinations. Mobile navigation apps can also suggest the best route.",
+        "keywords": [
+            "route",
+            "bus stop",
+            "navigation"
+        ],
+        "tips": [
+            "Verify the destination shown on the vehicle before boarding."
+        ],
+        "officialSources": [
+            {
+                "name": "Rīgas Satiksme",
+                "url": "https://www.rigassatiksme.lv/en/"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_025",
+        "category": "Transportation",
+        "title": "Do buses usually arrive on time?",
+        "shortAnswer": "They generally follow published schedules but delays may occur.",
+        "answer": "Traffic, weather and road conditions may affect arrival times.",
+        "keywords": [
+            "delay",
+            "schedule",
+            "bus timing"
+        ],
+        "tips": [
+            "Leave a few minutes earlier for important appointments."
+        ],
+        "officialSources": [
+            {
+                "name": "Rīgas Satiksme",
+                "url": "https://www.rigassatiksme.lv/en/"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_026",
+        "category": "Transportation",
+        "title": "Can I take food or drinks onto public transport?",
+        "shortAnswer": "Follow operator rules and avoid disturbing other passengers.",
+        "answer": "Passengers should keep vehicles clean and avoid behaviour that inconveniences others.",
+        "keywords": [
+            "food",
+            "drink",
+            "bus etiquette"
+        ],
+        "tips": [
+            "Avoid eating messy food during busy hours."
+        ],
+        "officialSources": [
+            {
+                "name": "Rīgas Satiksme",
+                "url": "https://www.rigassatiksme.lv/en/"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_027",
+        "category": "Transportation",
+        "title": "Is public transport wheelchair accessible?",
+        "shortAnswer": "Many modern vehicles provide accessibility features.",
+        "answer": "Accessibility varies by vehicle and route. Many buses and trams include low-floor access.",
+        "keywords": [
+            "wheelchair",
+            "accessible",
+            "disabled"
+        ],
+        "tips": [
+            "Check accessibility information before travelling if needed."
+        ],
+        "officialSources": [
+            {
+                "name": "Rīgas Satiksme",
+                "url": "https://www.rigassatiksme.lv/en/"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_028",
+        "category": "Transportation",
+        "title": "Can I travel to Jurmala by train?",
+        "shortAnswer": "Yes.",
+        "answer": "Frequent train services connect Riga with Jurmala throughout the year.",
+        "keywords": [
+            "Jurmala",
+            "train",
+            "beach"
+        ],
+        "tips": [
+            "Jurmala is one of the most popular day trips from Riga."
+        ],
+        "officialSources": [
+            {
+                "name": "Vivi",
+                "url": "https://www.vivi.lv/en/"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_029",
+        "category": "Transportation",
+        "title": "Can I travel from Riga to Daugavpils by train?",
+        "shortAnswer": "Yes.",
+        "answer": "Intercity train services connect Riga with Daugavpils and several other Latvian cities.",
+        "keywords": [
+            "Daugavpils",
+            "train",
+            "intercity"
+        ],
+        "tips": [
+            "Book early during weekends and holidays."
+        ],
+        "officialSources": [
+            {
+                "name": "Vivi",
+                "url": "https://www.vivi.lv/en/"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_030",
+        "category": "Transportation",
+        "title": "What should I do if I miss my bus?",
+        "shortAnswer": "Check the next available service.",
+        "answer": "Public transport services usually operate at regular intervals on busy routes. Use a journey planner to find the next departure.",
+        "keywords": [
+            "missed bus",
+            "next bus",
+            "schedule"
+        ],
+        "tips": [
+            "Keep a transport app installed for real-time departures."
+        ],
+        "officialSources": [
+            {
+                "name": "Rīgas Satiksme",
+                "url": "https://www.rigassatiksme.lv/en/"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_031",
+        "category": "Transportation",
+        "title": "How do I travel from Riga Airport to Old Town?",
+        "shortAnswer": "Public buses and taxis connect the airport with Riga Old Town.",
+        "answer": "After arriving at Riga Airport, you can use public transport or licensed taxis to reach Vecrīga (Old Town). Journey times vary depending on traffic.",
+        "keywords": [
+            "airport",
+            "old town",
+            "vecriga",
+            "rix"
+        ],
+        "tips": [
+            "Use Google Maps for the quickest route."
+        ],
+        "officialSources": [
+            {
+                "name": "Riga Airport",
+                "url": "https://www.riga-airport.com"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_032",
+        "category": "Transportation",
+        "title": "Is Bolt cheaper than a regular taxi?",
+        "shortAnswer": "Ride-hailing services often provide competitive pricing.",
+        "answer": "Prices depend on demand, distance and time of day. Compare fares before booking.",
+        "keywords": [
+            "bolt",
+            "taxi",
+            "ride",
+            "price"
+        ],
+        "tips": [
+            "Avoid unlicensed taxis."
+        ],
+        "officialSources": [
+            {
+                "name": "Bolt",
+                "url": "https://bolt.eu"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_033",
+        "category": "Transportation",
+        "title": "Can I pay for a Bolt ride using a credit card?",
+        "shortAnswer": "Yes.",
+        "answer": "Bolt supports several payment methods including bank cards depending on your account settings.",
+        "keywords": [
+            "bolt",
+            "payment",
+            "credit card"
+        ],
+        "tips": [
+            "Add your payment method before booking."
+        ],
+        "officialSources": [
+            {
+                "name": "Bolt",
+                "url": "https://bolt.eu"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_034",
+        "category": "Transportation",
+        "title": "Can I use electric scooters in Riga?",
+        "shortAnswer": "Yes.",
+        "answer": "Electric scooters are available from shared mobility providers in many parts of Riga.",
+        "keywords": [
+            "escooter",
+            "scooter",
+            "bolt scooter"
+        ],
+        "tips": [
+            "Park scooters only in permitted areas."
+        ],
+        "officialSources": [
+            {
+                "name": "Bolt",
+                "url": "https://bolt.eu"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_035",
+        "category": "Transportation",
+        "title": "Is cycling popular in Riga?",
+        "shortAnswer": "Yes.",
+        "answer": "Many residents use bicycles during warmer months. Dedicated cycling infrastructure is available in several areas.",
+        "keywords": [
+            "bike",
+            "cycling",
+            "bicycle"
+        ],
+        "tips": [
+            "Wear reflective clothing when riding after dark."
+        ],
+        "officialSources": [
+            {
+                "name": "Riga Municipality",
+                "url": "https://www.riga.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_036",
+        "category": "Transportation",
+        "title": "Can I travel with a suitcase on buses?",
+        "shortAnswer": "Yes.",
+        "answer": "Passengers may carry luggage provided it does not block doors or inconvenience other passengers.",
+        "keywords": [
+            "luggage",
+            "airport",
+            "suitcase"
+        ],
+        "tips": [
+            "Travel outside rush hour when carrying large luggage."
+        ],
+        "officialSources": [
+            {
+                "name": "Rīgas Satiksme",
+                "url": "https://www.rigassatiksme.lv/en/"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_037",
+        "category": "Transportation",
+        "title": "Can I travel to Sigulda by train?",
+        "shortAnswer": "Yes.",
+        "answer": "Sigulda is connected to Riga by regular passenger train services and is a popular weekend destination.",
+        "keywords": [
+            "sigulda",
+            "train",
+            "weekend"
+        ],
+        "tips": [
+            "Autumn is the most popular season to visit Sigulda."
+        ],
+        "officialSources": [
+            {
+                "name": "Vivi",
+                "url": "https://www.vivi.lv/en/"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_038",
+        "category": "Transportation",
+        "title": "Can I use public transport after midnight?",
+        "shortAnswer": "Some services continue to operate, but availability is limited.",
+        "answer": "Late-night transport depends on the route and day of the week. Always check current schedules.",
+        "keywords": [
+            "night bus",
+            "late night",
+            "schedule"
+        ],
+        "tips": [
+            "Have a taxi app available if public transport has stopped."
+        ],
+        "officialSources": [
+            {
+                "name": "Rīgas Satiksme",
+                "url": "https://www.rigassatiksme.lv/en/"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_039",
+        "category": "Transportation",
+        "title": "Can international students buy monthly transport passes?",
+        "shortAnswer": "Eligible students may purchase discounted passes where available.",
+        "answer": "Transport pass eligibility depends on student status and applicable regulations. Check with your university and transport provider.",
+        "keywords": [
+            "student pass",
+            "monthly pass",
+            "discount"
+        ],
+        "tips": [
+            "Ask your university's international office after enrollment."
+        ],
+        "officialSources": [
+            {
+                "name": "Rīgas Satiksme",
+                "url": "https://www.rigassatiksme.lv/en/"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_040",
+        "category": "Transportation",
+        "title": "Which transport option is best for new international students?",
+        "shortAnswer": "Public transport is usually the easiest and most economical choice.",
+        "answer": "Most international students rely on buses, trams and trolleybuses for daily travel. Ride-hailing services are convenient for airport transfers and late-night journeys.",
+        "keywords": [
+            "student",
+            "international",
+            "transport",
+            "public transport"
+        ],
+        "tips": [
+            "Install Google Maps and Bolt before arriving in Latvia."
+        ],
+        "officialSources": [
+            {
+                "name": "Rīgas Satiksme",
+                "url": "https://www.rigassatiksme.lv/en/"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_041",
+        "category": "Transportation",
+        "title": "Can I use Google Maps for walking directions in Riga?",
+        "shortAnswer": "Yes. Google Maps provides reliable walking routes throughout Riga.",
+        "answer": "Walking is a convenient way to explore central Riga. Google Maps can provide turn-by-turn walking directions to attractions, universities, shops and public transport stops.",
+        "keywords": [
+            "walking",
+            "google maps",
+            "directions",
+            "navigation"
+        ],
+        "tips": [
+            "Wear reflective clothing when walking at night during winter."
+        ],
+        "officialSources": [
+            {
+                "name": "Google Maps",
+                "url": "https://maps.google.com"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_042",
+        "category": "Transportation",
+        "title": "How do I travel between university campuses?",
+        "shortAnswer": "Use buses, trams or trolleybuses depending on the campus location.",
+        "answer": "Most university buildings are connected by Riga's public transport network. Google Maps can help identify the quickest route.",
+        "keywords": [
+            "campus",
+            "university",
+            "student",
+            "bus"
+        ],
+        "tips": [
+            "Save your campus locations in Google Maps."
+        ],
+        "officialSources": [
+            {
+                "name": "Rīgas Satiksme",
+                "url": "https://www.rigassatiksme.lv/en/"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_043",
+        "category": "Transportation",
+        "title": "Is public transport crowded during rush hour?",
+        "shortAnswer": "Yes, especially on weekday mornings and evenings.",
+        "answer": "Weekday commuter periods are usually the busiest. Allow extra travel time if you have classes or appointments.",
+        "keywords": [
+            "rush hour",
+            "crowded",
+            "peak time"
+        ],
+        "tips": [
+            "Travel a little earlier when possible."
+        ],
+        "officialSources": [
+            {
+                "name": "Rīgas Satiksme",
+                "url": "https://www.rigassatiksme.lv/en/"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_044",
+        "category": "Transportation",
+        "title": "Can I charge my phone on public transport?",
+        "shortAnswer": "Not all vehicles provide charging facilities.",
+        "answer": "Some newer vehicles may include USB charging ports, but availability is not guaranteed.",
+        "keywords": [
+            "phone",
+            "usb",
+            "charging"
+        ],
+        "tips": [
+            "Carry a power bank during long days."
+        ],
+        "officialSources": [
+            {
+                "name": "Rīgas Satiksme",
+                "url": "https://www.rigassatiksme.lv/en/"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_045",
+        "category": "Transportation",
+        "title": "Can I take a bicycle on a train?",
+        "shortAnswer": "Yes, depending on the train service and available space.",
+        "answer": "Many passenger trains permit bicycles, although specific conditions may apply.",
+        "keywords": [
+            "bike",
+            "train",
+            "bicycle"
+        ],
+        "tips": [
+            "Check bicycle policies before travelling."
+        ],
+        "officialSources": [
+            {
+                "name": "Vivi",
+                "url": "https://www.vivi.lv/en/"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_046",
+        "category": "Transportation",
+        "title": "Can I use contactless cards on trains?",
+        "shortAnswer": "Payment methods depend on the ticket purchasing system.",
+        "answer": "Modern payment options are available for many ticket purchases. Verify accepted payment methods before travelling.",
+        "keywords": [
+            "contactless",
+            "train",
+            "payment"
+        ],
+        "tips": [
+            "Carry a backup payment method."
+        ],
+        "officialSources": [
+            {
+                "name": "Vivi",
+                "url": "https://www.vivi.lv/en/"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_047",
+        "category": "Transportation",
+        "title": "Should I validate my transport ticket?",
+        "shortAnswer": "Yes, if required by the ticket type.",
+        "answer": "Some tickets require activation or validation before travel. Follow the instructions provided when purchasing your ticket.",
+        "keywords": [
+            "validate",
+            "ticket",
+            "activation"
+        ],
+        "tips": [
+            "Validate immediately after boarding if required."
+        ],
+        "officialSources": [
+            {
+                "name": "Rīgas Satiksme",
+                "url": "https://www.rigassatiksme.lv/en/"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_048",
+        "category": "Transportation",
+        "title": "What should I do if I lose something on public transport?",
+        "shortAnswer": "Contact the transport operator's lost property service.",
+        "answer": "Lost items may be returned to the transport operator's lost and found office if recovered.",
+        "keywords": [
+            "lost",
+            "found",
+            "wallet",
+            "phone"
+        ],
+        "tips": [
+            "Report lost items as soon as possible."
+        ],
+        "officialSources": [
+            {
+                "name": "Rīgas Satiksme",
+                "url": "https://www.rigassatiksme.lv/en/"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_049",
+        "category": "Transportation",
+        "title": "Can I use public transport with large shopping bags?",
+        "shortAnswer": "Yes, provided they do not inconvenience other passengers.",
+        "answer": "Passengers carrying shopping bags should avoid blocking aisles or doorways, especially during busy periods.",
+        "keywords": [
+            "shopping",
+            "bags",
+            "luggage"
+        ],
+        "tips": [
+            "Travel outside peak hours after large shopping trips."
+        ],
+        "officialSources": [
+            {
+                "name": "Rīgas Satiksme",
+                "url": "https://www.rigassatiksme.lv/en/"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "transport_050",
+        "category": "Transportation",
+        "title": "What transport apps should every international student install?",
+        "shortAnswer": "Google Maps, Bolt and the official Rīgas Satiksme app are recommended.",
+        "answer": "These applications help with route planning, ride-hailing, public transport schedules and navigating everyday life in Riga.",
+        "keywords": [
+            "apps",
+            "google maps",
+            "bolt",
+            "student",
+            "transport"
+        ],
+        "tips": [
+            "Install them before arriving in Latvia if possible."
+        ],
+        "officialSources": [
+            {
+                "name": "Rīgas Satiksme",
+                "url": "https://www.rigassatiksme.lv/en/"
+            },
+            {
+                "name": "Bolt",
+                "url": "https://bolt.eu"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    }
+]

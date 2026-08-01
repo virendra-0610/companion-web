@@ -865,30 +865,6 @@
         "confidence": "officialGovernment"
     },
     {
-        "id": "immigration_036",
-        "category": "Immigration",
-        "title": "What role does the Latvian embassy play in immigration?",
-        "shortAnswer": "Embassies provide visa information and accept certain immigration applications abroad.",
-        "answer": "Latvian embassies and consulates help foreign nationals with visa applications, document requirements and pre-arrival immigration guidance.",
-        "keywords": [
-            "immigration",
-            "embassy",
-            "visa",
-            "consulate"
-        ],
-        "tips": [
-            "Contact the nearest Latvian embassy before travelling if you need visa assistance."
-        ],
-        "officialSources": [
-            {
-                "name": "Ministry of Foreign Affairs Latvia",
-                "url": "https://www.mfa.gov.lv"
-            }
-        ],
-        "lastVerified": "2026-08-01",
-        "confidence": "officialGovernment"
-    },
-    {
         "id": "immigration_037",
         "category": "Immigration",
         "title": "How can newcomers avoid immigration scams in Latvia?",
