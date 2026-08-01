@@ -1,0 +1,77 @@
+[
+  {
+    "id": "drive001",
+    "category": "Driving",
+    "title": "Can I use my Indian driving licence?",
+    "shortAnswer": "Depends on residency and current Latvian regulations.",
+    "answer": "Foreign driving licences may be accepted only under certain conditions. Students staying long term may eventually need a Latvian or recognised licence. Always verify the latest requirements before driving.",
+    "keywords": [
+      "driving",
+      "licence",
+      "license",
+      "india",
+      "car"
+    ],
+    "tips": [
+      "Carry your original licence.",
+      "Carry passport.",
+      "Check CSDD requirements."
+    ],
+    "sources": [
+      {
+        "name": "CSDD",
+        "url": "https://www.csdd.lv/en"
+      }
+    ],
+    "lastVerified": "2026-08-01"
+  },
+  {
+    "id": "transport001",
+    "category": "Transportation",
+    "title": "Do I need to validate my bus ticket?",
+    "shortAnswer": "Always follow the transport operator's ticket validation rules.",
+    "answer": "Depending on the ticket type, validation may be required before or immediately after boarding. Follow the official transport operator's instructions.",
+    "keywords": [
+      "bus",
+      "tram",
+      "ticket",
+      "transport",
+      "validate"
+    ],
+    "tips": [
+      "Don't throw away your ticket.",
+      "Keep it until your journey ends."
+    ],
+    "sources": [
+      {
+        "name": "Rīgas Satiksme",
+        "url": "https://www.rigassatiksme.lv/en"
+      }
+    ],
+    "lastVerified": "2026-08-01"
+  },
+  {
+    "id": "student001",
+    "category": "Student",
+    "title": "Can international students work?",
+    "shortAnswer": "Check the conditions attached to your residence permit and applicable regulations.",
+    "answer": "Work permissions depend on your immigration status and applicable Latvian regulations. Review the current requirements before accepting employment.",
+    "keywords": [
+      "student",
+      "job",
+      "work",
+      "part time"
+    ],
+    "tips": [
+      "Keep your residence permit valid.",
+      "Understand employment conditions before starting work."
+    ],
+    "sources": [
+      {
+        "name": "OCMA",
+        "url": "https://www.pmlp.gov.lv/en"
+      }
+    ],
+    "lastVerified": "2026-08-01"
+  }
+]
