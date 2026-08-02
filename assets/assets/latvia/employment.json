@@ -1,239 +1,240 @@
-,
-{
-    "id": "employment_001",
-    "category": "Employment",
-    "title": "Can international students work while studying in Latvia?",
-    "shortAnswer": "Yes. International students may work according to the conditions of their residence permit and Latvian law.",
-    "answer": "Employment rights depend on your residence status and immigration regulations. Always verify the latest rules before accepting employment.",
-    "keywords": [
-        "work",
-        "part-time",
-        "student job",
-        "employment"
-    ],
-    "tips": [
-        "Confirm your work eligibility before signing an employment contract."
-    ],
-    "officialSources": [
-        {
-            "name": "Office of Citizenship and Migration Affairs",
-            "url": "https://www.pmlp.gov.lv/en"
-        }
-    ],
-    "lastVerified": "2026-08-01",
-    "confidence": "officialGovernment"
-},
-{
-    "id": "employment_002",
-    "category": "Employment",
-    "title": "Where can students find part-time jobs?",
-    "shortAnswer": "University career centers and online job portals are good starting points.",
-    "answer": "Students commonly find jobs through university career services, company websites and Latvian online job portals.",
-    "keywords": [
-        "job",
-        "career",
-        "part-time",
-        "vacancy"
-    ],
-    "tips": [
-        "Prepare a professional CV before applying."
-    ],
-    "officialSources": [
-        {
-            "name": "Study in Latvia",
-            "url": "https://studyinlatvia.lv"
-        }
-    ],
-    "lastVerified": "2026-08-01",
-    "confidence": "officialGovernment"
-},
-{
-    "id": "employment_003",
-    "category": "Employment",
-    "title": "Do I need a Latvian bank account for salary payments?",
-    "shortAnswer": "Most employers prefer paying salaries by bank transfer.",
-    "answer": "Employers generally transfer salaries directly into your bank account, making a local account convenient.",
-    "keywords": [
-        "salary",
-        "bank account",
-        "employment"
-    ],
-    "tips": [
-        "Provide your correct IBAN to your employer."
-    ],
-    "officialSources": [
-        {
-            "name": "State Revenue Service",
-            "url": "https://www.vid.gov.lv/en"
-        }
-    ],
-    "lastVerified": "2026-08-01",
-    "confidence": "officialGovernment"
-},
-{
-    "id": "employment_004",
-    "category": "Employment",
-    "title": "Can I work without an employment contract?",
-    "shortAnswer": "No. Always work under a legal employment agreement.",
-    "answer": "A written employment contract protects both the employee and employer by defining wages, duties and working conditions.",
-    "keywords": [
-        "employment contract",
-        "job",
-        "legal"
-    ],
-    "tips": [
-        "Read your contract carefully before signing."
-    ],
-    "officialSources": [
-        {
-            "name": "State Labour Inspectorate",
-            "url": "https://www.vdi.gov.lv/en"
-        }
-    ],
-    "lastVerified": "2026-08-01",
-    "confidence": "officialGovernment"
-},
-{
-    "id": "employment_005",
-    "category": "Employment",
-    "title": "What documents may an employer request?",
-    "shortAnswer": "Employers commonly request identification and proof of work eligibility.",
-    "answer": "Depending on the position, employers may ask for identification documents, residence documents, tax information and educational records.",
-    "keywords": [
-        "documents",
-        "employer",
-        "passport"
-    ],
-    "tips": [
-        "Keep digital copies of important employment documents."
-    ],
-    "officialSources": [
-        {
-            "name": "State Labour Inspectorate",
-            "url": "https://www.vdi.gov.lv/en"
-        }
-    ],
-    "lastVerified": "2026-08-01",
-    "confidence": "officialGovernment"
-},
-{
-    "id": "employment_006",
-    "category": "Employment",
-    "title": "Should I prepare a CV before arriving in Latvia?",
-    "shortAnswer": "Yes. A professional CV increases your chances of finding work quickly.",
-    "answer": "Most employers require a CV when applying for part-time or full-time positions.",
-    "keywords": [
-        "CV",
-        "resume",
-        "job application"
-    ],
-    "tips": [
-        "Keep both PDF and editable versions of your CV."
-    ],
-    "officialSources": [
-        {
-            "name": "Study in Latvia",
-            "url": "https://studyinlatvia.lv"
-        }
-    ],
-    "lastVerified": "2026-08-01",
-    "confidence": "officialGovernment"
-},
-{
-    "id": "employment_007",
-    "category": "Employment",
-    "title": "Is English sufficient for finding a part-time job?",
-    "shortAnswer": "Some jobs require only English, while others require Latvian or Russian.",
-    "answer": "Language requirements depend on the employer and customer interaction involved in the role.",
-    "keywords": [
-        "English",
-        "Latvian",
-        "language",
-        "job"
-    ],
-    "tips": [
-        "Learning basic Latvian improves employment opportunities."
-    ],
-    "officialSources": [
-        {
-            "name": "Study in Latvia",
-            "url": "https://studyinlatvia.lv"
-        }
-    ],
-    "lastVerified": "2026-08-01",
-    "confidence": "officialGovernment"
-},
-{
-    "id": "employment_008",
-    "category": "Employment",
-    "title": "Can my university help me find employment?",
-    "shortAnswer": "Many universities provide career services for students.",
-    "answer": "Career centers often organize job fairs, workshops and employer networking events.",
-    "keywords": [
-        "career center",
-        "university",
-        "employment"
-    ],
-    "tips": [
-        "Attend university career events regularly."
-    ],
-    "officialSources": [
-        {
-            "name": "Study in Latvia",
-            "url": "https://studyinlatvia.lv"
-        }
-    ],
-    "lastVerified": "2026-08-01",
-    "confidence": "officialGovernment"
-},
-{
-    "id": "employment_009",
-    "category": "Employment",
-    "title": "Should I keep copies of my employment documents?",
-    "shortAnswer": "Yes. Store copies of contracts and salary records.",
-    "answer": "Keeping employment records helps resolve disputes and supports future administrative processes.",
-    "keywords": [
-        "employment",
-        "contract",
-        "salary"
-    ],
-    "tips": [
-        "Store digital backups in cloud storage."
-    ],
-    "officialSources": [
-        {
-            "name": "State Labour Inspectorate",
-            "url": "https://www.vdi.gov.lv/en"
-        }
-    ],
-    "lastVerified": "2026-08-01",
-    "confidence": "officialGovernment"
-},
-{
-    "id": "employment_010",
-    "category": "Employment",
-    "title": "What is the best employment advice for international students?",
-    "shortAnswer": "Work legally, balance studies and employment, and understand your rights.",
-    "answer": "Always verify your work eligibility, sign a proper employment contract, understand your salary and tax obligations, and ensure that work does not negatively affect your academic performance.",
-    "keywords": [
-        "employment",
-        "student",
-        "part-time",
-        "rights"
-    ],
-    "tips": [
-        "Academics should remain your primary focus while studying abroad."
-    ],
-    "officialSources": [
-        {
-            "name": "State Labour Inspectorate",
-            "url": "https://www.vdi.gov.lv/en"
-        },
-        {
-            "name": "Office of Citizenship and Migration Affairs",
-            "url": "https://www.pmlp.gov.lv/en"
-        }
-    ],
+[
+    {
+        "id": "employment_001",
+        "category": "Employment",
+        "title": "Can international students work while studying in Latvia?",
+        "shortAnswer": "Yes. International students may work according to the conditions of their residence permit and Latvian law.",
+        "answer": "Employment rights depend on your residence status and immigration regulations. Always verify the latest rules before accepting employment.",
+        "keywords": [
+            "work",
+            "part-time",
+            "student job",
+            "employment"
+        ],
+        "tips": [
+            "Confirm your work eligibility before signing an employment contract."
+        ],
+        "officialSources": [
+            {
+                "name": "Office of Citizenship and Migration Affairs",
+                "url": "https://www.pmlp.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "employment_002",
+        "category": "Employment",
+        "title": "Where can students find part-time jobs?",
+        "shortAnswer": "University career centers and online job portals are good starting points.",
+        "answer": "Students commonly find jobs through university career services, company websites and Latvian online job portals.",
+        "keywords": [
+            "job",
+            "career",
+            "part-time",
+            "vacancy"
+        ],
+        "tips": [
+            "Prepare a professional CV before applying."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "employment_003",
+        "category": "Employment",
+        "title": "Do I need a Latvian bank account for salary payments?",
+        "shortAnswer": "Most employers prefer paying salaries by bank transfer.",
+        "answer": "Employers generally transfer salaries directly into your bank account, making a local account convenient.",
+        "keywords": [
+            "salary",
+            "bank account",
+            "employment"
+        ],
+        "tips": [
+            "Provide your correct IBAN to your employer."
+        ],
+        "officialSources": [
+            {
+                "name": "State Revenue Service",
+                "url": "https://www.vid.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "employment_004",
+        "category": "Employment",
+        "title": "Can I work without an employment contract?",
+        "shortAnswer": "No. Always work under a legal employment agreement.",
+        "answer": "A written employment contract protects both the employee and employer by defining wages, duties and working conditions.",
+        "keywords": [
+            "employment contract",
+            "job",
+            "legal"
+        ],
+        "tips": [
+            "Read your contract carefully before signing."
+        ],
+        "officialSources": [
+            {
+                "name": "State Labour Inspectorate",
+                "url": "https://www.vdi.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "employment_005",
+        "category": "Employment",
+        "title": "What documents may an employer request?",
+        "shortAnswer": "Employers commonly request identification and proof of work eligibility.",
+        "answer": "Depending on the position, employers may ask for identification documents, residence documents, tax information and educational records.",
+        "keywords": [
+            "documents",
+            "employer",
+            "passport"
+        ],
+        "tips": [
+            "Keep digital copies of important employment documents."
+        ],
+        "officialSources": [
+            {
+                "name": "State Labour Inspectorate",
+                "url": "https://www.vdi.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "employment_006",
+        "category": "Employment",
+        "title": "Should I prepare a CV before arriving in Latvia?",
+        "shortAnswer": "Yes. A professional CV increases your chances of finding work quickly.",
+        "answer": "Most employers require a CV when applying for part-time or full-time positions.",
+        "keywords": [
+            "CV",
+            "resume",
+            "job application"
+        ],
+        "tips": [
+            "Keep both PDF and editable versions of your CV."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "employment_007",
+        "category": "Employment",
+        "title": "Is English sufficient for finding a part-time job?",
+        "shortAnswer": "Some jobs require only English, while others require Latvian or Russian.",
+        "answer": "Language requirements depend on the employer and customer interaction involved in the role.",
+        "keywords": [
+            "English",
+            "Latvian",
+            "language",
+            "job"
+        ],
+        "tips": [
+            "Learning basic Latvian improves employment opportunities."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "employment_008",
+        "category": "Employment",
+        "title": "Can my university help me find employment?",
+        "shortAnswer": "Many universities provide career services for students.",
+        "answer": "Career centers often organize job fairs, workshops and employer networking events.",
+        "keywords": [
+            "career center",
+            "university",
+            "employment"
+        ],
+        "tips": [
+            "Attend university career events regularly."
+        ],
+        "officialSources": [
+            {
+                "name": "Study in Latvia",
+                "url": "https://studyinlatvia.lv"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "employment_009",
+        "category": "Employment",
+        "title": "Should I keep copies of my employment documents?",
+        "shortAnswer": "Yes. Store copies of contracts and salary records.",
+        "answer": "Keeping employment records helps resolve disputes and supports future administrative processes.",
+        "keywords": [
+            "employment",
+            "contract",
+            "salary"
+        ],
+        "tips": [
+            "Store digital backups in cloud storage."
+        ],
+        "officialSources": [
+            {
+                "name": "State Labour Inspectorate",
+                "url": "https://www.vdi.gov.lv/en"
+            }
+        ],
+        "lastVerified": "2026-08-01",
+        "confidence": "officialGovernment"
+    },
+    {
+        "id": "employment_010",
+        "category": "Employment",
+        "title": "What is the best employment advice for international students?",
+        "shortAnswer": "Work legally, balance studies and employment, and understand your rights.",
+        "answer": "Always verify your work eligibility, sign a proper employment contract, understand your salary and tax obligations, and ensure that work does not negatively affect your academic performance.",
+        "keywords": [
+            "employment",
+            "student",
+            "part-time",
+            "rights"
+        ],
+        "tips": [
+            "Academics should remain your primary focus while studying abroad."
+        ],
+        "officialSources": [
+            {
+                "name": "State Labour Inspectorate",
+                "url": "https://www.vdi.gov.lv/en"
+            },
+            {
+                "name": "Office of Citizenship and Migration Affairs",
+                "url": "https://www.pmlp.gov.lv/en"
+            }
+        ]
+    },
     {
         "id": "employment_011",
         "category": "Employment",
@@ -1098,4 +1099,4 @@
         "lastVerified": "2026-08-01",
         "confidence": "officialGovernment"
     }
-}
+]
